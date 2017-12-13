@@ -25,7 +25,7 @@
                         <div class="icon-block-description">
                             <span id="enlace"><a onclick="ejecuta_ajax('3.2.1.php','','contenido1.3')">La Ciudad</a></span><br>
 							<span id="enlace"><a onclick="ejecuta_ajax('3.2.2.php','','contenido1.3')" >Indicadores</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('3.2.3.php','','contenido1.3')" >Diagnóstico Sintético</a></span><br>
+							<span id="enlace"><a onclick="ejecuta_ajax('3.2.3.php','','contenido1.3')" >Diagnóstico Sintético</a></span><br>
 
                        
                         </div>
@@ -37,7 +37,7 @@
                         <!--Icon-->
                        
                         <!--Icon Block Description-->
-                        <div class="icon-block-description" id="contenido1.2" style="overflow-y: scroll; height: 400px;">
+                        <div class="icon-block-description" id="contenido1.3" style="overflow-y: scroll; height: 400px;">
                             
                             
                         </p>

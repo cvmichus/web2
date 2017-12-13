@@ -12,6 +12,15 @@
 /*------------------------------------------------------------------------------------------*/
 /* 1. Website Default Styling */
 /*------------------------------------------------------------------------------------------*/
+    @font-face {
+    font-family: "Rokkitt";
+    src: url(../fonts/Rokkitt/Rokkitt-Regular.ttf) format("truetype");
+}
+
+    @font-face {
+    font-family: "Montserrat";
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf) format("truetype");
+}
 
 
 body {
@@ -22,17 +31,17 @@ body {
 /* Default Link Color */
 
 a, .la-ball-triangle-path {
-    color:#d2b356;
+    color:#000;
 }
 
 a:hover, #header.nav-solid nav a:hover {
-    color:#d2b356;
+    color:#000;
 }
 
 /* Default Icon Color */
 
 .icon i {
-    color:#d2b356;
+    color:#000;
 }
 
 /* Border Color */
@@ -61,15 +70,17 @@ a:hover, #header.nav-solid nav a:hover {
 /* Navigation Colors when the Navigation is sticky and solid */ 
 
 #header.nav-solid, #header.nav-solid a, #header.nav-solid i, #nav-mobile ul li a {
-    color:#333;
+    color:#000;
+	
 }
 
 
 /* Navigation Active State */
 
 #header.nav-solid .active {
-    color: #d2b356;
-    border-color: #d2b356;
+    color: #000;
+    border-color: #000;
+	font-weight:bold;
 }    
 
 
@@ -135,15 +146,6 @@ a:hover, #header.nav-solid nav a:hover {
 
 body {
 
-    @font-face {
-    font-family: "NombreFont";
-    src: url(../template/fonts/archivofont.ttf) format("truetype");
-}
-
-    @font-face {
-    font-family: "Montserrat";
-    src: url(../fonts/Montserrat/Montserrat-Regular.ttf) format("truetype");
-}
 
     font-family: Rokkit;
     font-size:15px;
@@ -173,7 +175,7 @@ body {
 /* Banner Typography */
 
 #banner h1 {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Rokkit;
     font-size:62px;
     line-height:60px;
     font-weight:800;
@@ -181,7 +183,7 @@ body {
 }
 
 #banner h2 {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Rokkit;
     font-size:18px;
     font-weight:300;
     color:#111;
@@ -191,14 +193,14 @@ body {
 /* Section Title and Subtitle */
 
 .section-title {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Rokkit;
     font-size: 34px; 
     font-weight:700;
     color:#111;
 }
 
 .section-subtitle {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Rokkit;
     font-size: 16px;
     font-weight:300;
     color:#9c9c9c;
@@ -220,42 +222,42 @@ body {
 /* Standard Headings h1-h6 */
 
 h1 {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Rokkit;
     font-size: 40px; 
     font-weight:300;
     color:#111;
 }
 
 h2 {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Rokkit;
     font-size: 34px; 
     font-weight:300;
     color:#111;
 }
 
 h3 {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Rokkit;
     font-size: 30px; 
     font-weight:700;
     color:#111;
 }
 
 h4 {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Rokkit;
     font-size: 18px; 
     font-weight:400;
     color:#111;
 }
 
 h5 {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+  font-family: Rokkit;
     font-size: 16px; 
     font-weight:400;
     color:#111;
 }
 
 h6 {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+  font-family: Rokkit;
     font-size: 14px; 
     font-weight:400;
     color:#111;
@@ -272,7 +274,7 @@ h6 {
 /* Button Text */
 
 .button, input[type="submit"]  {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Montserrat;
     font-size:14px;
     font-weight:bold;
     color:#111;
@@ -300,7 +302,7 @@ h6 {
 /* Button Text */
 
 #banner .button {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Rokkit;
     font-size:16px;
     color:#111;
 }
@@ -326,7 +328,7 @@ h6 {
 /*------------------------------------------------------------------------------------------*/
 
 #landing-footer, #landing-footer p, #landing-footer a {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Montserrat;
     font-size:12px;
     font-weight:normal;
     color:#999;

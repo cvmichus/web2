@@ -4,12 +4,11 @@
                 <div class="col-3">
                     <div class="section-heading">
                     
-                        <h1 class="section-title" style="font-size:14pt;font-family:Montserrat;">Políticas territoriales y urbanas</h1>
+                        <h1 class="section-title" style="font-size:14pt;font-family:Montserrat;">Plan de Acción</h1>
                        <span><a style="font-size:14pt;font-family:Montserrat;" href="#about" onclick="cargar('#contenido1', '1.1.php')" >Zee</a></span><br>
-					   
-						<span><a style="font-size:14pt;font-family:Montserrat;" href="#about" onclick="cargar('#contenido1', '1.3.php')" >Corresponsabilidades en la ZEE</a></span><br>
-						<span><a  style="font-size:14pt;font-family:Montserrat;" href="#about" onclick="cargar('#contenido1', '1.4.php')" >Marco normativo urbano y de desarrollo industrial</a></span><br>
-						<span><a style="font-size:14pt;font-family:Montserrat;" href="#about" onclick="cargar('#contenido1', '1.5.php')" >Plan de Acción</a></span><br>
+					   <span style="font-size:14pt;font-family:Montserrat;"><a href="#about" onclick="cargar('#contenido1', '1.2.php')" >Políticas Urbanas y Territoriales</a></span><br>
+						<span style="font-size:14pt;font-family:Montserrat;"><a href="#about" onclick="cargar('#contenido1', '1.3.php')" >Corresponsabilidades en la ZEE</a></span><br>
+							<span style="font-size:14pt;font-family:Montserrat;"><a href="#about" onclick="cargar('#contenido1', '1.4.php')" >Marco normativo urbano y de desarrollo industrial</a></span><br>
                     </div>
 
                 </div>
@@ -22,16 +21,9 @@
                        
                         <!--Icon Block Description-->
                         <div class="icon-block-description">
-                            <span id="enlace"><a onclick="ejecuta_ajax('1.2.1.php','','contenido1.2')">SEDATU</a></span><br>
-							<span id="enlace"><a onclick="ejecuta_ajax('1.2.2.php','','contenido1.2')" >Zonas Económicas Especiales (ZEE)</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.3.php','','contenido1.2')" >Gobiernos del Estatales</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.4.php','','contenido1.2')" >Gobierno Municipal</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.5.php','','contenido1.2')" >BID</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.6.php','','contenido1.2')" >Secretaria de Turismo</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.7.php','','contenido1.2')" >SCT</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.8.php','','contenido1.2')" >ASA</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.9.php','','contenido1.2')" >Ferrocarriles </a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.10.php','','contenido1.2')" >Banobras </a></span><br>
+                            <span id="enlace"><a onclick="ejecuta_ajax('1.5.1.php','','contenido1.2')">¿Qué es una ciudad sostenible? </a></span><br>
+							<span id="enlace"><a onclick="ejecuta_ajax('1.5.2.php','','contenido1.2')" >¿Qué son ciudades emergentes? </a></span><br>
+							<span id="enlace"><a onclick="ejecuta_ajax('1.5.3.php','','contenido1.2')" >¿Qué son ciudades emergentes? </a></span><br>			
                        
                         </div>
                     </div>

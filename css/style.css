@@ -29,6 +29,16 @@
 /*------------------------------------------------------------------------------------------*/
 /* 1. Defaults & Reset of specific styles across browsers */
 /*------------------------------------------------------------------------------------------*/
+    @font-face {
+    font-family: "Rokkitt";
+    src: url(../fonts/Rokkitt/Rokkitt-Regular.ttf) format("truetype");
+}
+
+    @font-face {
+    font-family: "Montserrat";
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf) format("truetype");
+}
+
 
 *, *:before, *:after {
     -webkit-box-sizing: border-box;
@@ -482,15 +492,17 @@ section {
 /* --------- 2.4 Navigation ---------- */
 
 #header {
-    font-size: 13px;
+    font-size: 12px;
+	font-family:Montserrat;
 }
 
 #header aside {
     float: right;
+	
 }
 
 #header nav ul {
-    text-transform: uppercase;
+    text-transform: capitalize ;
 
 }
 
@@ -498,7 +510,7 @@ section {
     height: 71px;
     line-height: 71px;
     display: block;
-    padding: 0 10px;
+    padding: 0 20px;
 }
 
 #header nav a:hover {
@@ -508,10 +520,12 @@ section {
 /*Navigation Solid*/
 
 #header.nav-solid [class*='col-'] {
-    padding: 0 20px;
+	font-family: Montserrat;
+    padding: 0 30px;
 }
 
 #header.nav-solid {
+	font-family: Montserrat;
     background: #fff;
     box-shadow: 2px 0px 3px rgba(0, 0, 0, 0.2);
     position: fixed !important;
@@ -519,6 +533,7 @@ section {
 }
 
 #header.nav-solid nav a {
+	font-family: Montserrat;
     border-bottom: 3px solid;
     border-color: #fff;
     -webkit-transition: all 0.3s ease-out;
@@ -528,6 +543,7 @@ section {
 }
 
 #header.nav-solid nav a:hover {
+	font-family: Montserrat;
     opacity: 1;
 }
 
@@ -543,7 +559,7 @@ section {
 
 #header.nav-solid .social-icons a:hover {
     opacity: 1;
-    color: #e4473c;
+    color: #000;
 }
 
 /* Responsive Nav Styling */
@@ -931,7 +947,7 @@ h6 {
 
 /* --------- 6.3 Testimonials ---------- */
 
-.testimonial {
+.ciudades {
     padding: 15px;
 }
 
@@ -939,27 +955,27 @@ blockquote {
     position: relative;
 }
 
-.testimonial img {
+.ciudades img {
     max-height: 120px;
     border-radius: 250em;
 }
 
-.testimonial footer {
+.ciudades footer {
     padding-top: 12px;
 }
 
 /* Style Classic - Avatar above Testimonial */
 
-.testimonial.classic img {
+.ciudades.classic img {
     display: inline-block;
     margin-bottom: 25px;
 }
 
-.testimonial.classic q {
+.ciudades.classic q {
     display: block;
 }
 
-.testimonial.classic footer:before {
+.ciudades.classic footer:before {
     display: block;
     content: "";
     width: 30px;
@@ -969,11 +985,11 @@ blockquote {
 
 /* Style Big */
 
-.testimonial.bigtest {
+.ciudades.bigtest {
     padding-top: 0;
 }
 
-.testimonial.bigtest q {
+.ciudades.bigtest q {
     font-size: 22px;
 }
 
@@ -2090,6 +2106,7 @@ blockquote {
 
     nav#nav-main {
         display: none;
+		
     }
 
     nav#nav-mobile {

@@ -4,13 +4,14 @@
                 <div class="col-3">
                     <div class="section-heading">
                     
-                        <h1 class="section-title" style="font-size:14pt;font-family:Montserrat;">Políticas territoriales y urbanas</h1>
-                       <span><a style="font-size:14pt;font-family:Montserrat;" href="#about" onclick="cargar('#contenido1', '1.1.php')" >Zee</a></span><br>
-					   
-						<span><a style="font-size:14pt;font-family:Montserrat;" href="#about" onclick="cargar('#contenido1', '1.3.php')" >Corresponsabilidades en la ZEE</a></span><br>
-						<span><a  style="font-size:14pt;font-family:Montserrat;" href="#about" onclick="cargar('#contenido1', '1.4.php')" >Marco normativo urbano y de desarrollo industrial</a></span><br>
-						<span><a style="font-size:14pt;font-family:Montserrat;" href="#about" onclick="cargar('#contenido1', '1.5.php')" >Plan de Acción</a></span><br>
-                    </div>
+                        <h1 class="section-title" style="font-size:14pt;font-family:Montserrat;">Tapachula</h1><br>
+						<img src="images/tapachula.jpg" class="img-rounded" width="50%"><br>
+                      <!--
+					   <span><a style="font-size:14pt;font-family:Montserrat;" href="#about" onclick="cargar('#contenido3', '3.1.php')" >Tapachula</a></span><br>
+					  -->
+					   <span style="font-size:14pt;font-family:Montserrat;"><a href="#ciudades" onclick="cargar('#contenido3', '3.2.php')" >Lázaro Cárdenas</a></span><br>
+					   <img src="images/LAZARO 1.png" class="img-rounded" width="50%"><br>
+						    </div>
 
                 </div>
 
@@ -22,16 +23,10 @@
                        
                         <!--Icon Block Description-->
                         <div class="icon-block-description">
-                            <span id="enlace"><a onclick="ejecuta_ajax('1.2.1.php','','contenido1.2')">SEDATU</a></span><br>
-							<span id="enlace"><a onclick="ejecuta_ajax('1.2.2.php','','contenido1.2')" >Zonas Económicas Especiales (ZEE)</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.3.php','','contenido1.2')" >Gobiernos del Estatales</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.4.php','','contenido1.2')" >Gobierno Municipal</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.5.php','','contenido1.2')" >BID</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.6.php','','contenido1.2')" >Secretaria de Turismo</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.7.php','','contenido1.2')" >SCT</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.8.php','','contenido1.2')" >ASA</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.9.php','','contenido1.2')" >Ferrocarriles </a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.10.php','','contenido1.2')" >Banobras </a></span><br>
+                            <span id="enlace"><a onclick="ejecuta_ajax('3.1.1.php','','contenido1.3')">La Ciudad</a></span><br>
+							<span id="enlace"><a onclick="ejecuta_ajax('3.1.2.php','','contenido1.3')" >Indicadores</a></span><br>
+							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('3.1.3.php','','contenido1.3')" >Diagnóstico Sintético</a></span><br>
+
                        
                         </div>
                     </div>
@@ -138,3 +133,5 @@
 		}
 		
 		</style>
+		
+		

@@ -33,7 +33,7 @@
 
 
 </head>
-<body onload="cargar('#contenido1', '1.1.php')" >
+<body onload="cargar('#contenido1', '1.1.php');cargar3('#contenido3', '1.3.php')" >
 
 <!-- Preloader -->
 <div id="preloader">
@@ -76,23 +76,19 @@
                   
 
                     <!--Main Navigation-->
-                    <nav id="nav-main" style="font-family: Rokkitt; font-size: 10pt">
+                    <nav id="nav-main" >
                         <ul>
+                            
                             <li>
-                                <a href="#banner">Home</a>
+                                <a href="#about">Zee</a>
+                            </li>
+							 <li>
+                                <a href="#ciudades">Ciudades</a><!--ciudades-->
                             </li>
                             <li>
-                                <a href="#">Antecendentes</a>
+                                <a href="#planeacion">Planeacion</a>
                             </li>
-                            <li>
-                                <a href="#about">Zee y las instituciones</a>
-                            </li>
-                            <li>
-                                <a href="#services">Planeacion</a>
-                            </li>
-                            <li>
-                                <a href="#testimonials">Ciudades CES</a>
-                            </li>
+                           
                             <li>
                                 <a href="#clients">Gobernanza</a>
                             </li>
@@ -100,11 +96,9 @@
                                 <a href="#pricing">Insumos</a>
                             </li>
                             <li>
-                                <a href="#pricing">Planes</a>
+                                <a href="#pricing">Plan de accion</a>
                             </li>
-                            <li>
-                                <a href="#pricing">Glosario</a>
-                            </li>
+                            
                         </ul>
                     </nav>
                     <!--End of Main Navigation-->
@@ -118,7 +112,7 @@
 
     
     </header>
-        
+       
    <main id="content"  id="banner-content" class="row clearfix">
 
         <!--Introduction-->
@@ -129,8 +123,6 @@
                 <div class="col-3">
                     <div class="section-heading">
                     
-                        
-                        
                     </div>
 
                 </div>
@@ -140,10 +132,13 @@
                     <!--Icon Block-->
                     <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.1s">
                         <!--Icon-->
-                       
+							
                         <!--Icon Block Description-->
                         <div class="icon-block-description">
-                            <h1 style="font-size: 4.5em; color:#e3313d;"><div style="border-style: outset; border-width: 4px; border-color: #e3313d;">OTYDUZEE</div> </h1>
+						
+						 <video src="images/WhatsApp Video 2017-12-12 at 18.52.53.mp4" autoplay muted loop width="100%" height="auto"></video>
+						 
+                            <h1 style="font-size: 4.5em; color:#e3313d;"><div style="border-style: outset; border-width: 4px; border-color: #e3313d;">OTyDUZEE</div> </h1>
                             <br>
                             <p><center style="font-size: 1em; font-family: Monserrat" >ORDENAMIENTO TERRITORIAL Y DESARROLLO <BR>URBANO  PARA ZONAS ECONOMICAS</center></p>
                             <br><br>
@@ -162,29 +157,8 @@
                            
                         </div>
                     </div>
-                    <!--End of Icon Block-->
-
-                    <!--Icon Block-->
                    
-                    <!--End of Icon Block-->
-
-                    <!--Icon Block-->
-                   
-
-                     <!--Icon Block-->
                   
-                    <!--End of Icon Block-->
-
-                    <!--Icon Block-->
-                 
-                    <!--End of Icon Block-->
-
-                    <!--Icon Block-->
-                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
-                        <!--Icon-->
-                        
-                        
-                    </div>
                     <!--End of Icon Block-->
                     <!--End of Icon Block-->
                        
@@ -215,62 +189,41 @@
 
             </div>
                     
-                <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
-                <!--Icon-->
-                <style>
-                    .ul2 {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #fff;
+              
+        </section>
 
-}
 
-.li2 {
-    float: left;
-}
+		
+		 <section id="ciudades" class="introduction scrollto">
 
-.li2 a {
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 1em;
-    text-decoration: none;
-}
+            <div class="row clearfix" id="contenido3">
 
-.li2 a:hover {
-    color: #000;
-    font-weight: bold;
-    font-family: Monserrat;
-}
 
-                </style>
 
-                   <?php
-$secc = "h1";
-            ?>
-                        <ul class="ul2">
-                            <?php
-                                if ($secc == "h1") {
-                                    ?>
-                                          <li class="li2"><a href="#about" onclick="cargar('#contenido1', '1.1.php')" ><-</a></li>  
-                                    <?php
-                                }        
-                            ?>
-                      
-                        <li class="li2"><a href="#about" onclick="cargar('#contenido1', '1.2.php')" >1.2</a></li>
-                        <li class="li2"><a href="#about">1.3</a></li>
-                        <li class="li2"><a href="#about">1.4 </a></li>
-                        <li class="li2"><a href="#about">1.5</a></li>
-                        </ul>
-
-                </div>
+            </div>
+                    
+               
             
         </section>
+  
+
 
         <script>
 function cargar(div, desde)
+{
+     $(div).load(desde);
+}
+</script>
+
+        <script>
+function cargar2(div, desde)
+{
+     $(div).load(desde);
+}
+</script>
+
+ <script>
+function cargar3(div, desde)
 {
      $(div).load(desde);
 }

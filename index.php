@@ -161,9 +161,10 @@
                         <!--Icon Block Description-->
                        
 						
-						 <video src="images/WhatsApp Video 2017-12-12 at 18.52.53.mp4" autoplay muted loop width="100%" height="600px"></video>
-						 
-							<center  style="font-size: 3em; font-family: Rokkitt;color:#e3313d;font-weight:bold;">OTyDUZEE</center>
+
+							<center  style="font-size: 3em; font-family: Rokkitt;color:#e3313d;font-weight:bold;">
+														<img src="images/home.png" width="70%"><br>
+														OTyDUZEE</center>
                            
                             <p><center style="font-size: 1.5em; font-family: Rokkitt;font-weight:bold;" >ORDENAMIENTO TERRITORIAL Y DESARROLLO <BR>URBANO  PARA ZONAS ECONOMICAS</center></p>
                             <br><br>

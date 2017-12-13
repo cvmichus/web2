@@ -78,7 +78,38 @@
                     <!--Main Navigation-->
                     <nav id="nav-main" >
                         <ul>
-                            
+                            <li>
+                                <a></a>
+                            </li>
+							<li>
+                                <a></a>
+                            </li>
+							<li>
+                               <a></a>
+                            </li>
+							<li>
+                                <a></a>
+                            </li>
+							<li>
+                                <a></a>
+                            </li>
+							<li>
+                                <a></a>
+                            </li>
+							<li>
+                               <a></a>
+                            </li>
+							<li>
+                               <a></a>
+                            </li>
+							<li>
+                               <a></a>
+                            </li>
+							
+							<li>
+                               <a></a>
+                            </li>
+
                             <li>
                                 <a href="#about">Zee</a>
                             </li>
@@ -98,6 +129,9 @@
                             <li>
                                 <a href="#pricing">Plan de accion</a>
                             </li>
+							<li>
+                                <a href="#pricing">Glosario</a>
+                            </li>
                             
                         </ul>
                     </nav>
@@ -116,39 +150,30 @@
    <main id="content"  id="banner-content" class="row clearfix">
 
         <!--Introduction-->
-        <section id="about2" class="introduction scrollto">
+       
 
-            <div class="row clearfix">
-
-                <div class="col-3">
-                    <div class="section-heading">
-                    
-                    </div>
-
-                </div>
-
-                <div class="col-2-3">
+               <div class="col-1  icon-block icon-top wow fadeInUp">
 
                     <!--Icon Block-->
-                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="col-1 icon-block icon-top wow fadeInUp" data-wow-delay="0.1s">
                         <!--Icon-->
 							
                         <!--Icon Block Description-->
-                        <div class="icon-block-description">
+                       
 						
-						 <video src="images/WhatsApp Video 2017-12-12 at 18.52.53.mp4" autoplay muted loop width="100%" height="auto"></video>
+						 <video src="images/WhatsApp Video 2017-12-12 at 18.52.53.mp4" autoplay muted loop width="100%" height="600px"></video>
 						 
-                            <h1 style="font-size: 4.5em; color:#e3313d;"><div style="border-style: outset; border-width: 4px; border-color: #e3313d;">OTyDUZEE</div> </h1>
-                            <br>
-                            <p><center style="font-size: 1em; font-family: Monserrat" >ORDENAMIENTO TERRITORIAL Y DESARROLLO <BR>URBANO  PARA ZONAS ECONOMICAS</center></p>
+							<center  style="font-size: 3em; font-family: Rokkitt;color:#e3313d;font-weight:bold;">OTyDUZEE</center>
+                           
+                            <p><center style="font-size: 1.5em; font-family: Rokkitt;font-weight:bold;" >ORDENAMIENTO TERRITORIAL Y DESARROLLO <BR>URBANO  PARA ZONAS ECONOMICAS</center></p>
                             <br><br>
                        
-                        </div>
+                        
                     </div>
                     <!--End of Icon Block-->
 
                     <!--Icon Block-->
-                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.3s">
+                    <div  data-wow-delay="0.3s">
                         <!--Icon-->
                        
                         <!--Icon Block Description-->
@@ -165,10 +190,10 @@
 
                 </div>
 
-            </div>
+       
 
 
-        </section>
+     
         <!--End of Introduction-->
 
 

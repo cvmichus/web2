@@ -9,7 +9,7 @@
                       <!--
 					   <span><a style="font-size:14pt;font-family:Montserrat;" href="#about" onclick="cargar('#contenido3', '3.1.php')" >Tapachula</a></span><br>
 					  -->
-					   <span style="font-size:14pt;font-family:Montserrat;"><a href="#ciudades" onclick="cargar('#contenido3', '1.3.php')" >Tapachula</a></span><br>
+					   <span style="font-size:14pt;font-family:Montserrat;"><a href="#ciudades" onclick="cargar('#contenido3', '1.3.0.php')" >Tapachula</a></span><br>
 					   <img src="images/tapachula.jpg" class="img-rounded" width="50%"><br>
 						    </div>
 

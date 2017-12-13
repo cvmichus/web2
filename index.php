@@ -33,7 +33,7 @@
 
 
 </head>
-<body onload="cargar('#contenido1', '1.1.php');cargar3('#contenido3', '1.3.php')" >
+<body onload="cargar('#contenido1', '1.1.php');cargar3('#contenido3', '1.3.0.php')" >
 
 <!-- Preloader -->
 <div id="preloader">

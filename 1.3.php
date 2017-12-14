@@ -42,7 +42,7 @@
                         <!--Icon-->
                        
                         <!--Icon Block Description-->
-                        <div class="icon-block-description" id="contenido1.2" style="overflow-y: scroll; height: 400px;">
+                        <div class="icon-block-description" id="contenido1.2" style="overflow-y: scroll; height: 400px;width:600px">
                             
                             
                         </p>
@@ -104,7 +104,7 @@
 		
 		<style>
 		#enlace{
-		color: #7C7D83;
+		color: #1e2f43;
 		text-decoration: none;
 		cursor:pointer;
 		font-family:Montserrat;
@@ -113,7 +113,7 @@
 		}
 		
 		#enlace:hover { 
-		color: #1F1F20; 
+		color: #1e2f43; 
 		text-decoration: none; 
 		cursor:pointer;
 		font-family:Montserrat;
@@ -122,7 +122,7 @@
 		
 		
 		#enlace:visited { 
-		color: #1F1F20; 
+		color: #1e2f43; 
 		font weight:bolder;
 		text-decoration: none; 
 		font-family:Montserrat;
@@ -130,7 +130,7 @@
 		}
 		
 		#enlace:active { 
-		color: #1F1F20; 
+		color: #1e2f43; 
 		font weight:bolder;
 		text-decoration: none; 
 		font-family:Montserrat;

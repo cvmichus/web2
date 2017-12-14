@@ -1,12 +1,12 @@
                 <div class="col-3">
                     <div class="section-heading">
                     
-                        <h1 class="section-title" style="font-size:14pt;font-family:Montserrat;">ZEE</h1>
+                        <h1 class="section-title" style="font-size:14pt;font-family:Montserrat;color:#1e2f43;">ZEE</h1>
 						
-						<span style="font-size:14pt;font-family:Montserrat;"><a href="#about" onclick="cargar('#contenido1', '1.2.php')" >Políticas Urbanas y Territoriales</a></span><br>
-						<span style="font-size:14pt;font-family:Montserrat;"><a href="#about" onclick="cargar('#contenido1', '1.3.php')" >Corresponsabilidades en la ZEE</a></span><br>
-						<span style="font-size:14pt;font-family:Montserrat;"><a href="#about" onclick="cargar('#contenido1', '1.4.php')" >Marco normativo urbano y de desarrollo industrial</a></span><br>
-						<span style="font-size:14pt;font-family:Montserrat;"><a href="#about" onclick="cargar('#contenido1', '1.5.php')" >Plan de Acción</a></span><br>
+						<span style="font-size:14pt;font-family:Montserrat;color:#1e2f43;"><a href="#about" onclick="cargar('#contenido1', '1.2.php')" >Políticas Urbanas y Territoriales</a></span><br>
+						<span style="font-size:14pt;font-family:Montserrat;color:#1e2f43;"><a href="#about" onclick="cargar('#contenido1', '1.3.php')" >Corresponsabilidades en la ZEE</a></span><br>
+						<span style="font-size:14pt;font-family:Montserrat;color:#1e2f43;"><a href="#about" onclick="cargar('#contenido1', '1.4.php')" >Marco normativo urbano y de desarrollo industrial</a></span><br>
+						<span style="font-size:14pt;font-family:Montserrat;color:#1e2f43;"><a href="#about" onclick="cargar('#contenido1', '1.5.php')" >Plan de Acción</a></span><br>
 						
                         
                     </div>
@@ -35,7 +35,7 @@
                         <!--Icon-->
                        
                         <!--Icon Block Description-->
-                        <div class="icon-block-description" id="contenido1.1" style="overflow-y: scroll; height: 400px;">
+                        <div class="icon-block-description" id="contenido1.1" style="overflow-y: scroll; height: 400px;width:600px">
                             
                             
                         </div>
@@ -95,9 +95,9 @@
         </script>
 		
 		
-		<style>
+				<style>
 		#enlace{
-		color: #7C7D83;
+		color: #1e2f43;
 		text-decoration: none;
 		cursor:pointer;
 		font-family:Montserrat;
@@ -106,7 +106,7 @@
 		}
 		
 		#enlace:hover { 
-		color: #1F1F20; 
+		color: #1e2f43; 
 		text-decoration: none; 
 		cursor:pointer;
 		font-family:Montserrat;
@@ -115,7 +115,7 @@
 		
 		
 		#enlace:visited { 
-		color: #1F1F20; 
+		color: #1e2f43; 
 		font weight:bolder;
 		text-decoration: none; 
 		font-family:Montserrat;
@@ -123,7 +123,7 @@
 		}
 		
 		#enlace:active { 
-		color: #1F1F20; 
+		color: #1e2f43; 
 		font weight:bolder;
 		text-decoration: none; 
 		font-family:Montserrat;

@@ -11,10 +11,10 @@ Región Andina y el Pacífico, el sur-sureste tiene acceso a insumos y factores 
 
 <style>
 	p{
-		color: #000;
+		color: #1e2f43;
 		text-decoration: none;
 		font-family:Montserrat;
-		font-size:8pt;
+		font-size:11pt;
 		}
 	
 		</style>

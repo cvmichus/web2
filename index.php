@@ -163,10 +163,10 @@
 						
 
 							<center  style="font-size: 3em; font-family: Rokkitt;color:#e3313d;font-weight:bold;">
-														<img src="images/home.png" width="70%"><br>
+														<img src="images/home.png" width="60%"><br>
 														OTyDUZEE</center>
                            
-                            <p><center style="font-size: 1.5em; font-family: Rokkitt;font-weight:bold;" >ORDENAMIENTO TERRITORIAL Y DESARROLLO <BR>URBANO  PARA ZONAS ECONOMICAS</center></p>
+                            <p><center style="font-size: 1.5em; font-family: Rokkitt;font-weight:bold; color:#1e2f43;" >ORDENAMIENTO TERRITORIAL Y DESARROLLO <BR>URBANO  PARA ZONAS ECONOMICAS</center></p>
                             <br><br>
                        
                         

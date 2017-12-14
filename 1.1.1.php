@@ -5,10 +5,10 @@
 							 </p>
                  <style>
 	p{
-		color: #000;
+		color: #1e2f43;
 		text-decoration: none;
 		font-family:Montserrat;
-		font-size:8pt;
+		font-size:11pt;
 		}
 	
 		</style>

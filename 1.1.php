@@ -21,11 +21,11 @@
                        
                         <!--Icon Block Description-->
                         <div class="icon-block-description">
-                           
-							<span id="enlace"><a href="#about" onclick="ejecuta_ajax('1.1.1.php','','contenido1.1')" >¿Qué es una ZEE?</a></span><br>
-							<span id="enlace"><a href="#about" onclick="ejecuta_ajax('1.1.2.php','','contenido1.1')" >¿Cuáles son los objetivos?</a></span><br>
-							<span id="enlace"><a href="#about"onclick="ejecuta_ajax('1.1.3.php','','contenido1.1')" >¿Dónde se ubican las ZEE?</a></span><br>
-                       
+                           <ul>
+							<li onclick="ejecuta_ajax('1.1.1.php','','contenido1.1')" >¿Qué es una ZEE?</li><br>
+							<li onclick="ejecuta_ajax('1.1.2.php','','contenido1.1')">¿Cuáles son los objetivos?</li><br>
+							<li onclick="ejecuta_ajax('1.1.3.php','','contenido1.1')"  >¿Dónde se ubican las ZEE?</li><br>
+						</ul>	
                         </div>
                     </div>
                     <!--End of Icon Block-->
@@ -92,42 +92,43 @@
         xmlhttp.open("GET",archivo+"?"+parametros+"&x="+x, true);
         xmlhttp.send();
         }
+		
+		
+			var li = document.getElementsByTagName("li"),
+    forEach = Array.prototype.forEach;
+
+window.addEventListener("click", function(e){
+    forEach.call(li, function(a){
+        a.className = a === e.target ? "active" : "";
+    });
+}, false);
+
+
         </script>
 		
 		
 				<style>
-		#enlace{
+		li{
 		color: #1e2f43;
 		text-decoration: none;
-		cursor:pointer;
 		font-family:Montserrat;
-		font-size:10px;
+		font-size:11px;
 		font weight:bolder;
+		list-style:none;
 		}
 		
-		#enlace:hover { 
-		color: #1e2f43; 
-		text-decoration: none; 
-		cursor:pointer;
-		font-family:Montserrat;
-		font-size:12px;
+		li:hover { 
+		 cursor: pointer;
+		 font-size:9px;
+		 list-style:none;
 		}
 		
-		
-		#enlace:visited { 
-		color: #1e2f43; 
-		font weight:bolder;
-		text-decoration: none; 
+		.active { 
+		color:#1e2f43;
+		 font-weight: 900;
+		font-size:11px;
 		font-family:Montserrat;
-		font-size:14px;
-		}
-		
-		#enlace:active { 
-		color: #1e2f43; 
-		font weight:bolder;
-		text-decoration: none; 
-		font-family:Montserrat;
-		font-size:14px;
+		list-style:none;
 		}
 		
 		</style>

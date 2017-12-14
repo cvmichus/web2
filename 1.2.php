@@ -22,16 +22,17 @@
                        
                         <!--Icon Block Description-->
                         <div class="icon-block-description">
-                            <span id="enlace"><a onclick="ejecuta_ajax('1.2.1.php','','contenido1.2')">SEDATU</a></span><br>
-							<span id="enlace"><a onclick="ejecuta_ajax('1.2.2.php','','contenido1.2')" >Zonas Económicas Especiales (ZEE)</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.3.php','','contenido1.2')" >Gobiernos del Estatales</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.4.php','','contenido1.2')" >Gobierno Municipal</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.5.php','','contenido1.2')" >BID</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.6.php','','contenido1.2')" >Secretaria de Turismo</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.7.php','','contenido1.2')" >SCT</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.8.php','','contenido1.2')" >ASA</a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.9.php','','contenido1.2')" >Ferrocarriles </a></span><br>
-							<span><a id="enlace" href="#about" onclick="ejecuta_ajax('1.2.10.php','','contenido1.2')" >Banobras </a></span><br>
+						<ul>
+							<li onclick="ejecuta_ajax('1.2.1.php','','contenido1.2')">SEDATU</li><br>
+							<li onclick="ejecuta_ajax('1.2.2.php','','contenido1.2')" >Zonas Económicas Especiales (ZEE)</li><br>
+							<li href="#about" onclick="ejecuta_ajax('1.2.3.php','','contenido1.2')" >Gobiernos del Estatales</li><br>
+							<li onclick="ejecuta_ajax('1.2.4.php','','contenido1.2')" >Gobierno Municipal</li><br>
+							<li onclick="ejecuta_ajax('1.2.5.php','','contenido1.2')" >BID</li><br>
+							<li onclick="ejecuta_ajax('1.2.6.php','','contenido1.2')" >Secretaria de Turismo</li><br>
+							<li onclick="ejecuta_ajax('1.2.7.php','','contenido1.2')" >SCT</li><br>
+							<li onclick="ejecuta_ajax('1.2.8.php','','contenido1.2')" >ASA</li><br>
+							<li onclick="ejecuta_ajax('1.2.9.php','','contenido1.2')" >Ferrocarriles</li><br>
+							<li onclick="ejecuta_ajax('1.2.10.php','','contenido1.2')" >Banobras </li><br>
                        
                         </div>
                     </div>
@@ -100,41 +101,43 @@
         xmlhttp.open("GET",archivo+"?"+parametros+"&x="+x, true);
         xmlhttp.send();
         }
+		
+		
+			var li = document.getElementsByTagName("li"),
+    forEach = Array.prototype.forEach;
+
+window.addEventListener("click", function(e){
+    forEach.call(li, function(a){
+        a.className = a === e.target ? "active" : "";
+    });
+}, false);
+
+
         </script>
 		
-		<style>
-		#enlace{
+		
+				<style>
+		li{
 		color: #1e2f43;
 		text-decoration: none;
-		cursor:pointer;
 		font-family:Montserrat;
-		font-size:10px;
+		font-size:11px;
 		font weight:bolder;
+		list-style:none;
 		}
 		
-		#enlace:hover { 
-		color: #1e2f43; 
-		text-decoration: none; 
-		cursor:pointer;
-		font-family:Montserrat;
-		font-size:12px;
+		li:hover { 
+		 cursor: pointer;
+		 font-size:9px;
+		 list-style:none;
 		}
 		
-		
-		#enlace:visited { 
-		color: #1e2f43; 
-		font weight:bolder;
-		text-decoration: none; 
+		.active { 
+		color:#1e2f43;
+		 font-weight: 900;
+		font-size:11px;
 		font-family:Montserrat;
-		font-size:14px;
-		}
-		
-		#enlace:active { 
-		color: #1e2f43; 
-		font weight:bolder;
-		text-decoration: none; 
-		font-family:Montserrat;
-		font-size:14px;
+		list-style:none;
 		}
 		
 		</style>

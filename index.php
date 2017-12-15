@@ -1,298 +1,281 @@
+
 <!DOCTYPE html>
-<html>
-<head lang="en">
-    <meta charset="UTF-8">
+<html lang="en">
 
-    <!--Page Title-->
-    <title>OTYDUZEE</title>
+<head>
 
-    <!--Meta Keywords and Description-->
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <title>OTyDUZEE.COM</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="OTyDUZEE es constituido por un grupo .">
     <meta name="keywords" content="">
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+    <meta name="author" content="otyduzee.com">
 
-    <!--Favicon-->
-    <link rel="shortcut icon" href="images/favicon.ico" title="Favicon"/>
+    <!-- Bootstrap Css -->
+    <link href="bootstrap-assets/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Main CSS Files -->
-    <link rel="stylesheet" href="css/style.css">
-
-    <!-- Namari Color CSS -->
-    <link rel="stylesheet" href="css/namari-color.css">
-
-    <!--Icon Fonts - Font Awesome Icons-->
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-
-    <!-- Animate CSS-->
-    <link href="css/animate.css" rel="stylesheet" type="text/css">
-
-    <!--Google Webfonts-->
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <!-- Style -->
 
 
 
-
-</head>
-<body onload="cargar('#contenido1', '1.1.php');cargar3('#contenido3', '1.3.0.php')" >
-
-<!-- Preloader -->
-<div id="preloader">
-    <div id="status" class="la-ball-triangle-path">
-        <div></div>
-        <div></div>
-        <div></div>
-    </div>
-</div>
-<!--End of Preloader-->
-
-<div class="page-border" data-wow-duration="0.7s" data-wow-delay="0.2s">
-    <div class="top-border wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;"></div>
-    <div class="right-border wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;"></div>
-    <div class="bottom-border wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;"></div>
-    <div class="left-border wow fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;"></div>
-</div>
-
-<div id="wrapper">
-
-    <header id="banner" class="scrollto clearfix" data-enllax-ratio=".5">
-        <div id="header" class="nav-collapse">
-            <div class="row clearfix">
-                <div class="col-1">
-
-                    <!--Logo-->
-                    <div id="logo">
-
-                        <!--Logo that is shown on the banner-->
-                       
-                        <!--End of Banner Logo-->
-
-                        <!--The Logo that is shown on the sticky Navigation Bar-->
-                      
-                        <!--End of Navigation Logo-->
-
-                    </div>
-                    <!--End of Logo-->
-
-                  
-
-                    <!--Main Navigation-->
-                    <nav id="nav-main" >
-                        <ul>
-                            <li>
-                                <a></a>
-                            </li>
-							<li>
-                                <a></a>
-                            </li>
-							<li>
-                               <a></a>
-                            </li>
-							<li>
-                                <a></a>
-                            </li>
-							<li>
-                                <a></a>
-                            </li>
-							<li>
-                                <a></a>
-                            </li>
-							<li>
-                               <a></a>
-                            </li>
-							<li>
-                               <a></a>
-                            </li>
-							<li>
-                               <a></a>
-                            </li>
-							
-							<li>
-                               <a></a>
-                            </li>
-
-                            <li>
-                                <a href="#about">Zee</a>
-                            </li>
-							 <li>
-                                <a href="#ciudades">Ciudades</a><!--ciudades-->
-                            </li>
-                            <li>
-                                <a href="#planeacion">Planeacion</a>
-                            </li>
-                           
-                            <li>
-                                <a href="#clients">Gobernanza</a>
-                            </li>
-                            <li>
-                                <a href="#pricing">Insumos</a>
-                            </li>
-                            <li>
-                                <a href="#pricing">Plan de accion</a>
-                            </li>
-							<li>
-                                <a href="#pricing">Glosario</a>
-                            </li>
-                            
-                        </ul>
-                    </nav>
-                    <!--End of Main Navigation-->
-
-                    <div id="nav-trigger"><span></span></div>
-                    <nav id="nav-mobile"></nav>
-
-                </div>
-            </div>
-        </div><!--End of Header-->
-
+    <link href="plugins/owl-carousel/owl.carousel.css" rel="stylesheet">
+    <link href="plugins/owl-carousel/owl.theme.css" rel="stylesheet">
+    <link href="plugins/owl-carousel/owl.transitions.css" rel="stylesheet">
+    <link href="plugins/Lightbox/dist/css/lightbox.css" rel="stylesheet">
+    <link href="plugins/Icons/et-line-font/style.css" rel="stylesheet">
+    <link href="plugins/animate.css/animate.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
     
-    </header>
-       
-   <main id="content"  id="banner-content" class="row clearfix">
 
-        <!--Introduction-->
-       
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="bootstrap-assets/js/bootstrap.min.js"></script>
+    <script src="js/custom.js"></script>
+    <!-- JS PLUGINS -->
+    <script src="plugins/owl-carousel/owl.carousel.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
 
-               <div class="col-1  icon-block icon-top wow fadeInUp">
+    <script src="plugins/countTo/jquery.countTo.js"></script>
+    <script src="plugins/inview/jquery.inview.min.js"></script>
+    <script src="plugins/WOW/dist/wow.min.js"></script>
+    <!-- GOOGLE MAP -->
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
 
-                    <!--Icon Block-->
-                    <div class="col-1 icon-block icon-top wow fadeInUp" data-wow-delay="0.1s">
-                        <!--Icon-->
-							
-                        <!--Icon Block Description-->
-                       
-						
-
-							<center  style="font-size: 3em; font-family: Rokkitt;color:#e3313d;font-weight:bold;">
-														<img src="images/home.png" width="60%"><br>
-														OTyDUZEE</center>
-                           
-                            <p><center style="font-size: 1.5em; font-family: Rokkitt;font-weight:bold; color:#1e2f43;" >ORDENAMIENTO TERRITORIAL Y DESARROLLO <BR>URBANO  PARA ZONAS ECONOMICAS</center></p>
-                            <br><br>
-                       
-                        
-                    </div>
-                    <!--End of Icon Block-->
-
-                    <!--Icon Block-->
-                    <div  data-wow-delay="0.3s">
-                        <!--Icon-->
-                       
-                        <!--Icon Block Description-->
-                        <div class="icon-block-description">
-                            
-                           
-                        </div>
-                    </div>
-                   
-                  
-                    <!--End of Icon Block-->
-                    <!--End of Icon Block-->
-                       
-
-                </div>
-
-       
+    <!--SLIDE-->
+    <script src="slippry-master/dist/slippry.min.js"></script>
+    <link rel="stylesheet" href="slippry-master/dist/slippry.css">
 
 
-     
-        <!--End of Introduction-->
+    <link rel="stylesheet" type="text/css" href="shadowbox/shadowbox.css">
+      <script type="text/javascript" src="shadowbox/shadowbox.js"></script>
+      <script type="text/javascript">
+      Shadowbox.init({
+      language:   "es",
+      modal: true,
+      players:    ['html', 'iframe', 'qt', 'wmp', 'php', 'flv']
+      });
+      </script>
 
-
-       
-
-    </main>
-    <!--End Main Content Area-->
-    
-    <!--Main Content Area-->
-    <main id="content">
-
-        <!--Introduction-->
-        <section id="about" class="introduction scrollto">
-
-            <div class="row clearfix" id="contenido1">
-
-
-
-            </div>
-                    
-              
-        </section>
-
-
-		
-		 <section id="ciudades" class="introduction scrollto">
-
-            <div class="row clearfix" id="contenido3">
-
-
-
-            </div>
-                    
-               
-            
-        </section>
-  
-
+      <!-- PNotify -->
+        <script type="text/javascript" src="pnotify.custom.min.js"></script>
+        <link href="pnotify.custom.min.css" media="all" rel="stylesheet" type="text/css" />
+        <?php
+        if (isset($_GET['e']))  {
+        ?>
+        <script type="text/javascript">
+        $(function(){
+            new PNotify({
+                title: 'MENSAJE ENVIADO',
+                text: 'Se envio su mensaje con exito.',
+                type: "success",
+                sound: true
+            });
+        });
+        </script>
+        <?php
+      }
+        if (isset($_GET['f']))  {
+        ?>
+        <script type="text/javascript">
+        $(function(){
+            new PNotify({
+                title: 'MENSAJE NO ENVIADO',
+                text: 'Tu mensaje no se ha enviado,intentalo nuevamente.',
+                type: "error",
+                sound: true
+            });
+        });
+        </script>
 
         <script>
-function cargar(div, desde)
-{
-     $(div).load(desde);
-}
-</script>
+            $(function() {
+                var demo1 = $("#demo1").slippry({
+                    transition: 'fade',
+                    useCSS: true,
+                    // speed: 1000,
+                    // pause: 3000,
+                    auto: true,
+                    // preload: 'visible',
+                    // autoHover: false
+                });
 
-        <script>
-function cargar2(div, desde)
-{
-     $(div).load(desde);
-}
-</script>
+            });
+        </script>
 
- <script>
-function cargar3(div, desde)
-{
-     $(div).load(desde);
-}
-</script>
-        <!--End of Introduction-->
+        <?php
+      }
+        ?>
 
+        <script type="text/javascript">
+            $(".page-scroll").on("click", function(){
+                    $(".page-scroll").collapse("hide");
+            }
+        </script>
 
-       
+    <!-- Icons Font -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
-    </main>
-    <!--End Main Content Area-->
-
-
-    <!--Footer-->
-    <footer id="landing-footer" class="clearfix">
-        <div class="row clearfix">
-
-            <p id="copyright" class="col-2">desarrollado por <a href="#">Canvas.mx</a></p>
-
-            <!--Social Icons in Footer-->
-            
-            </ul>
-            <!--End of Social Icons in Footer-->
-        </div>
-    </footer>
-    <!--End of Footer-->
-
-</div>
-
-<!-- Include JavaScript resources -->
-<script src="js/jquery.1.8.3.min.js"></script>
-<script src="js/wow.min.js"></script>
-<script src="js/featherlight.min.js"></script>
-<script src="js/featherlight.gallery.min.js"></script>
-<script src="js/jquery.enllax.min.js"></script>
-<script src="js/jquery.scrollUp.min.js"></script>
-<script src="js/jquery.easing.min.js"></script>
-<script src="js/jquery.stickyNavbar.min.js"></script>
-<script src="js/jquery.waypoints.min.js"></script>
-<script src="js/images-loaded.min.js"></script>
-<script src="js/lightbox.min.js"></script>
-<script src="js/site.js"></script>
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 
 
 </body>
+
+</head>
+
+<body>
+    <!-- Preloader
+    ============================================= -->
+    <div  class="preloader"><i class="fa fa-circle-o-notch fa-spin fa-2x"></i></div>
+    <!-- Header
+    ============================================= -->
+    <section class="main-header">
+        <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+         
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav" >
+            
+          </ul>
+          <!--
+            navbar navbar-default navbar-static-top
+            navbar navbar-default navbar-fixed-top
+          -->
+          <ul class="nav navbar-nav navbar-right">
+          <!--
+        http://corporativomigas.ddns.net:8081/AeropuertoCGW/
+
+          -->
+							<li><a href="#services" class="page-scroll">Zee</a></li>
+                             <li><a href="#portfolio" class="page-scroll">Ciudades</a></li>
+                            <li><a href="#team" class="page-scroll">Planeacion</a></li>
+                            <li><a href="#contact" class="page-scroll">Gobernanza</a></li>
+							 <li><a href="#contact" class="page-scroll">Insumos</a></li>
+							  <li><a href="#contact" class="page-scroll">Plan de accion</a></li>
+							   <li><a href="#contact" class="page-scroll">Glosario</a></li>
+							 
+            <!--<li><a href="#">Accesar</a></li>-->
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    <!--<img src="img/separador.png" width="2%">-->
+     </nav> 
+
+	<!--SLIDE-->
+	<div id="conteiner">
+	<center >
+	<img src="home.png">
+	</center>
+	</div>
+	<!--SLIDE-->
+  
+    </section>
+
+    <!-- Welcome
+    ============================================= -->
+    <section id="welcome">
+        <div class="container">
+           <center  style="font-size: 3em; font-family: Rokkitt;color:#e3313d;font-weight:bold;letter-spacing: 10px;">
+														
+														OTyDUZEE</center>
+                           
+                            <p><center style="font-size: 1.5em; font-family: Rokkitt;font-weight:bold; color:#1e2f43;" >ORDENAMIENTO TERRITORIAL Y DESARROLLO <BR>URBANO  PARA ZONAS ECONOMICAS</center></p>
+                   </div>
+    </section>
+
+    <!-- Services
+    ============================================= -->
+    <section id="services">
+        <div class="container">
+          
+            <div class="services-box">
+                <div class="row wow fadeInUp" data-wow-delay=".3s">
+                    <div class="col-md-4">
+                       
+                        <div class="media-body">
+                             <h1 class="section-title" style="font-size:14pt;font-family:Montserrat;color:#1e2f43;">ZEE</h1>
+							 
+							 <span style="font-size:14pt;font-family:Montserrat;color:#1e2f43;"><a href="#about" onclick="cargar('#contenido1', '1.2.php')" >Políticas Urbanas y Territoriales</a></span><br>
+						<span style="font-size:14pt;font-family:Montserrat;color:#1e2f43;"><a href="#about" onclick="cargar('#contenido1', '1.3.php')" >Corresponsabilidades en la ZEE</a></span><br>
+						<span style="font-size:14pt;font-family:Montserrat;color:#1e2f43;"><a href="#about" onclick="cargar('#contenido1', '1.4.php')" >Marco normativo urbano y de desarrollo industrial</a></span><br>
+						<span style="font-size:14pt;font-family:Montserrat;color:#1e2f43;"><a href="#about" onclick="cargar('#contenido1', '1.5.php')" >Plan de Acción</a></span><br>
+						
+						   
+                             </div>
+                    </div>
+					
+                    <div class="col-md-4">
+                       <br><br>
+                        <div class="media-body">
+                           <ul style="list-style:none;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:14px;
+		font weight:bolder;">
+							<li onclick="ejecuta_ajax('1.1.1.php','','contenido1.1')" >¿Qué es una ZEE?</li><br>
+							<li onclick="ejecuta_ajax('1.1.2.php','','contenido1.1')">¿Cuáles son los objetivos?</li><br>
+							<li onclick="ejecuta_ajax('1.1.3.php','','contenido1.1')"  >¿Dónde se ubican las ZEE?</li><br>
+						</ul>	
+						  </div>
+
+                    </div>
+					
+                    <div class="col-md-4">
+                     
+                        <div class="media-body" id="contenido1.1" style="overflow-y: scroll; height: 300px;width:600px">
+                           
+                        </div>
+
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+
+          
+
+    </section>
+
+    
+</body>
+
+<script type="text/javascript">
+        function ejecuta_ajax(archivo, parametros, capa){
+        if (window.XMLHttpRequest)
+        {// code for IE7+, Firefox, Chrome, Opera, Safari
+        xmlhttp=new XMLHttpRequest();
+        }
+        else
+        {// code for IE6, IE5
+        xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+        }
+
+        xmlhttp.onreadystatechange=function()
+        {
+        if (xmlhttp.readyState==4 && xmlhttp.status==200)
+        {
+        document.getElementById(capa).innerHTML=xmlhttp.responseText;
+        }
+        }
+
+        x = Math.random()*99999999;
+        xmlhttp.open("GET",archivo+"?"+parametros+"&x="+x, true);
+        xmlhttp.send();
+        }
+		
+		
+
+        </script>
+
 </html>

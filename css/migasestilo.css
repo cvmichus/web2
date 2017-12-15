@@ -1,0 +1,126 @@
+@font-face {
+    font-family: "Calculator";
+    src: url(../fonts/digital-7.ttf) format("truetype");
+}
+
+#lab_precio{
+    font-family: Calculator; 
+    font-size: 3.0em; 
+    color:#ffffff;
+    width:20%;
+    height: 1.5em;
+    margin-right: 100px;
+    margin-left: 50px;
+    
+}
+
+@media (min-width: 200px) { 
+     #lab_precio{
+    font-family: Calculator; 
+    font-size: 2.0em; 
+    color:#ffffff;
+    width: 100%;
+    height: 1.5em;
+}
+
+ }
+
+
+@media (min-width: 300px) { 
+     #lab_precio{
+    font-family: Calculator; 
+    font-size: 3em; 
+    color:#ffffff;
+    width: 40%;
+      height: 1.4em;
+      float: right;
+    right: 5px;
+    bottom: 1px;
+}
+
+#logo{
+ width:50%;
+}
+
+ }
+
+
+@media (min-width: 576px) { 
+     #lab_precio{
+        font-family: Calculator; 
+    font-size: 3em; 
+    color:#ffffff;
+    width: 29%;
+      height: 1.3em;
+      float: right;
+    right: 100px;
+    bottom: 2px;
+    
+}
+
+#logo{
+    width:50%;
+}
+
+
+ }
+
+@media (min-width: 768px) {
+
+     #lab_precio{
+      font-family: Calculator; 
+    font-size: 4.8em; 
+    color:#ffffff;
+    width: 29%;
+      height: 1.3em;
+      float: right;
+    right: -70px;
+    bottom: 107px;
+}
+
+#logo{
+    width:50%;
+}
+
+
+}
+
+@media (min-width: 992px) { 
+
+     #lab_precio{
+    font-family: Calculator; 
+    font-size: 4.8em; 
+    color:#ffffff;
+    width: 19%;
+      height: 1.55em;
+      float: right;
+    right: 72px;
+    bottom: 125px;
+
+}
+#logo{
+    width:50%;
+}
+
+}
+
+@media (min-width: 1200px) { 
+
+     #lab_precio{
+    font-family: Calculator; 
+    font-size: 4.8em; 
+    color:#ffffff;
+    width: 19%;
+      height: 1.55em;
+      float: right;
+    right: 170px;
+    bottom: -7px;
+
+}
+
+#logo{
+    width:50%;
+}
+
+
+}

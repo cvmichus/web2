@@ -128,7 +128,7 @@
 
 </head>
 
-<body>
+<body onload="cargar('#contenido1', '1.1.php')">
     <!-- Preloader
     ============================================= -->
     <div  class="preloader"><i class="fa fa-circle-o-notch fa-spin fa-2x"></i></div>
@@ -192,7 +192,7 @@
 														
 														OTyDUZEE</center>
                            
-                            <p><center style="font-size: 1.5em; font-family: Rokkitt;font-weight:bold; color:#1e2f43;" >ORDENAMIENTO TERRITORIAL Y DESARROLLO <BR>URBANO  PARA ZONAS ECONOMICAS</center></p>
+                            <p><center style="font-size: 1.5em; font-family: Rokkitt;font-weight:bold; color:#1e2f43;" >ORDENAMIENTO TERRITORIAL Y DESARROLLÓ URBANO <br>PARA ZONAS ECONÓMICAS ESPECIALES</center></p>
                    </div>
     </section>
 
@@ -202,42 +202,8 @@
         <div class="container">
           
             <div class="services-box">
-                <div class="row wow fadeInUp" data-wow-delay=".3s">
-                    <div class="col-md-4">
-                       
-                        <div class="media-body">
-                             <h1 class="section-title" style="font-size:14pt;font-family:Montserrat;color:#1e2f43;">ZEE</h1>
-							 
-							 <span style="font-size:14pt;font-family:Montserrat;color:#1e2f43;"><a href="#about" onclick="cargar('#contenido1', '1.2.php')" >Políticas Urbanas y Territoriales</a></span><br>
-						<span style="font-size:14pt;font-family:Montserrat;color:#1e2f43;"><a href="#about" onclick="cargar('#contenido1', '1.3.php')" >Corresponsabilidades en la ZEE</a></span><br>
-						<span style="font-size:14pt;font-family:Montserrat;color:#1e2f43;"><a href="#about" onclick="cargar('#contenido1', '1.4.php')" >Marco normativo urbano y de desarrollo industrial</a></span><br>
-						<span style="font-size:14pt;font-family:Montserrat;color:#1e2f43;"><a href="#about" onclick="cargar('#contenido1', '1.5.php')" >Plan de Acción</a></span><br>
-						
-						   
-                             </div>
-                    </div>
-					
-                    <div class="col-md-4">
-                       <br><br>
-                        <div class="media-body">
-                           <ul style="list-style:none;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:14px;
-		font weight:bolder;">
-							<li onclick="ejecuta_ajax('1.1.1.php','','contenido1.1')" >¿Qué es una ZEE?</li><br>
-							<li onclick="ejecuta_ajax('1.1.2.php','','contenido1.1')">¿Cuáles son los objetivos?</li><br>
-							<li onclick="ejecuta_ajax('1.1.3.php','','contenido1.1')"  >¿Dónde se ubican las ZEE?</li><br>
-						</ul>	
-						  </div>
-
-                    </div>
-					
-                    <div class="col-md-4">
-                     
-                        <div class="media-body" id="contenido1.1" style="overflow-y: scroll; height: 300px;width:600px">
-                           
-                        </div>
-
-                    </div>
-
+                <div class="row wow fadeInUp" data-wow-delay=".3s" id="contenido1">
+                    
 
                 </div>
             </div>
@@ -251,7 +217,8 @@
 </body>
 
 <script type="text/javascript">
-        function ejecuta_ajax(archivo, parametros, capa){
+        
+		function ejecuta_ajax(archivo, parametros, capa){
         if (window.XMLHttpRequest)
         {// code for IE7+, Firefox, Chrome, Opera, Safari
         xmlhttp=new XMLHttpRequest();
@@ -274,8 +241,13 @@
         xmlhttp.send();
         }
 		
-		
-
         </script>
+		
+		<script>
+		function cargar(div, desde)
+		{
+		$(div).load(desde);
+		}
+		</script>
 
 </html>

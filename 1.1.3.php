@@ -14,10 +14,6 @@ Deberán establecerse en uno o más municipios cuya población conjunta, a la fe
 
 <style>
 	p{
-		color: #1e2f43;
-		text-decoration: none;
-		font-family:Montserrat;
-		font-size:11pt;
+		font-size:10pt;color:#1e2f43;text-decoration:none; width:320px; text-align:justify;
 		}
-	
 		</style>

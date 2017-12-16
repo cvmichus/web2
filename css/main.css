@@ -402,8 +402,9 @@ Services Style
 #services .services-box .col-md-4 .media-left,
 #services .services-box .col-md-4 .media-right,
 #services .services-box .col-md-4 .media-body {
-  padding-right: 30px;
-  vertical-align: baseline;
+  padding-right: 0px;
+  vertical-align: right;
+  align: right;
 }
 #services .services-box .col-md-4 .media-left p,
 #services .services-box .col-md-4 .media-right p,

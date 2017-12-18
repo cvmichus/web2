@@ -214,9 +214,10 @@ Navigation Style
 .navbar-default .navbar-header {
   width: 28%;
   padding-right: 15px;
+  
 }
 .navbar-default .nav-wrap {
-  width: 50%;
+  width: 40%;
 }
 .navbar-default .nav > li > a {
   font-size: 12px;
@@ -228,6 +229,7 @@ Navigation Style
   -o-transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
+  border-bottom: 3px solid #C00;
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus,

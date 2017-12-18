@@ -26,7 +26,7 @@ Prevenir los asentamientos irregulares en zonas de riesgo y coadyuvar en caso de
 
   <style>
 	p{
-		font-size:10pt;text-decoration:none; width:320px; text-align:justify;
+		font-size:10pt;text-decoration:none; width:320px; text-align:left;
 		}
 	
 		</style>

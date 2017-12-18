@@ -172,12 +172,14 @@
         </div><!--/.nav-collapse -->
       </div>
     <!--<img src="img/separador.png" width="2%">-->
-     </nav> 
+     </nav>
+	
+<br><br><br>	 
 
 	<!--SLIDE-->
 	<div id="conteiner">
 	<center >
-	<img src="home.png">
+	<img src="home.png" width="60%">
 	</center>
 	</div>
 	<!--SLIDE-->
@@ -192,7 +194,7 @@
 														
 														OTyDUZEE</center>
                            
-                            <p><center style="font-size: 1.5em; font-family: Rokkitt;font-weight:bold; color:#1e2f43;" >ORDENAMIENTO TERRITORIAL Y DESARROLLÓ URBANO <br>PARA ZONAS ECONÓMICAS ESPECIALES</center></p>
+                            <p><center style="font-size: 1.5em; font-family: Montserrat;font-weight:bold; color:#1e2f43;" >ORDENAMIENTO TERRITORIAL Y DESARROLLÓ URBANO <br>PARA ZONAS ECONÓMICAS ESPECIALES</center></p>
                    </div>
     </section>
 

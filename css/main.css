@@ -428,268 +428,117 @@ Services Style
   color: #1e2f43;
 }
 
-    /* ==========================================================================
-Portfolio Style
+  /* ==========================================================================
+Services Style
 ========================================================================== */
-#portfolio {
+
+ /* ==========================================================================
+PLANEACION
+========================================================================== */
+#planeacion {
+  background: #fff;
   padding: 60px 0;
   text-align: center;
 }
-#portfolio h2 {
-  text-transform: uppercase;
-  font-family: Titillium Bd;
-  font-size: 2.8em;
-}
-#portfolio p {
-  margin-bottom: 40px;
-}
-#portfolio .container-fluid {
-  padding-left: 0;
-  padding-right: 0;
-}
-#portfolio .container-fluid .col-lg-4 {
-  padding-left: 0;
-  padding-right: 0;
-}
-#portfolio .portfolio-box {
-  display: block;
-  position: relative;
-  margin: 0 auto;
-  max-width: 650px;
-}
-#portfolio .portfolio-box .portfolio-box-caption {
-  display: block;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 100%;
-  text-align: center;
+#planeacion h2 {
+    text-transform: uppercase;
+  font-family: Rokkitt;
+  font-size: 2.5em;
   color: #fff;
-  opacity: 0;
-  background: rgba(13, 13, 13, 0.6);
-  -moz-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
-  -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
 }
-#portfolio .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
-  position: absolute;
-  top: 50%;
-  width: 100%;
-  text-align: center;
-  transform: translateY(-50%);
+#planeacion p {
+  color: #1e2f43;;
 }
-#portfolio .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
-#portfolio .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-  padding: 0 15px;
-}
-#portfolio .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
-  text-transform: uppercase;
-  font-size: 22px;
-  font-weight: 700;
-}
-#portfolio .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-  font-size: 18px;
-}
-#portfolio .portfolio-box:hover .portfolio-box-caption {
-  opacity: 1;
-}
-
-    /* ==========================================================================
-Work Process Style
-========================================================================== */
-#work-process {
-  padding: 60px 0;
-  text-align: center;
-}
-#work-process .col-lg-3 {
+#planeacion .planeacion-box {
   margin-top: 40px;
 }
-#work-process h2 {
-  text-transform: uppercase;
-}
-#work-process h4 {
-  text-transform: uppercase;
-  color: #0d0d0d;
-}
-#work-process span {
-  font-size: 48px;
-  color: #0d0d0d;
-  margin-bottom: 15px;
-}
-
-    /* ==========================================================================
-Fun Facts Style
-========================================================================== */
-#fun-facts {
-  background: #24242a;
-  padding: 60px 0;
-  text-align: center;
-}
-#fun-facts .col-lg-3 {
-  margin-top: 40px;
+#planeacion .planeacion-box .col-md-4 {
   margin-bottom: 20px;
 }
-#fun-facts h2 {
+#planeacion .planeacion-box .col-md-4 .media-left,
+#planeacion .planeacion-box .col-md-4 .media-right,
+#planeacion .planeacion-box .col-md-4 .media-body {
+  padding-right: 0px;
+  vertical-align: right;
+  align: right;
+}
+#planeacion .planeacion-box .col-md-4 .media-left p,
+#planeacion .planeacion-box .col-md-4 .media-right p,
+#planeacion .planeacion-box .col-md-4 .media-body p {
+  text-align: left;
+}
+#planeacion .planeacion-box .col-md-4 .media-left h3,
+#planeacion .planeacion-box .col-md-4 .media-right h3,
+#planeacion .planeacion-box .col-md-4 .media-body h3 {
   text-transform: uppercase;
-  color: #fff;
+  color: #1e2f43;
+  text-align: left;
 }
-#fun-facts p {
-  color: #fff;
-}
-#fun-facts h4 {
-  text-transform: uppercase;
-  color: #fff;
-}
-#fun-facts .number {
-  color: #fff;
-  font-weight: 700;
-  padding: 10px 0;
-  margin: 0;
-}
-#fun-facts span {
-  font-size: 48px;
-  color: #fff;
-  margin-bottom: 15px;
+#planeacion .planeacion-box .col-md-4 .media-left span,
+#planeacion .planeacion-box .col-md-4 .media-right span,
+#planeacion .planeacion-box .col-md-4 .media-body span {
+  font-size: 36px;
+  color: #1e2f43;
 }
 
-    /* ==========================================================================
-Our Team Style
+  /* ==========================================================================
+PLANEACION
 ========================================================================== */
-#team {
+
+    /* ==========================================================================
+CIUDADEs Style
+========================================================================== */
+#ciudades {
+  background: #fff;
   padding: 60px 0;
   text-align: center;
 }
-#team h2 {
- text-transform: uppercase;
-  font-family: Titillium Bd;
+#ciudades h2 {
+    text-transform: uppercase;
+  font-family: Rokkitt;
   font-size: 2.5em;
+  color: #fff;
 }
-#team .team {
+#ciudades p {
+  color: #1e2f43;;
+}
+#ciudades .ciudades-box {
   margin-top: 40px;
+}
+#ciudades .ciudades-box .col-md-4 {
   margin-bottom: 20px;
 }
-#team .team h4 {
-  margin-top: 20px;
+#ciudades .ciudades-box .col-md-4 .media-left,
+#ciudades .ciudades-box .col-md-4 .media-right,
+#ciudades .ciudades-box .col-md-4 .media-body {
+  padding-right: 0px;
+  vertical-align: right;
+  align: right;
+}
+#ciudades .ciudades-box .col-md-4 .media-left p,
+#ciudades .ciudades-box .col-md-4 .media-right p,
+#ciudades .ciudades-box .col-md-4 .media-body p {
+  text-align: left;
+}
+#ciudades .ciudades-box .col-md-4 .media-left h3,
+#ciudades .ciudades-box .col-md-4 .media-right h3,
+#ciudades .ciudades-box .col-md-4 .media-body h3 {
   text-transform: uppercase;
-  font-weight: 700;
+  color: #1e2f43;
+  text-align: left;
 }
-#team .team p {
-  color: #a3a3a3;
-}
-#team .team a {
-  color: #0d0d0d;
-  font-size: 22px;
-  padding-right: 10px;
-  -moz-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
-  -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-}
-#team .team a:hover,
-#team .team a:focus,
-#team .team a:active {
-  color: #a3a3a3;
+#ciudades .ciudades-box .col-md-4 .media-left span,
+#ciudades .ciudades-box .col-md-4 .media-right span,
+#ciudades .ciudades-box .col-md-4 .media-body span {
+  font-size: 36px;
+  color: #1e2f43;
 }
 
-    /* ==========================================================================
-Testimonials Style
+  /* ==========================================================================
+CIudades Style
 ========================================================================== */
-#testimonials {
-  background-image: url("../img/testimonials/Testimonials.jpg");
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -webkit-background-size: cover;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  padding: 60px 0;
-  text-align: center;
-}
-#testimonials h2 {
-   text-transform: uppercase;
-  font-family: Titillium Bd;
-  font-size: 2.5em;
-  color: #fff;
-}
-#testimonials p {
-  color: #fff;
-}
-#testimonials .item .quote {
-  margin: 20px auto;
-  width: 80%;
-}
-#testimonials .item .quote .right {
-  margin-left: 40px;
-  font-size: 32px;
-  color: #fff;
-}
-#testimonials .item .quote .left {
-  float: left;
-  margin-right: 40px;
-  color: #fff;
-}
-#testimonials .item h5 {
-  color: #fff;
-  line-height: 36px;
-}
-#testimonials .item h5 span {
-  font-weight: 700;
-  text-transform: uppercase;
-}
-#testimonials .owl-pagination .owl-page.active span {
-  background-color: #fff;
-}
-#testimonials .owl-pagination .owl-page span {
-  border: 2px solid #fff;
-  border-radius: 50%;
-  background: transparent;
-  opacity: 1;
-  -moz-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
-  -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-}
 
-    /* ==========================================================================
-Contact Us Style
-========================================================================== */
-#contact {
-  padding: 60px 0;
-  text-align: center;
-}
-#contact h2 {
-  text-transform: uppercase;
-  font-family: Titillium Bd;
-  font-size: 2.5em;
-}
-#contact form {
-  margin: 40px 0;
-}
-#contact .form-group {
-  margin-bottom: 35px;
-}
-#contact .form-control {
-  -moz-border-radius: 0;
-  -webkit-border-radius: 0;
-  border-radius: 0;
-  border: 2px solid #24242a;
-  color: #0d0d0d;
-  min-height: 45px;
-}
-#contact textarea {
-  height: 140px;
-  resize: none;
-}
-
-    /* ==========================================================================
-Google Map Style
-========================================================================== */
-#map {
-  width: 100%;
-  height: 400px;
-}
+ /* ==========================================================================
 
     /* ==========================================================================
 Footer Map Style
@@ -830,6 +679,15 @@ width:30%;
   /*-- section styles --*/
   section h2 {
     font-size: 32px;
+  }
+
+    /*-- Services --*/
+  #planeacion h3 {
+    font-size: 22px;
+  }
+
+    #ciudades h3 {
+    font-size: 22px;
   }
 
   #testimonials h5 {

@@ -59,36 +59,7 @@
       });
       </script>
 
-      <!-- PNotify -->
-        <script type="text/javascript" src="pnotify.custom.min.js"></script>
-        <link href="pnotify.custom.min.css" media="all" rel="stylesheet" type="text/css" />
-        <?php
-        if (isset($_GET['e']))  {
-        ?>
-        <script type="text/javascript">
-        $(function(){
-            new PNotify({
-                title: 'MENSAJE ENVIADO',
-                text: 'Se envio su mensaje con exito.',
-                type: "success",
-                sound: true
-            });
-        });
-        </script>
-        <?php
-      }
-        if (isset($_GET['f']))  {
-        ?>
-        <script type="text/javascript">
-        $(function(){
-            new PNotify({
-                title: 'MENSAJE NO ENVIADO',
-                text: 'Tu mensaje no se ha enviado,intentalo nuevamente.',
-                type: "error",
-                sound: true
-            });
-        });
-        </script>
+     
 
         <script>
             $(function() {
@@ -105,9 +76,7 @@
             });
         </script>
 
-        <?php
-      }
-        ?>
+       
 
         <script type="text/javascript">
             $(".page-scroll").on("click", function(){
@@ -128,7 +97,7 @@
 
 </head>
 
-<body onload="cargar('#contenido1', '1.1.php')">
+<body onload="cargar('#contenido1', '1.1.php');cargar2('#contenido2', '2.1.php');cargar3('#contenido3', '3.1.php');">
     <!-- Preloader
     ============================================= -->
     <div  class="preloader"><i class="fa fa-circle-o-notch fa-spin fa-2x"></i></div>
@@ -160,12 +129,12 @@
 
           -->
 							<li><a href="#services" class="page-scroll">Zee</a></li>
-                             <li><a href="#portfolio" class="page-scroll">Ciudades</a></li>
-                            <li><a href="#team" class="page-scroll">Planeacion</a></li>
-                            <li><a href="#contact" class="page-scroll">Gobernanza</a></li>
-							 <li><a href="#contact" class="page-scroll">Insumos</a></li>
-							  <li><a href="#contact" class="page-scroll">Plan de accion</a></li>
-							   <li><a href="#contact" class="page-scroll">Glosario</a></li>
+                             <li><a href="#ciudades" class="page-scroll">Ciudades</a></li>
+                            <li><a href="#planeacion" class="page-scroll">Planeacion</a></li>
+                            <li><a href="#gobernanza" class="page-scroll">Gobernanza</a></li>
+							 <li><a href="#insumoz" class="page-scroll">Insumos</a></li>
+							  <li><a href="#accion" class="page-scroll">Plan de accion</a></li>
+							   <li><a href="#glosario" class="page-scroll">Glosario</a></li>
 							 
             <!--<li><a href="#">Accesar</a></li>-->
           </ul>
@@ -179,7 +148,7 @@
 	<!--SLIDE-->
 	<div id="conteiner">
 	<center >
-	<img src="home.png" width="60%">
+	<img src="home.png" width="50%">
 	</center>
 	</div>
 	<!--SLIDE-->
@@ -200,20 +169,41 @@
 
     <!-- Services
     ============================================= -->
-    <section id="services">
+        <section id="services">
         <div class="container">
-          
-            <div class="services-box">
-                <div class="row wow fadeInUp" data-wow-delay=".3s" id="contenido1">
-                    
 
-                </div>
-            </div>
+        <div class="services-box">
+        <div class="row wow fadeInUp" data-wow-delay=".3s" id="contenido1">
         </div>
+        </div>
+        </div>
+        </section>
 
-          
+         <section id="ciudades">
+        <div class="container">
 
-    </section>
+        <div class="ciudades-box">
+        <div class="row wow fadeInUp" data-wow-delay=".3s" id="contenido2">
+            
+
+        </div>
+        </div>
+        </div>
+        </section>
+
+        <section id="planeacion">
+        <div class="container">
+
+        <div class="planeacion-box">
+        <div class="row wow fadeInUp" data-wow-delay=".3s" id="contenido3">
+            
+
+        </div>
+        </div>
+        </div>
+        </section>
+
+	   
 
     
 </body>
@@ -251,5 +241,19 @@
 		$(div).load(desde);
 		}
 		</script>
+		
+		<script>
+		function cargar2(div, desde)
+		{
+		$(div).load(desde);
+		}
+		</script>
+
+        <script>
+        function cargar3(div, desde)
+        {
+        $(div).load(desde);
+        }
+        </script>
 
 </html>

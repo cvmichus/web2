@@ -537,6 +537,58 @@ CIUDADEs Style
   /* ==========================================================================
 CIudades Style
 ========================================================================== */
+    /* ==========================================================================
+GOBERNANZA Style
+========================================================================== */
+#gobernanza {
+  background: #fff;
+  padding: 60px 0;
+  text-align: center;
+}
+#gobernanza h2 {
+    text-transform: uppercase;
+  font-family: Rokkitt;
+  font-size: 2.5em;
+  color: #fff;
+}
+#gobernanza p {
+  color: #1e2f43;;
+}
+#gobernanza .gobernanza-box {
+  margin-top: 40px;
+}
+#gobernanza .gobernanza-box .col-md-4 {
+  margin-bottom: 20px;
+}
+#gobernanza .gobernanza-box .col-md-4 .media-left,
+#gobernanza .gobernanza-box .col-md-4 .media-right,
+#gobernanza .gobernanza-box .col-md-4 .media-body {
+  padding-right: 0px;
+  vertical-align: right;
+  align: right;
+}
+#gobernanza .gobernanza-box .col-md-4 .media-left p,
+#gobernanza .gobernanza-box .col-md-4 .media-right p,
+#gobernanza .gobernanza-box .col-md-4 .media-body p {
+  text-align: left;
+}
+#gobernanza .gobernanza-box .col-md-4 .media-left h3,
+#gobernanza .gobernanza-box .col-md-4 .media-right h3,
+#gobernanza .gobernanza-box .col-md-4 .media-body h3 {
+  text-transform: uppercase;
+  color: #1e2f43;
+  text-align: left;
+}
+#gobernanza .gobernanza-box .col-md-4 .media-left span,
+#gobernanza .gobernanza-box .col-md-4 .media-right span,
+#gobernanza .gobernanza-box .col-md-4 .media-body span {
+  font-size: 36px;
+  color: #1e2f43;
+}
+
+  /* ==========================================================================
+GOBERNANZA Style
+========================================================================== */
 
  /* ==========================================================================
 
@@ -687,6 +739,10 @@ width:30%;
   }
 
     #ciudades h3 {
+    font-size: 22px;
+  }
+
+      #gobernanza h3 {
     font-size: 22px;
   }
 

@@ -206,8 +206,9 @@ Navigation Style
 ========================================================================== */
 .navbar-default {
 
-  margin-bottom: 0;
-  border: none;
+  margin-bottom: 1;
+  border: 0px;
+   border-bottom: 1px solid black;
 }
 
 
@@ -229,7 +230,7 @@ Navigation Style
   -o-transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  border-bottom: 3px solid #C00;
+
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus,

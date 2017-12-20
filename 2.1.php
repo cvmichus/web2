@@ -37,7 +37,7 @@
 
                         <style>
                         #global {
-                        height: 350px;
+                        height: 500px;
                         width: 100%;
                         overflow-y: scroll;
                         }

@@ -13,9 +13,9 @@
                     <div class="col-md-4">
                        <br>
                         <div  style="text-align:justify;">
-                        <ul style="list-style:none;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13.3px;
+                        <ul style="list-style:none;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13.5px;
                         font weight:999;">
-                <li onclick="ejecuta_ajax('4.1.1.php','','contenido1.4')" style="color:#1e2f43;">¿Por qué un mecanismo de gobernanza?</li>       
+     <li onclick="ejecuta_ajax('4.1.1.php','','contenido1.4')" style="color:#1e2f43;">¿Por qué un mecanismo de gobernanza?</li>       
 
                         </ul>   
                         </div>

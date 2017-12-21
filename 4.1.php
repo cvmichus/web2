@@ -1,25 +1,29 @@
-                <div class="col-md-4" >
+                <div class="col-md-4"  style="text-align:center;">
                        
-                        <div style="text-align:justify;">
+                        <div>
                         
-<span style="font-size:11pt;font-weight:bold;color:#1e2f43;text-decoration:none;cursor: pointer;"> Gobernanza</span><br>
-
-
-
+<span style="font-size:13pt;font-weight:bold;color:#1e2f43;text-decoration:none;cursor: pointer;"> Gobernanza</span><br>
 
                              </div>
                     </div>
                     
-                    <div class="col-md-4">
+                    <div class="col-md-4"  style="text-align:left;">
                        <br>
-                        <div  style="text-align:justify;">
-                        <ul style="list-style:none;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13.5px;
-                        font weight:999;">
-     <li onclick="ejecuta_ajax('4.1.1.php','','contenido1.4')" style="color:#1e2f43;">¿Por qué un mecanismo de gobernanza?</li>       
-
-                        </ul>   
-                        </div>
-
+                        
+						<span onclick="ejecuta_ajax('4.1.1.php','','contenido1.4')" style="list-style:none;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px;
+						font weight:999;">Marco Normativo Urbano</span > <br>
+						<span onclick="ejecuta_ajax('4.1.2.php','','contenido1.4')" style="list-style:none;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px;
+						font weight:999;">Beneficios del Marco Normativo Urbano</span > <br>
+						
+						<span onclick="ejecuta_ajax('4.1.3.php','','contenido1.4')" style="list-style:none;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px;
+						font weight:999;">La planeación del desarrollo urbano en México</span > <br>
+						<span onclick="ejecuta_ajax('4.1.4.php','','contenido1.4')" style="list-style:none;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px;
+						font weight:999;">Mecanismos de gestión del territorio</span > <br>
+						<span onclick="ejecuta_ajax('4.1.5.php','','contenido1.4')" style="list-style:none;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px;
+						font weight:999;">Gobernanza de las ZEE</span > <br>
+						<span onclick="ejecuta_ajax('4.1.6.php','','contenido1.4')" style="list-style:none;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px;
+						font weight:999;">Organismos de Gestión</span > <br>
+					
                     </div>
                     
                         <div class="col-md-4">

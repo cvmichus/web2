@@ -16,6 +16,7 @@
 
     <!-- Bootstrap Css -->
     <link href="bootstrap-assets/css/bootstrap.min.css" rel="stylesheet">
+	<link href='favicon.ico' rel='shortcut icon' type='image/x-icon'/>
 
     <!-- Style -->
 
@@ -97,7 +98,7 @@
 
 </head>
 
-<body onload="cargar('#contenido1', '1.1.php');cargar2('#contenido2', '2.1.php');cargar3('#contenido3', '3.1.php');cargar4('#contenido4', '4.1.php');">
+<body onload="cargar('#contenido1', '1.1.php');cargar2('#contenido2', '2.1.php');cargar3('#contenido3', '3.1.php');cargar4('#contenido4', '4.1.php');cargar5('#contenido5', '5.1.php');">
     <!-- Preloader
     ============================================= -->
     <div  class="preloader"><i class="fa fa-circle-o-notch fa-spin fa-2x"></i></div>
@@ -115,7 +116,7 @@
           </button>
          
         </div>
-        <div id="navbar" class="navbar-collapse collapse">
+        <div id="navbar" class="navbar-collapse collapse" style="border-bottom: 1px solid black;">
           <ul class="nav navbar-nav" >
             
           </ul>
@@ -128,11 +129,11 @@
         http://corporativomigas.ddns.net:8081/AeropuertoCGW/
 
           -->
-							<li><a href="#services" class="page-scroll">Zee</a></li>
+							<li><a href="#services" class="page-scroll">ZEE</a></li>
                              <li><a href="#ciudades" class="page-scroll">Ciudades</a></li>
                             <li><a href="#planeacion" class="page-scroll">Planeacion</a></li>
                             <li><a href="#gobernanza" class="page-scroll">Gobernanza</a></li>
-							 <li><a href="#insumoz" class="page-scroll">Insumos</a></li>
+							 <li><a href="#insumos" class="page-scroll">Insumos</a></li>
 							  <li><a href="#accion" class="page-scroll">Plan de accion</a></li>
 							   <li><a href="#glosario" class="page-scroll">Glosario</a></li>
 							 
@@ -148,6 +149,7 @@
 	<!--SLIDE-->
 	<div id="conteiner">
 	<center >
+	<br>
 	<img src="home.png" width="50%">
 	</center>
 	</div>
@@ -163,7 +165,7 @@
 														
 														OTyDUZEE</center>
                            
-                            <p><center style="font-size: 1.5em; font-family: Montserrat;font-weight:bold; color:#1e2f43;" >ORDENAMIENTO TERRITORIAL Y DESARROLLÓ URBANO <br>PARA ZONAS ECONÓMICAS ESPECIALES</center></p>
+                            <p><center style="font-size: 1.2em; font-family: Montserrat;font-weight:999; color:#1e2f43;" >ORDENAMIENTO TERRITORIAL Y DESARROLLÓ URBANO <br>PARA ZONAS ECONÓMICAS ESPECIALES</center></p>
                    </div>
     </section>
 
@@ -178,6 +180,7 @@
         </div>
         </div>
         </section>
+		<br><br>
 
          <section id="ciudades">
         <div class="container">
@@ -190,6 +193,7 @@
         </div>
         </div>
         </section>
+		<br><br>
 
         <section id="planeacion">
         <div class="container">
@@ -202,6 +206,7 @@
         </div>
         </div>
         </section>
+		<br><br>
 
          <section id="gobernanza">
         <div class="container">
@@ -214,6 +219,20 @@
         </div>
         </div>
         </section>
+		<br><br>
+		
+		 <section id="insumos">
+        <div class="container">
+
+        <div class="insumos-box">
+        <div class="row wow fadeInUp" data-wow-delay=".3s" id="contenido5">
+            
+
+        </div>
+        </div>
+        </div>
+        </section>
+		<br><br>
 
 	   
 
@@ -269,6 +288,12 @@
         </script>
          <script>
         function cargar4(div, desde)
+        {
+        $(div).load(desde);
+        }
+        </script>
+		 <script>
+        function cargar5(div, desde)
         {
         $(div).load(desde);
         }

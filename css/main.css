@@ -208,7 +208,7 @@ Navigation Style
 
   margin-bottom: 1;
   border: 0px;
-   border-bottom: 1px solid black;
+  
 }
 
 
@@ -588,6 +588,59 @@ GOBERNANZA Style
 
   /* ==========================================================================
 GOBERNANZA Style
+========================================================================== */
+
+   /* ==========================================================================
+INSUMOS Style
+========================================================================== */
+#insumos {
+  background: #fff;
+  padding: 60px 0;
+  text-align: center;
+}
+#insumos h2 {
+    text-transform: uppercase;
+  font-family: Rokkitt;
+  font-size: 2.5em;
+  color: #fff;
+}
+#insumos p {
+  color: #1e2f43;;
+}
+#insumos .insumos-box {
+  margin-top: 40px;
+}
+#insumos .insumos-box .col-md-4 {
+  margin-bottom: 20px;
+}
+#insumos .insumos-box .col-md-4 .media-left,
+#insumos .insumos-box .col-md-4 .media-right,
+#insumos .insumos-box .col-md-4 .media-body {
+  padding-right: 0px;
+  vertical-align: right;
+  align: right;
+}
+#insumos .insumos-box .col-md-4 .media-left p,
+#insumos .insumos-box .col-md-4 .media-right p,
+#insumos .insumos-box .col-md-4 .media-body p {
+  text-align: left;
+}
+#insumos .insumos-box .col-md-4 .media-left h3,
+#insumos .insumos-box .col-md-4 .media-right h3,
+#insumos .insumos-box .col-md-4 .media-body h3 {
+  text-transform: uppercase;
+  color: #1e2f43;
+  text-align: left;
+}
+#insumos .insumos-box .col-md-4 .media-left span,
+#insumos .insumos-box .col-md-4 .media-right span,
+#insumos .insumos-box .col-md-4 .media-body span {
+  font-size: 36px;
+  color: #1e2f43;
+}
+
+  /* ==========================================================================
+INSUMOS Style
 ========================================================================== */
 
  /* ==========================================================================

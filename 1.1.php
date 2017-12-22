@@ -36,8 +36,8 @@
 
 						<style>
 						#global {
-						height: 350px;
-						width: 100%;
+						height: 500px;
+						width:316%;
 						overflow-y: scroll;
 						}
 						#contenido1.1 {

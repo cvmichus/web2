@@ -400,7 +400,7 @@ Services Style
   margin-top: 40px;
 }
 #services .services-box .col-md-4 {
-  margin-bottom: 20px;
+  margin-bottom: 1px;
 }
 #services .services-box .col-md-4 .media-left,
 #services .services-box .col-md-4 .media-right,

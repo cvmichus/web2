@@ -22,7 +22,7 @@ La localidad de Puerto Madero es la localidad más próxima a estos ámbitos, si
 
 <style>
 	p{
-		font-size:10pt;color:#1e2f43;text-decoration:none; width:320px; text-align:left;
+		font-size:10pt;color:#1e2f43;text-decoration:none; width:600px; text-align:left;
 		}
 	
 		</style>

@@ -11,7 +11,7 @@ El desarrollo económico y social regional y local es una de las metas anheladas
 
   <style>
 	p{
-		font-size:10pt;color:#1e2f43;text-decoration:none; width:320px; text-align:justify;
+		font-size:10pt;color:#1e2f43;text-decoration:none; width:600px; text-align:justify;
 		}
 	
 		</style>

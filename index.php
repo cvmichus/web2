@@ -131,7 +131,7 @@
           -->
 							<li><a href="#services" class="page-scroll">ZEE</a></li>
                              <li><a href="#ciudades" class="page-scroll">Ciudades</a></li>
-                            <li><a href="#planeacion" class="page-scroll">Planeacion</a></li>
+                            <li><a href="#planeacion" class="page-scroll">Planeación</a></li>
                             <li><a href="#gobernanza" class="page-scroll">Gobernanza</a></li>
 							 <li><a href="#insumos" class="page-scroll">Insumos</a></li>
 							  <li><a href="#accion" class="page-scroll">Plan de accion</a></li>

@@ -38,15 +38,15 @@
                         </div>
 
                         <style>
-                        #global {
-                        height: 350px;
-                        width: 100%;
-                        overflow-y: scroll;
-                        }
-                        #contenido1.1 {
-                        height: auto;
-                        }
+						#global {
+						height: 500px;
+						width:316%;
+						overflow-y: scroll;
+						}
+						#contenido1.1 {
+						height: auto;
+						}
 
-                        </style>
+						</style>
 
                         </div>

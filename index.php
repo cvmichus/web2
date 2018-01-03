@@ -331,13 +331,45 @@
 
                <script>
                  function activap1(){
-                   document.getElementById("p1").style="font-size:10pt;font-weight:bold;color:#1e2f43;text-decoration:none;cursor: pointer;font-weight:bold"
+                   document.getElementById("p1").style="font-weight:bold;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p2").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p3").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p4").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p5").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
                  }
 
                  function activap2(){
-                   document.getElementById("p2").style="font-size:10pt;font-weight:bold;color:#1e2f43;text-decoration:none;cursor: pointer;font-weight:bold"
-                   document.getElementById("p1").style="font-size:10pt;font-weight:bold;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("p2").style="font-weight:bold;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p1").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p3").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p4").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p5").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
                  }
+
+                 function activap3(){
+                   document.getElementById("p3").style="font-weight:bold;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p1").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p2").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p4").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p5").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                 }
+
+                 function activap4(){
+                   document.getElementById("p4").style="font-weight:bold;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p1").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p2").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p3").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p5").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                 }
+
+                 function activap5(){
+                   document.getElementById("p5").style="font-weight:bold;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p1").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p2").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p3").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                   document.getElementById("p4").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                 }
+
                </script>
 
 </html>

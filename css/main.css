@@ -165,7 +165,7 @@ Buttons Styles
 }
 
 /* ==========================================================================
-Layout 
+Layout
 ========================================================================== */
 .dark-bg {
   background: #24242a;
@@ -208,14 +208,14 @@ Navigation Style
 
   margin-bottom: 1;
   border: 0px;
-  
+
 }
 
 
 .navbar-default .navbar-header {
   width: 28%;
   padding-right: 15px;
-  
+
 }
 .navbar-default .nav-wrap {
   width: 40%;
@@ -643,6 +643,114 @@ INSUMOS Style
 INSUMOS Style
 ========================================================================== */
 
+/* ==========================================================================
+planes Style
+========================================================================== */
+#planes {
+background: #fff;
+padding: 60px 0;
+text-align: center;
+}
+#planes h2 {
+ text-transform: uppercase;
+font-family: Rokkitt;
+font-size: 2.5em;
+color: #fff;
+}
+#planes p {
+color: #1e2f43;;
+}
+#planes .planes-box {
+margin-top: 40px;
+}
+#planes .planes-box .col-md-4 {
+margin-bottom: 20px;
+}
+#planes .planes-box .col-md-4 .media-left,
+#planes .planes-box .col-md-4 .media-right,
+#planes .planes-box .col-md-4 .media-body {
+padding-right: 0px;
+vertical-align: right;
+align: right;
+}
+#planes .planes-box .col-md-4 .media-left p,
+#planes .planes-box .col-md-4 .media-right p,
+#planes .planes-box .col-md-4 .media-body p {
+text-align: left;
+}
+#planes .planes-box .col-md-4 .media-left h3,
+#planes .planes-box .col-md-4 .media-right h3,
+#planes .planes-box .col-md-4 .media-body h3 {
+text-transform: uppercase;
+color: #1e2f43;
+text-align: left;
+}
+#planes .planes-box .col-md-4 .media-left span,
+#planes .planes-box .col-md-4 .media-right span,
+#planes .planes-box .col-md-4 .media-body span {
+font-size: 36px;
+color: #1e2f43;
+}
+
+/* ==========================================================================
+PLANES Style
+========================================================================== */
+
+
+/* ==========================================================================
+GLOSARIO Style
+========================================================================== */
+#glosario {
+background: #fff;
+padding: 60px 0;
+text-align: center;
+}
+#glosario h2 {
+ text-transform: uppercase;
+font-family: Rokkitt;
+font-size: 2.5em;
+color: #fff;
+}
+#glosario p {
+color: #1e2f43;;
+}
+#glosario .glosario-box {
+margin-top: 40px;
+}
+#glosario .glosario-box .col-md-4 {
+margin-bottom: 20px;
+}
+#glosario .glosario-box .col-md-4 .media-left,
+#glosario .glosario-box .col-md-4 .media-right,
+#glosario .glosario-box .col-md-4 .media-body {
+padding-right: 0px;
+vertical-align: right;
+align: right;
+}
+#glosario .glosario-box .col-md-4 .media-left p,
+#glosario .glosario-box .col-md-4 .media-right p,
+#glosario .glosario-box .col-md-4 .media-body p {
+text-align: left;
+}
+#glosario .glosario-box .col-md-4 .media-left h3,
+#glosario .glosario-box .col-md-4 .media-right h3,
+#glosario .glosario-box .col-md-4 .media-body h3 {
+text-transform: uppercase;
+color: #1e2f43;
+text-align: left;
+}
+#glosario .glosario-box .col-md-4 .media-left span,
+#glosario .glosario-box .col-md-4 .media-right span,
+#glosario .glosario-box .col-md-4 .media-body span {
+font-size: 36px;
+color: #1e2f43;
+}
+
+/* ==========================================================================
+GLOSARIO Style
+========================================================================== */
+
+
  /* ==========================================================================
 
     /* ==========================================================================
@@ -684,7 +792,7 @@ width:30%;
 }
 
     /*/ Móviles en horizontal o tablets en vertical*/
-@media (min-width: 768px) { 
+@media (min-width: 768px) {
  .navbar-default .navbar-header .navbar-brand img {
     width: 80%;
     height: 52px;
@@ -694,7 +802,7 @@ width:30%;
 
 /* Móviles en vertical
    ------------------------------------------------------------------------- */
-@media (max-width: 480px) { 
+@media (max-width: 480px) {
 
  .navbar-default .navbar-header .navbar-brand img {
     width: 50%;
@@ -759,8 +867,8 @@ width:30%;
   .navbar-default .collapse.in {
     display: block !important;
   }
-  
-  
+
+
 
   /*-- Sliders --*/
   #owl-hero h1 {
@@ -788,6 +896,14 @@ width:30%;
 
     /*-- Services --*/
   #planeacion h3 {
+    font-size: 22px;
+  }
+
+  #planes h3 {
+    font-size: 22px;
+  }
+
+  #glosario h3 {
     font-size: 22px;
   }
 

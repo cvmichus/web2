@@ -6,7 +6,7 @@
 
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
-    <title>OTyDUZEE.COM</title>
+    <title>OTyDUZEE.MX</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -29,7 +29,7 @@
     <link href="plugins/Icons/et-line-font/style.css" rel="stylesheet">
     <link href="plugins/animate.css/animate.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
-    
+
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
@@ -60,7 +60,7 @@
       });
       </script>
 
-     
+
 
         <script>
             $(function() {
@@ -77,7 +77,7 @@
             });
         </script>
 
-       
+
 
         <script type="text/javascript">
             $(".page-scroll").on("click", function(){
@@ -98,7 +98,7 @@
 
 </head>
 
-<body onload="cargar('#contenido1', '1.1.php');cargar2('#contenido2', '2.1.php');cargar3('#contenido3', '3.1.php');cargar4('#contenido4', '4.1.php');cargar5('#contenido5', '5.1.php');">
+<body onload="cargar('#contenido1', '1.1.php');cargar2('#contenido2', '2.1.php');cargar3('#contenido3', '3.1.php');cargar4('#contenido4', '4.1.php');cargar5('#contenido5', '5.1.php');cargar6('#contenido6', '6.1.php');cargar7('#contenido7', '7.1.php');">
     <!-- Preloader
     ============================================= -->
     <div  class="preloader"><i class="fa fa-circle-o-notch fa-spin fa-2x"></i></div>
@@ -114,11 +114,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-         
+
         </div>
         <div id="navbar" class="navbar-collapse collapse" style="border-bottom: 1px solid black;">
           <ul class="nav navbar-nav" >
-            
+
           </ul>
           <!--
             navbar navbar-default navbar-static-top
@@ -134,17 +134,17 @@
                             <li><a href="#planeacion" class="page-scroll">Planeación</a></li>
                             <li><a href="#gobernanza" class="page-scroll">Gobernanza</a></li>
 							 <li><a href="#insumos" class="page-scroll">Insumos</a></li>
-							  <li><a href="#accion" class="page-scroll">Plan de accion</a></li>
+							  <li><a href="#planes" class="page-scroll">Plan de accion</a></li>
 							   <li><a href="#glosario" class="page-scroll">Glosario</a></li>
-							 
+
             <!--<li><a href="#">Accesar</a></li>-->
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     <!--<img src="img/separador.png" width="2%">-->
      </nav>
-	
-<br><br><br>	 
+
+<br><br><br>
 
 	<!--SLIDE-->
 	<div id="conteiner">
@@ -154,7 +154,7 @@
 	</center>
 	</div>
 	<!--SLIDE-->
-  
+
     </section>
 
     <!-- Welcome
@@ -162,9 +162,9 @@
     <section id="welcome">
         <div class="container">
            <center  style="font-size: 3em; font-family: Rokkitt;color:#e3313d;font-weight:bold;letter-spacing: 10px;">
-														
+
 														OTyDUZEE</center>
-                           
+
                             <p><center style="font-size: 1.2em; font-family: Montserrat;font-weight:999; color:#1e2f43;" >ORDENAMIENTO TERRITORIAL Y DESARROLLÓ URBANO <br>PARA ZONAS ECONÓMICAS ESPECIALES</center></p>
                    </div>
     </section>
@@ -175,7 +175,7 @@
         <div class="container">
 
         <div class="services-box">
-        <div class="row wow fadeInUp" data-wow-delay=".3s" id="contenido1">
+        <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido1">
         </div>
         </div>
         </div>
@@ -186,8 +186,8 @@
         <div class="container">
 
         <div class="ciudades-box">
-        <div class="row wow fadeInUp" data-wow-delay=".3s" id="contenido2">
-            
+        <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido2">
+
 
         </div>
         </div>
@@ -199,8 +199,8 @@
         <div class="container">
 
         <div class="planeacion-box">
-        <div class="row wow fadeInUp" data-wow-delay=".3s" id="contenido3">
-            
+        <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido3">
+
 
         </div>
         </div>
@@ -212,21 +212,21 @@
         <div class="container">
 
         <div class="gobernanza-box">
-        <div class="row wow fadeInUp" data-wow-delay=".3s" id="contenido4">
-            
+        <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido4">
+
 
         </div>
         </div>
         </div>
         </section>
 		<br><br>
-		
+
 		 <section id="insumos">
         <div class="container">
 
         <div class="insumos-box">
-        <div class="row wow fadeInUp" data-wow-delay=".3s" id="contenido5">
-            
+        <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido5">
+
 
         </div>
         </div>
@@ -234,13 +234,31 @@
         </section>
 		<br><br>
 
-	   
+    <section id="planes">
+       <?php include("seccion6.php") ?>
+       </section>
+   <br><br>
 
-    
+   <section id="glosario">
+      <div class="container">
+
+      <div class="glosario-box">
+      <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido7">
+
+
+      </div>
+      </div>
+      </div>
+      </section>
+  <br><br>
+
+
+
+
 </body>
 
 <script type="text/javascript">
-        
+
 		function ejecuta_ajax(archivo, parametros, capa){
         if (window.XMLHttpRequest)
         {// code for IE7+, Firefox, Chrome, Opera, Safari
@@ -263,16 +281,16 @@
         xmlhttp.open("GET",archivo+"?"+parametros+"&x="+x, true);
         xmlhttp.send();
         }
-		
+
         </script>
-		
+
 		<script>
 		function cargar(div, desde)
 		{
 		$(div).load(desde);
 		}
 		</script>
-		
+
 		<script>
 		function cargar2(div, desde)
 		{
@@ -298,5 +316,28 @@
         $(div).load(desde);
         }
         </script>
+        <script>
+           function cargar6(div, desde)
+           {
+           $(div).load(desde);
+           }
+           </script>
+           <script>
+               function cargar7(div, desde)
+               {
+               $(div).load(desde);
+               }
+               </script>
+
+               <script>
+                 function activap1(){
+                   document.getElementById("p1").style="font-size:10pt;font-weight:bold;color:#1e2f43;text-decoration:none;cursor: pointer;font-weight:bold"
+                 }
+
+                 function activap2(){
+                   document.getElementById("p2").style="font-size:10pt;font-weight:bold;color:#1e2f43;text-decoration:none;cursor: pointer;font-weight:bold"
+                   document.getElementById("p1").style="font-size:10pt;font-weight:bold;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                 }
+               </script>
 
 </html>

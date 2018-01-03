@@ -1,3 +1,6 @@
+<?php
+$secc = "i1";
+?>
 <p>
 <span style="color: #1e2f43;font-family:Rokkitt;font-size:15px;font weight:bold;">Línea estratégica 1. Conservación de los ecosistemas y fomento de la infraestructura verde</span>
 <br><br>
@@ -21,7 +24,7 @@ Acción 1.4.2. Diseñar una guía socioambiental para la ejecución de proyectos
 <p>
 <span style="color: #1e2f43;font-family:Rokkitt;font-size:15px;font weight:bold;">Línea estratégica 2. Reducción de la vulnerabilidad y los riesgos naturales en la ocupación del territorio</span><br>
 <br>
-Acción 2.1.1 Actualización del Atlas de riesgos 
+Acción 2.1.1 Actualización del Atlas de riesgos
 <br>
 Acción 2.1.3 Plan de Gestión de Riesgos de Desastres
 <br>
@@ -29,7 +32,7 @@ Acción 2.1.4 Planes de gestión del riesgo de inundación fluvial y deslizamien
 <br>
 Acción 2.1.5 Estrategia de Mitigación del Riesgo por Sismos
 <br>
-Acción 2.1.6 Plataforma del sistema catastral integrado 
+Acción 2.1.6 Plataforma del sistema catastral integrado
 <br>
 Acción 2.1.7 Educación ambiental y participación ciudadana
 <br>
@@ -108,5 +111,9 @@ Acción 9.1.1 Programa de modernización del sistema de información catastral
 	p{
 		font-size:10pt;color:#1e2f43;text-decoration:none; width:600px; text-align:left;
 		}
-	
+
+    #activo{
+      style="color: #1e2f43;font-family:Rokkitt;font-size:15px;font weight:bold;"
+    }
+
 		</style>

@@ -156,7 +156,7 @@
 	<!--SLIDE-->
 
     </section>
-
+    <br><br>
     <!-- Welcome
     ============================================= -->
     <section id="welcome">

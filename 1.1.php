@@ -1,31 +1,21 @@
                 <div class="col-md-4" >
-                       
-                        <div style="text-align:justify;">
-						
-									<span style="font-size:11pt;font-weight:bold;color:#1e2f43;text-decoration:none;cursor: pointer;">ZEE</span><br>
-									
-									<span style="font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer;"  onclick="cargar('#contenido1', '1.2.php')" >Políticas Urbanas y Territoriales</span><br>
-									<span style="font-size:10pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="cargar('#contenido1', '1.3.php')" >Corresponsabilidades en la ZEE</span><br>
-									<span style="font-size:10pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="cargar('#contenido1', '1.4.php')" >Marco normativo urbano y de desarrollo industrial</span><br>
-									<span style="font-size:10pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="cargar('#contenido1', '1.5.php')" >Plan de Acción</span><br>
-
-
-                             </div>
+                      <div style="text-align:justify;">
+                      <span id="ss1.1" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"  onclick="ejecuta_ajax('1.1.0.php','','contenido1.0');activass1();">1.1 ZEE</span><br><br>
+                      <span id="ss1.2" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"  onclick="cargar0('#contenido1.0', '1.2.0.php');activass2();" >1.2 Políticas territoriales y urbanas</span><br><br>
+                      <span id="ss1.3" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="cargar0('#contenido1.0', '1.3.0.php');activass3();" >1.3 Corresponsabilidades en la ZEE</span><br><br>
+                      <span id="ss1.4" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="cargar0('#contenido1.0', '1.4.0.php');activass4();" >1.4 Industrial</span><br><br>
+                      <span id="ss1.5" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="cargar0('#contenido1.0', '1.5.0.php');activass5();" >1.5 Ámbito espacial</span><br><br>
+                      <span id="ss1.6" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="cargar0('#contenido1.0', '1.6.0.php');activass6();" >1.6 El Plan de Acción para la ZEE </span><br>
+                      </div>
                     </div>
-					
+
                     <div class="col-md-4">
-                       <br>
-                        <div  style="text-align:justify;">
-						<ul style="list-style:none;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px;
-						font weight:bolder;">
-						<li onclick="ejecuta_ajax('1.1.1.php','','contenido1.1')" >¿Qué es una ZEE?</li>
-						<li onclick="ejecuta_ajax('1.1.2.php','','contenido1.1')">¿Cuáles son los objetivos?</li>
-						<li onclick="ejecuta_ajax('1.1.3.php','','contenido1.1')"  >¿Dónde se ubican las ZEE?</li>
-						</ul>	
-						  </div>
 
+                        <div  style="text-align:justify;" id="contenido1.0">
+
+                        </div>
                     </div>
-					
+
 						<div class="col-md-4">
 
 						<div id="global">

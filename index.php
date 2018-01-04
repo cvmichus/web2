@@ -98,7 +98,7 @@
 
 </head>
 
-<body onload="cargar('#contenido1', '1.1.php');cargar2('#contenido2', '2.1.php');cargar3('#contenido3', '3.1.php');cargar4('#contenido4', '4.1.php');cargar5('#contenido5', '5.1.php');cargar6('#contenido6', '6.1.php');cargar7('#contenido7', '7.1.php');">
+<body onload="cargar('#contenido1', '1.1.php');">
     <!-- Preloader
     ============================================= -->
     <div  class="preloader"><i class="fa fa-circle-o-notch fa-spin fa-2x"></i></div>
@@ -129,15 +129,15 @@
         http://corporativomigas.ddns.net:8081/AeropuertoCGW/
 
           -->
-							<li><a href="#services" class="page-scroll">ZEE</a></li>
-                             <li><a href="#ciudades" class="page-scroll">Ciudades</a></li>
-                            <li><a href="#planeacion" class="page-scroll">Planeación</a></li>
-                            <li><a href="#gobernanza" class="page-scroll">Gobernanza</a></li>
-							 <li><a href="#insumos" class="page-scroll">Insumos</a></li>
-							  <li><a href="#planes" class="page-scroll">Plan de accion</a></li>
-							   <li><a href="#glosario" class="page-scroll">Glosario</a></li>
+                      <li><a href="#services" class="page-scroll">ZEE</a></li>
+                      <li><a href="#planeacion" class="page-scroll">PLANEACIÓN</a></li>
+                      <li><a href="#ciudades" class="page-scroll">CIUDADES CES</a></li>
+                      <li><a href="#gobernanza" class="page-scroll">GOBERNANZA</a></li>
+                      <li><a href="#insumos" class="page-scroll">INSUMOS</a></li>
+                      <li><a href="#planes" class="page-scroll">PLANES</a></li>
+                      <li><a href="#glosario" class="page-scroll">GLOSARIO</a></li>
 
-            <!--<li><a href="#">Accesar</a></li>-->
+
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -182,78 +182,6 @@
         </section>
 		<br><br>
 
-         <section id="ciudades">
-        <div class="container">
-
-        <div class="ciudades-box">
-        <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido2">
-
-
-        </div>
-        </div>
-        </div>
-        </section>
-		<br><br>
-
-        <section id="planeacion">
-        <div class="container">
-
-        <div class="planeacion-box">
-        <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido3">
-
-
-        </div>
-        </div>
-        </div>
-        </section>
-		<br><br>
-
-         <section id="gobernanza">
-        <div class="container">
-
-        <div class="gobernanza-box">
-        <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido4">
-
-
-        </div>
-        </div>
-        </div>
-        </section>
-		<br><br>
-
-		 <section id="insumos">
-        <div class="container">
-
-        <div class="insumos-box">
-        <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido5">
-
-
-        </div>
-        </div>
-        </div>
-        </section>
-		<br><br>
-
-    <section id="planes">
-       <?php include("seccion6.php") ?>
-       </section>
-   <br><br>
-
-   <section id="glosario">
-      <div class="container">
-
-      <div class="glosario-box">
-      <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido7">
-
-
-      </div>
-      </div>
-      </div>
-      </section>
-  <br><br>
-
-
-
 
 </body>
 
@@ -284,91 +212,86 @@
 
         </script>
 
-		<script>
+        <script>
 		function cargar(div, desde)
 		{
 		$(div).load(desde);
 		}
 		</script>
 
-		<script>
-		function cargar2(div, desde)
-		{
-		$(div).load(desde);
-		}
-		</script>
-
-        <script>
-        function cargar3(div, desde)
-        {
-        $(div).load(desde);
-        }
-        </script>
-         <script>
-        function cargar4(div, desde)
-        {
-        $(div).load(desde);
-        }
-        </script>
-		 <script>
-        function cargar5(div, desde)
-        {
-        $(div).load(desde);
-        }
-        </script>
-        <script>
-           function cargar6(div, desde)
-           {
-           $(div).load(desde);
-           }
-           </script>
-           <script>
-               function cargar7(div, desde)
-               {
-               $(div).load(desde);
-               }
-               </script>
 
                <script>
-                 function activap1(){
-                   document.getElementById("p1").style="font-weight:bold;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p2").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p3").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p4").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p5").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                 function activass1(){
+                   document.getElementById("ss1.1").style="font-weight:bold;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:9.5pt"
+                   document.getElementById("ss1.2").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.3").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.4").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.5").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
                  }
 
-                 function activap2(){
-                   document.getElementById("p2").style="font-weight:bold;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p1").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p3").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p4").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p5").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                 function activass2(){
+                   document.getElementById("ss1.2").style="font-weight:bold;font-size:9.5pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.1").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.3").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.4").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.5").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.6").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
                  }
 
-                 function activap3(){
-                   document.getElementById("p3").style="font-weight:bold;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p1").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p2").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p4").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p5").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                 function activass3(){
+                   document.getElementById("ss1.3").style="font-weight:bold;font-size:9.5pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.1").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.2").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.4").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.5").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.6").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
                  }
 
-                 function activap4(){
-                   document.getElementById("p4").style="font-weight:bold;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p1").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p2").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p3").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p5").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                 function activass4(){
+                   document.getElementById("ss1.4").style="font-weight:bold;font-size:9.5pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.1").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.2").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.3").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.5").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.6").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
                  }
 
-                 function activap5(){
-                   document.getElementById("p5").style="font-weight:bold;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p1").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p2").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p3").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
-                   document.getElementById("p4").style="cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13px"
+                 function activass5(){
+                   document.getElementById("ss1.5").style="font-weight:bold;font-size:9.5pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.1").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.2").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.3").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                   document.getElementById("ss1.4").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
+                    document.getElementById("ss1.6").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"
                  }
+
+                 function activass6(){
+                   document.getElementById("ss1.6").style="font-weight:bold;font-size:9.5pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("ss1.1").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("ss1.2").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("ss1.3").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("ss1.4").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                    document.getElementById("ss1.5").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                 }
+
+                 function activasss1(){
+                   document.getElementById("sss1.1").style="font-weight:bold;font-size:8.5pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss1.2").style="font-size:8pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss1.3").style="font-size:8pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                 }
+
+                 function activasss2(){
+                   document.getElementById("sss1.2").style="font-weight:bold;font-size:8.5pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss1.1").style="font-size:8pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss1.3").style="font-size:8pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                 }
+
+                 function activasss3(){
+                   document.getElementById("sss1.3").style="font-weight:bold;font-size:8.5pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss1.1").style="font-size:8pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss1.2").style="font-size:8pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                 }
+
 
                </script>
 

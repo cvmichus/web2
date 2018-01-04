@@ -251,6 +251,7 @@ Navigation Style
 .navbar-default .navbar-nav > .active > a:hover {
   background: transparent;
   color: #1e2f43;
+  font-weight:bold;
 
 }
 

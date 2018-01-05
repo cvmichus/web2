@@ -156,7 +156,7 @@
 	<!--SLIDE-->
 
     </section>
-    <br><br>
+  
     <!-- Welcome
     ============================================= -->
     <section id="welcome">
@@ -168,7 +168,7 @@
                             <p><center style="font-size: 1.2em; font-family: Montserrat;font-weight:999; color:#1e2f43;" >ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO <br>PARA ZONAS ECONÓMICAS ESPECIALES</center></p>
                    </div>
     </section>
-
+<br><br>
     <!-- Services
     ============================================= -->
         <section id="services">

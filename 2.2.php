@@ -1,51 +1,50 @@
                 <div class="col-md-4" >
+					<div style="text-align:justify;">
+					<span id="ss2.1" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"  onclick="ejecuta_ajax('2.1.0.php','','contenido2.0');activass21();">2.1 Estructura de los Planes</span><br><br>
 
-                        <div style="text-align:justify;">
+					<span id="ss2.2" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"  onclick="ejecuta_ajax('2.2.0.php','','contenido2.0');activass22();" >2.2 Vinculación Programática</span><br><br>
 
-<span style="font-size:12pt;font-weight:bold;color:#1e2f43;text-decoration:none;cursor: pointer;"><img src="img/icons/ciudadesyseticonospng-05.png" width="65%"><br>Tapachula</span><br>
+					<span id="ss2.3" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('2.3.0.php','','contenido2.0');activass23();" >2.3 ¿Cuáles los los planes para la ZEE?</span><br><br>
 
+					<span id="ss2.4" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('2.4.0.php','','contenido2.0');activass24();" >2.4 Competencias</span><br><br>
 
+					<span id="ss2.5" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('2.5.0.php','','contenido2.0');activass25();" >2.5 Ámbito Espacial</span><br><br>
 
-<span style="font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer;"  onclick="cargar('#contenido2', '2.1.php')" ><img src="img/icons/ciudadesyseticonospng-01.png" width="60%"><br>Lazaro Cardenas</span><br>
+					<span id="ss2.6" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('2.6.0.php','','contenido2.0');activass26();" >2.6 Marco legal</span><br><br>
 
+					<span id="ss2.7" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('2.7.0.php','','contenido2.0');activass27();" >2.7 Corresponsabilidad </span><br><br>
 
+					<span id="ss2.8" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('2.8.0.php','','contenido2.0');activass28();" >2.8 Comparativa de alcances </span><br><br>
 
-
-                             </div>
+					<span id="ss2.9" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('2.9.0.php','','contenido2.0');activass29();" >2.9 Zonificación de los Planes </span><br><br>
+					</div>
                     </div>
 
                     <div class="col-md-4">
-                       <br>
-                        <div  style="text-align:justify;">
-                        <ul style="list-style:none;cursor: pointer;color: #1e2f43;font-family:Montserrat;font-size:13.3px;
-                        font weight:999;">
-                        <li onclick="ejecuta_ajax('2.2.5.php','','contenido1.2')" >La ciudad</li>
-                        <li onclick="ejecuta_ajax('2.2.6.php','','contenido1.2')" >Diagnóstico Sintético</li>
-                        <li onclick="ejecuta_ajax('2.2.8.php','','contenido1.2')" >Ambito Espacial</li>
 
-                        </ul>
+                        <div  style="text-align:justify;" id="contenido2.0">
+
                         </div>
-
                     </div>
 
-                        <div class="col-md-4">
+						<div class="col-md-4">
 
-                        <div id="global">
-                        <div id="contenido1.2">
+						<div id="global">
+						<div id="contenido2.2">
 
-                        </div>
-                        </div>
+						</div>
+						</div>
 
-                        <style>
+						<style>
 						#global {
 						height: 500px;
 						width:316%;
 						overflow-y: scroll;
 						}
-						#contenido1.1 {
+						#contenido2.2 {
 						height: auto;
 						}
 
 						</style>
 
-                        </div>
+						</div>

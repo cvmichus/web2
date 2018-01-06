@@ -1,6 +1,6 @@
 
 <p>
-<img src="img/2.2.2.png" width="100%">
+<img src="img/PDesarrollo-4.png" alt="" width="100%">
 </p>
 
 

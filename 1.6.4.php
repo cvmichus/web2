@@ -1,5 +1,6 @@
+
 <p>
-<img src="img/1.5 BID.png" width="100%">
+<img src="img/1.6_2.jpg" width="100%">
 </p>
 
 

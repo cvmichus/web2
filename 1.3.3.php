@@ -1,14 +1,11 @@
-<p>
-Conducir las políticas públicas orientadas a fortalecer el desarrollo de la actividad turística, promover la innovación en el sector, mejorar la calidad de los servicios turísticos y la competitividad del turismo nacional, impulsando estrategias transversales que articulen las acciones gubernamentales, del sector privado y social, contribuyendo al crecimiento sustentable e incluyente del turismo.
+<p style="color:#f0b65a">
+Establecer criterios que aseguren la óptima protección, conservación y aprovechamiento de los recursos naturales, conformando así una política ambiental integral e incluyente que permita alcanzar el desarrollo sustentable.
 </p>
-<p>
-Definir proyectos específicos que que fomente la actividad económica y turismo en los núcleos urbanos de las ZEE vinculando la industria y la agroindustria. 
-/p>
 
 
   <style>
 	p{
-		font-size:10pt;color:#1e2f43;text-decoration:none; width:600px; text-align:left;
+		font-size:10pt;color:#f0b65a;text-decoration:none; width:600px; text-align:left;
 		}
 	
 		</style>

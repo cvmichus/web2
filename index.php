@@ -22,10 +22,8 @@
 
 
 
-    <link href="plugins/owl-carousel/owl.carousel.css" rel="stylesheet">
-    <link href="plugins/owl-carousel/owl.theme.css" rel="stylesheet">
-    <link href="plugins/owl-carousel/owl.transitions.css" rel="stylesheet">
-    <link href="plugins/Lightbox/dist/css/lightbox.css" rel="stylesheet">
+   
+   
     <link href="plugins/Icons/et-line-font/style.css" rel="stylesheet">
     <link href="plugins/animate.css/animate.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
@@ -52,15 +50,7 @@
 
     <link rel="stylesheet" type="text/css" href="shadowbox/shadowbox.css">
       <script type="text/javascript" src="shadowbox/shadowbox.js"></script>
-      <script type="text/javascript">
-      Shadowbox.init({
-      language:   "es",
-      modal: true,
-      players:    ['html', 'iframe', 'qt', 'wmp', 'php', 'flv']
-      });
-      </script>
-
-
+     
 
         <script>
             $(function() {

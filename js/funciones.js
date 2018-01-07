@@ -832,6 +832,106 @@ function limpiar2()
                    document.getElementById("sss2.30").style="font-size:8pt;color:#3f1678;text-decoration:none;cursor: pointer"
                  }
 
+
+                 function activasec52(){
+                   document.getElementById("sss2.31").style="font-weight:bold;font-size:8pt;color:#1e2f43;text-decoration:none;cursor: pointer";
+                   document.getElementById("sss2.32").style="font-size:8pt;color:#1e2f43;text-decoration:none;cursor: pointer";
+         
+                 }
+
+
+
+                 function activasec53(){
+                   document.getElementById("sss2.32").style="font-weight:bold;font-size:8pt;color:#1e2f43;text-decoration:none;cursor: pointer";
+                   document.getElementById("sss2.31").style="font-size:8pt;color:#1e2f43;text-decoration:none;cursor: pointer";
+         
+                 }
+
+
+                 //CIUDADES
+                 //
+                function cargar3(div, desde)
+                {
+                $(div).load(desde);
+                }
+
+                function limpiar3()
+                {
+                document.getElementById("contenido3.3").innerHTML="";
+                }
+
+
+
+                   function t31(){
+                   document.getElementById("t3.1").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t3.2").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                    document.getElementById("contenido3.3").innerHTML="";
+                 }
+
+                   function t32(){
+                   document.getElementById("t3.2").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t3.1").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                    document.getElementById("contenido3.3").innerHTML="";
+                 }
+
+
+                   function activasec311(){
+                   document.getElementById("sss311").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss312").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss313").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+               
+                 }
+
+                   function activasec312(){
+                  document.getElementById("sss312").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss311").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss313").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+           
+                 }
+
+                   function activasec313(){
+                  document.getElementById("sss313").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss311").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss312").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   
+                 }
+
+
+                      //3.2 Lázaro Cárdenas
+                      
+                   function activasec321(){
+                    document.getElementById("sss321").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss322").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss323").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss324").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   
+                 }
+
+                   function activasec322(){
+                  document.getElementById("sss322").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss321").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss323").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss324").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   
+                 }
+
+                   function activasec323(){
+                   document.getElementById("sss323").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss321").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss322").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss324").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   
+                 }
+
+                   function activasec324(){
+                  document.getElementById("sss324").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss321").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss322").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss323").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   
+                 }
+
+
  
 
 

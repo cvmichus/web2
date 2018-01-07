@@ -1,7 +1,14 @@
 <p>
-Este tipo de programas determinan la zonificación primaria y los usos compatibles en su nivel fundamental. Incorporan la dimensión ambiental y la gestión integral de la ciudad como garantes de la sustentabilidad. Crean el universo en el que se inscriben los planes municipales de desarrollo, los de centro de población y sus planes parciales.
-
+<img src="img/ciudades/tapachula/1-CONTEXTO REGIONAL.jpg" width="100%">
 </p>
+<p>
+<img src="img/ciudades//tapachula/2-CONTEXTO METROPOLITANO TAPACHULA.jpg" width="100%">
+</p>
+
+<p>
+<img src="img/ciudades//tapachula/3-TAPACHULA Urbano.jpg" width="100%">
+</p>
+
 
   <style>
 	p{

@@ -932,10 +932,264 @@ function limpiar2()
                  }
 
 
- 
+                 //GOBERNANZA 
+
+                 function cargar4(div, desde)
+                {
+                $(div).load(desde);
+                }
+
+                function limpiar4()
+                {
+                document.getElementById("contenido4.4").innerHTML="";
+                }
+
+                 function t41(){
+                   document.getElementById("t4.1").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.2").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.3").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.4").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.5").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.6").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.7").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("contenido4.4").innerHTML="";
+                 }
+
+                 function t42(){
+                   document.getElementById("t4.2").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.1").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.3").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.4").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.5").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.6").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.7").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("contenido4.4").innerHTML="";
+                 }
+
+                 function t43(){
+                   document.getElementById("t4.3").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.2").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.1").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.4").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.5").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.6").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.7").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("contenido4.4").innerHTML="";
+                 }
+
+                 function t44(){
+                   document.getElementById("t4.4").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.2").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.3").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.1").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.5").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.6").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.7").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("contenido4.4").innerHTML="";
+                 }
+
+                 function t45(){
+                   document.getElementById("t4.5").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.2").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.3").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.4").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.1").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.6").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.7").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("contenido4.4").innerHTML="";
+                 }
+
+                 function t46(){
+                   document.getElementById("t4.6").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.2").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.3").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.4").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.5").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.1").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.7").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("contenido4.4").innerHTML="";
+                 }
+
+                 function t47(){
+                   document.getElementById("t4.7").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.2").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.3").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.4").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.5").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.6").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("t4.1").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("contenido4.4").innerHTML="";
+                 }
+
+                 //4.1 Contexto: Marco Normativo Urbano
+                 
+                  function activasec411(){
+                  document.getElementById("sss411").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss412").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss413").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                 }
+
+                 function activasec412(){
+                  document.getElementById("sss412").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss411").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss413").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                 }
+
+                 function activasec413(){
+                  document.getElementById("sss413").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss412").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss411").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                 }
+            
+             //4.2 
+             //
+                function activasec421(){
+                  document.getElementById("sss421").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss422").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss423").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                 }
+
+                  function activasec422(){
+                  document.getElementById("sss422").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss421").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss423").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                 }
+
+                  function activasec423(){
+                  document.getElementById("sss423").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss421").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss422").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                 }
+
+                 //4.3.1¿Qué dice la Constitución Federal?
+                  function activasec431(){
+                  document.getElementById("sss431").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                 }
+
+                   //4.4.4
+                  function activasec441(){
+                  document.getElementById("sss441").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss442").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss443").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss444").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                 }
+
+                  function activasec442(){
+                  document.getElementById("sss442").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss441").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss443").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss444").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                 }
+
+                  function activasec443(){
+                  document.getElementById("sss443").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss442").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss441").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss444").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                 }
+
+                  function activasec444(){
+                  document.getElementById("sss444").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss442").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss443").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss441").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                 }
 
 
+                  function activasec451(){
+                  document.getElementById("sss451").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss452").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  
+                 }
+
+                   function activasec452(){
+                  document.getElementById("sss452").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss451").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  
+                 }
 
 
+                 //4.6 Organismos de gestión
+                  function activasec461(){
+                  document.getElementById("sss461").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss462").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss463").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss464").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss465").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss466").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   }
 
-          
+                    function activasec462(){
+                  document.getElementById("sss462").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss461").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss463").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss464").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss465").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss466").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   }
+
+                    function activasec463(){
+                  document.getElementById("sss463").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss462").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss461").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss464").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss465").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss466").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   }
+
+                    function activasec464(){
+                  document.getElementById("sss464").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss462").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss463").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss461").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss465").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss466").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   }
+
+                    function activasec465(){
+                  document.getElementById("sss465").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss462").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss463").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss464").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss461").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss466").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   }
+
+                    function activasec466(){
+                  document.getElementById("sss466").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss462").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss463").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss464").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss465").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss461").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   }
+
+
+                    //4.7 Gobernanza de los Planes
+                  function activasec471(){
+                  document.getElementById("sss471").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss472").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss473").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss474").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   }
+
+                   function activasec472(){
+                  document.getElementById("sss472").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss471").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss473").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss474").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   }
+
+                   function activasec473(){
+                  document.getElementById("sss473").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss471").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss472").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss474").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   }
+
+                   function activasec474(){
+                  document.getElementById("sss474").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss471").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss473").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss472").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   }

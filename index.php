@@ -88,7 +88,7 @@
 
 </head>
 
-<body onload="cargar('#contenido1', '1.1.php');cargar2('#contenido2', '2.2.php');cargar3('#contenido3', '3.3.php');">
+<body onload="cargar('#contenido1', '1.1.php');cargar2('#contenido2', '2.2.php');cargar3('#contenido3', '3.3.php');cargar4('#contenido4', '4.4.php');">
     <!-- Preloader
     ============================================= -->
     <div  class="preloader"><i class="fa fa-circle-o-notch fa-spin fa-2x"></i></div>
@@ -188,6 +188,17 @@
 
         <div class="ciudades-box">
         <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido3">
+        </div>
+        </div>
+        </div>
+        </section>
+    <br><br>
+
+      <section id="gobernanza">
+        <div class="container">
+
+        <div class="gobernanza-box">
+        <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido4">
         </div>
         </div>
         </div>

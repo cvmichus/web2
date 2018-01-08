@@ -88,7 +88,7 @@
 
 </head>
 
-<body onload="cargar('#contenido1', '1.1.php');cargar2('#contenido2', '2.2.php');cargar3('#contenido3', '3.3.php');cargar4('#contenido4', '4.4.php');">
+<body onload="cargar('#contenido1', '1.1.php');cargar2('#contenido2', '2.2.php');cargar3('#contenido3', '3.3.php');cargar4('#contenido4', '4.4.php');cargar5('#contenido5', '5.5.php');cargar6('#contenido6', '6.6.php');">
     <!-- Preloader
     ============================================= -->
     <div  class="preloader"><i class="fa fa-circle-o-notch fa-spin fa-2x"></i></div>
@@ -199,6 +199,29 @@
 
         <div class="gobernanza-box">
         <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido4">
+        </div>
+        </div>
+        </div>
+        </section>
+    <br><br>
+
+
+     <section id="insumos">
+        <div class="container">
+
+        <div class="insumos-box">
+        <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido5">
+        </div>
+        </div>
+        </div>
+        </section>
+    <br><br>
+
+    <section id="planes">
+        <div class="container">
+
+        <div class="planes-box">
+        <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido6">
         </div>
         </div>
         </div>

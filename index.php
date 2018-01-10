@@ -134,13 +134,17 @@
     <!--<img src="img/separador.png" width="2%">-->
      </nav>
 
-<br><br><br>
-
 	<!--SLIDE-->
 	<div id="conteiner">
 	<center >
-	<br>
-	<img src="home.png" width="50%">
+	<img src="city_crr.gif" width="65%">
+   <div class="container">
+           <center  style="font-size: 3em; font-family: Rokkitt;color:#e3313d;font-weight:bold;letter-spacing: 10px;">
+
+                            OTyDUZEE</center>
+
+                            <p><center style="font-size: 1.2em; font-family: Montserrat;font-weight:999; color:#1e2f43;" >ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO <br>PARA ZONAS ECONÓMICAS ESPECIALES</center></p>
+                   </div>
 	</center>
 	</div>
 	<!--SLIDE-->
@@ -149,16 +153,7 @@
   
     <!-- Welcome
     ============================================= -->
-    <section id="welcome">
-        <div class="container">
-           <center  style="font-size: 3em; font-family: Rokkitt;color:#e3313d;font-weight:bold;letter-spacing: 10px;">
-
-														OTyDUZEE</center>
-
-                            <p><center style="font-size: 1.2em; font-family: Montserrat;font-weight:999; color:#1e2f43;" >ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO <br>PARA ZONAS ECONÓMICAS ESPECIALES</center></p>
-                   </div>
-    </section>
-<br><br>
+ 
     <!-- Services
     ============================================= -->
         <section id="services">

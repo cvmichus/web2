@@ -41,20 +41,11 @@ A continuación se presenta un listado de trámites que se deberán de realizar 
 30. Visto bueno de lotificación y vialidad<br><br>
 31. Autorización definitiva<br><br>
  
-<stronng style="font-weight:bold;font-size:12pt;color:#1e2f43;">CAPALAC</stronng>
-<br><br>
- 32. Factibilidad de alcantarillado sanitario y pluvial<br><br>
-33. Constancia de no adeudo<br><br>
-34. Contrato de servicios<br><br>
-35. Estudio de factibilidad<br><br>
-36. Desazolve de drenaje<br><br>
-37. Reconexión de servicios<br><br>
-38. Reparación de fuga<br><br>
-39. Constancia de no servicio<br><br>
- 
 <stronng style="font-weight:bold;font-size:12pt;color:#1e2f43;">Coordinación de fomento económico.</stronng>
 <br><br>
-40. Licencia de funcionamiento giro blanco mediano y alto riesgo (persona moral)<br><br>
+
+32. Licencia de funcionamiento giro blanco mediano y alto riesgo (persona moral)
+
 
 </p>
 

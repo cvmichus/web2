@@ -1,17 +1,17 @@
 <p style="color:#7b223c">
-Usar los fondos provenientes de los mercados financieros para financiar los proyectos de desarrollo en sus países miembros.
+Construcción y modernización de carreteras, caminos rurales y alimentadores, libramientos y puentes. 
 </p>
 <p style="color:#7b223c">
-Generar indicadores de medición para el desarrollo sustentable
+Fortalecer  la red de carreteras federales.
 </p>
 <p style="color:#7b223c">
-Complementar las inversiones privadas cuando no haya disponibilidad de capital privado en términos y condiciones razonables.
+(ASA) Participar en el desarrollo de nuevas instalaciones aeroportuarias.
 </p>
 <p style="color:#7b223c">
-Otorgar asistencia técnica para preparar, financiar, e implementar proyectos de desarrollo.
+(TRANSPORTE FERROVIARIO) Reducir costos logísticos con libramientos y relocalización de vías, acortamientos y obras de conexión a los nodos logísticos.
 </p>
 <p style="color:#7b223c">
-Preservar el patrimonio histórico y/o patrimonial de las ciudades
+(TRANSPORTE FERROVIARIO) Mejorar la seguridad ferroviaria a través de conservación y modernización de vías, puentes y un programa integral de seguridad ferroviaria.
 </p>
 
   <style>

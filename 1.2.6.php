@@ -1,15 +1,10 @@
 <p style="color:#9bccd2">
-Impulsar el ordenamiento y la transformación del sector turístico
+Financiar  proyectos de  infraestructura y servicios públicos .
 </p>
 <p style="color:#9bccd2">
-Impulsar la innovación de la oferta del sector turístico.
+Coadyuvar al fortalecimiento  de los gobiernos federal, estatales y municipales.
 </p>
-<p style="color:#9bccd2">
-Financiar la promoción eficaz de los destinos turísticos.
-</p>
-<p style="color:#9bccd2">
-Fomentar un mayor flujo  de inversiones
-</p>
+
 
   <style>
 	p{

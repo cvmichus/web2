@@ -1,11 +1,11 @@
 <p style="color:#19481e">
-Mejorar la perspectiva económica
+Mejorar la perspectiva económica.
 </p>
 <p style="color:#19481e">
-Contrarrestar la desigualdad e inequidad económica y social
+Contrarrestar la desigualdad e inequidad económica y social.
 </p>
 <p style="color:#19481e">
-invertir en  proyectos para  alcanzar rentabilidad económica
+Invertir en  proyectos para  alcanzar rentabilidad económica.
 </p>
 
 

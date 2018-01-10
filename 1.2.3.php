@@ -1,32 +1,17 @@
 <p style="color:#f0b65a">
-Mejorar la perspectiva económica
+Conservación y aprovechamiento sustentable de los ecosistemas y su biodiversidad.
 </p>
 <p style="color:#f0b65a">
-Conservación del medio ambiente y desarrollo con énfasis en la prevención de riesgos.
+Prevención y control de la contaminación.
 </p>
 <p style="color:#f0b65a">
-Disminución de la pobreza
+Gestión integral de los recursos hídricos.
 </p>
 <p style="color:#f0b65a">
-Mejorar la cobertura del equipamiento de impacto regional
+Combate al cambio climático.
 </p>
 <p style="color:#f0b65a">
-Incrementar la construcción de viviendas dignas y servicios básicos
-</p>
-<p style="color:#f0b65a">
-Mejorar la perspectiva económica
-</p>
-<p style="color:#f0b65a">
-Posicionar el turismo a nivel nacional e internacional
-</p>
-<p style="color:#f0b65a">
-Fortalecer la  infraestructura vial
-</p>
-<p style="color:#f0b65a">
-Elevar la eficacia de los programas de cultura ambiental
-</p>
-<p style="color:#f0b65a">
-Promover el manejo sustentable de los recursos hídricos
+Mitigación de riesgos.
 </p>
 
   <style>

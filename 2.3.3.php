@@ -1,26 +1,24 @@
 
 <p>
 Características
-Los Programas Municipales de Desarrollo Urbano tienen por objeto el desarrollo urbano en el territorio municipal. Estos programas contienen la zonificación y las líneas de acción específicas para la ordenación y regulación de los centros de población del municipio.
-<br><br>
-Ámbito de actuación
-<br><br>
-Municipal
-<br><br>
-Instancia de Formulación
-<br><br>
-Instancia de Aprobación 
-<br><br>
-
 </p>
 
 <p>
-CHIAPAS: Tendrán que ser elaborados por el Instituto Ciudadano de Planeación Municipal. o el Área competente del Ayuntamiento, quien consultará a la Comisión Consultiva de Desarrollo Urbano; quien opinará y dictaminará. Serán aprobados por el Municipio.
+Este tipo de programas determinan la zonificación primaria y los usos compatibles en su nivel fundamental. Incorporan la dimensión ambiental y la gestión integral de la ciudad como garantes de la sustentabilidad. Crean el universo en el que se inscriben los planes municipales de desarrollo, los de centro de población y sus planes parciales.
 <br><br>
-MICHOACAN: formulados, aprobados, ejecutados, controlados y evaluados por los ayuntamientos correspondientes, a través de la coordinación que para el efecto establezcan los gobiernos municipales con el Gobierno del Estado. 
+Ámbito de actuación
 <br><br>
-GUERRERO: Autoridades municipales formulan y aprueban
+Estatal
 <br><br>
+Municipal
+<br><br>	
+</p>
+
+<p>
+Instancia de Formulación<br><br>	
+Instancia de Aprobación <br><br>	
+Elabora y Aprueba: Comisión de ordenamiento metropolitano o de Conurbación
+
 </p>	
 
 

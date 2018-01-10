@@ -1,8 +1,8 @@
 
 <p>
 <strong>Mapa de Actores </strong>
-<br><br>
-<img src="img/4.5.png"  width="100%">
+
+<img src="img/4.jpg"  width="100%">
 
 </p>
 <

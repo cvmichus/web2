@@ -1,7 +1,10 @@
 
 <p>
-Los Programas Parciales de Desarrollo Urbano son instrumentos técnico-jurídicos y administrativos de la planeación urbana, para la inducción y precisión del ordenamiento y regulación, en la consolidación de un área específica estratégicamente determinada dentro de un centro de población, sus usos y destinos, así como la determinación de las acciones de conservación, mejoramiento y crecimiento requeridas y contendrán además de los elementos básicos.
+Características
+</p>
 
+<p>
+Los Programas Parciales de Desarrollo Urbano son instrumentos técnico-jurídicos y administrativos de la planeación urbana, para la inducción y precisión del ordenamiento y regulación, en la consolidación de un área específica estratégicamente determinada dentro de un centro de población, sus usos y destinos, así como la determinación de las acciones de conservación, mejoramiento y crecimiento requeridas y contendrán además de los elementos básicos.
 </p>
 
 <p>

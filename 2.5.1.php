@@ -1,6 +1,6 @@
 
 <p>
-<img src="img/PPDU-1.png" alt="" width="100%">
+<img src="img/diagramas-09.png" alt="" width="100%">
 </p>
 
 

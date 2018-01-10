@@ -1,21 +1,16 @@
 <p style="color:#e37435">
-Controlar, dirigir y regular los usos, reservas y destinos del suelo.
+Impulsar el ordenamiento y la transformación del sector turístico.
 </p>
 <p style="color:#e37435">
-Definir áreas de crecimiento territorial.
+Impulsar la innovación de la oferta del sector turístico.
 </p>
 <p style="color:#e37435">
-Cubrir déficit de  infraestructura urbana.
+Financiar la promoción eficaz de los destinos turísticos.
 </p>
 <p style="color:#e37435">
-Mejorar la cobertura del equipamiento urbano.
+Fomentar un mayor flujo  de inversiones.
 </p>
-<p style="color:#e37435">
-Mejorar la calidad  de vida de la población.
-</p>
-<p style="color:#e37435">
-Cubrir déficit de equipamiento asistenciario.
-</p>
+
 
   <style>
 	p{

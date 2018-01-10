@@ -1,49 +1,54 @@
-<?php
-$secc = "p5";
-?>
-<p>
-  <table id="t01">
-
-  <tr>
-  <td width="40%">Definición</td>
-  <td width="30%">Abreviatura</td>
-  <td width="20%">Origen</td>
-  </tr>
+<table >
+<tr>
+<th>Definición</th>
+<th>Abreviatura</th>
+<th>Origen</th>
+</tr>
 
 <tr>
-    <td>
-    La persona moral o entidad paraestatal que, con base en un Permiso o Asignación, funge como desarrollador-operador de la Zona y en tal carácter tiene a su cargo la construcción, desarrollo, administración y mantenimiento de la misma, incluyendo los Servicios Asociados o, en su caso, la tramitación de éstos ante las instancias correspondientes;
-  </td>
-    <td>
-    Admon. Integral
-    </td>
-    <td>ZEE/SHCP</td>
+<td>
+La persona moral o entidad paraestatal que, con base en un Permiso o Asignación, funge como desarrollador-operador de la Zona y en tal carácter tiene a su cargo la construcción, desarrollo, administración y mantenimiento de la misma, incluyendo los Servicios Asociados o, en su caso, la tramitación de éstos ante las instancias correspondientes;
+</td>
+<td>
+Admon. Integral
+</td>
+<td>ZEE/SHCP</td>
 </tr>
 </table>
-</p>
+
 
 <style>
-p{
-  font-size:9pt;color:#1e2f43;text-decoration:none; width:600px; text-align:left;
-  }
 
-  table#t01 tr {
+  table {  
+    font-size: 9px;
+	margin: 5px;
+	width: 550px;
+	text-align: left;
+	border-collapse: collapse; 
+	}
+	
+	th { 
+	font-size: 10px;
+	font-weight: normal;
+	padding: 8px;
+	background: #b9c9fe;
+    border-top: 4px solid #aabcfe;
+    border-bottom: 1px solid #fff; 
+	color: #039; 
+	font-size:9pt;
+	text-align:center;
+	}
+	
+	td {    
+	padding: 8px;
+	font-size:9pt;
+    border-bottom: 1px solid #fff;
+      border-top: 1px solid transparent; 
+	  }
 
-    color: #1e2f43k;
+tr:hover td { 
+
+color: #339; 
 }
-
-table#t01 tr:nth-child(even) {
-
-}
-table#t01 tr:nth-child(odd) {
-
-}
-
-
-  .lista{
-    font-size:9pt;color:#1e2f43;text-decoration:none; width:600px; text-align:left;
-  }
-
-
 
   </style>

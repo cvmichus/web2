@@ -1,0 +1,41 @@
+                <div class="col-md-4" >
+					<div style="text-align:justify;">
+					<span id="t6.1" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"  onclick="ejecuta_ajax('6.1.0.php','','contenido6.0');t61();limpia6();">6.1 Programa Parcial para ZEE</span><br><br>
+
+					<span id="t6.2" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"  onclick="ejecuta_ajax('6.2.0.php','','contenido6.0');t62();limpia6();" >6.2 Programa Municipal de Desarrollo Urbano </span><br><br>
+
+					<span id="t6.3" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"  onclick="ejecuta_ajax('6.3.0.php','','contenido6.0');t63();limpia6();" >6.3 Programa Metropolitano de OT y DU </span><br><br>
+
+					<span id="t6.4" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"  onclick="ejecuta_ajax('6.4.0.php','','contenido6.0');t64();limpia6();" >6.4 Programa de Desarrollo para ZEE</span><br><br>
+
+					</div>
+                    </div>
+
+                    <div class="col-md-4">
+
+                        <div  style="text-align:justify;" id="contenido6.0">
+
+                        </div>
+                    </div>
+
+						<div class="col-md-4">
+
+						<div id="global">
+						<div id="contenido6.6">
+
+						</div>
+						</div>
+
+						<style>
+						#global {
+						height: 500px;
+						width:316%;
+						overflow-y: scroll;
+						}
+						#contenido6.6 {
+						height: auto;
+						}
+
+						</style>
+
+						</div>

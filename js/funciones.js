@@ -1361,3 +1361,35 @@ function limpiar2()
             
                  } 
  
+	function cargar7(div, desde)
+                {
+                $(div).load(desde);
+                }
+
+                function limpiar7()
+                {
+                document.getElementById("contenido7.7").innerHTML="";
+                }
+				
+				function t71(){
+                  document.getElementById("t7.1").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                document.getElementById("contenido7.7").innerHTML="";
+                }
+				
+				
+				 function t711(){
+                    document.getElementById("t711").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("t712").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("t713").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("t714").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+              
+                 }
+				
+				 function t712(){
+                    document.getElementById("t712").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("t711").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("t713").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("t714").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+              
+                 }
+				

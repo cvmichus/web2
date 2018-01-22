@@ -124,7 +124,7 @@
                       <li><a href="#ciudades" class="page-scroll">CIUDADES CES</a></li>
                       <li><a href="#gobernanza" class="page-scroll">GOBERNANZA</a></li>
                       <li><a href="#insumos" class="page-scroll">INSUMOS</a></li>
-                      <li><a href="#planes" class="page-scroll">PLANES</a></li>
+                      <li><a href="#planes" class="page-scroll">INDICES</a></li>
                       <li><a href="#glosario" class="page-scroll">GLOSARIO</a></li>
 
 

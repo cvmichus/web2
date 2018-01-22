@@ -3,7 +3,9 @@
 
 
 <table class="tableizer-table">
-<thead><tr style="color:#fff;text-align: center" class="tableizer-firstrow"><th>Fase </th><th>Contenido</th></tr></thead><tbody>
+<thead><tr class="tableizer-firstrow"><th colspan="2">Programa Parcial de ZEE</th></tr></thead><tbody>
+ <tr><td colspan="2">Esta tabla contiene un índice propuesto para esta Guía derivado de un estudio del marco normativo. Por lo tanto contiene los alcances y componentes mínimos que determina el marco legal, así como los necesarios para vincular el instrumento de desarrollo urbano con el proyecto de la ZEE. </td></tr>
+ <tr><td>Fase </td><td>Contenido</td></tr>
  <tr><td>I. Fundamentación Jurídica</td><td>I.1 Motivación</td></tr>
  <tr><td>&nbsp;</td><td>I.2 Fundamentación Jurídica</td></tr>
  <tr><td>&nbsp;</td><td>I.3 Proceso de Consulta Pública</td></tr>
@@ -53,7 +55,6 @@
  <tr><td>&nbsp;</td><td>VI.5 Instrumentos Jurídicos</td></tr>
  <tr><td>&nbsp;</td><td>VI.6 Instrumentos Administrativos</td></tr>
 </tbody></table>
-
 </p>
 
   <style>
@@ -61,8 +62,7 @@
 		font-size:10pt;color:#1e2f43;text-decoration:none; width:600px; text-align:left;
 		}
 
-
-   table.tableizer-table {
+	table.tableizer-table {
 		font-size: 12px;
 		border: 1px solid #CCC; 
 		font-family: Arial, Helvetica, sans-serif;
@@ -73,7 +73,7 @@
 		border: 1px solid #CCC;
 	}
 	.tableizer-table th {
-		background-color: #1e2f43; 
+		background-color: #104E8B; 
 		color: #FFF;
 		font-weight: bold;
 	}

@@ -1219,34 +1219,83 @@ function limpiar2()
                    document.getElementById("contenido5.5").innerHTML="";
                  }
 
+                 //5.1 TAPACHULA 
 
                   function activasec511(){
                   document.getElementById("sss511").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss512").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss513").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss514").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
-                   }
+                  document.getElementById("sss515").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5132").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5131").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  }
 
-                   function activasec512(){
+                  function activasec512(){
                   document.getElementById("sss512").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss511").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss513").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss514").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
-                   }
+                  document.getElementById("sss515").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5132").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5131").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  }
 
-                   function activasec513(){
+                  function activasec513(){
                   document.getElementById("sss513").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss512").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss511").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss514").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
-                   }
+                  document.getElementById("sss5132").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5131").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss515").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  }
 
-                   function activasec514(){
+                  function activasec514(){
                   document.getElementById("sss514").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss512").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss513").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss511").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
-                   }
+                  document.getElementById("sss5132").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5131").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss515").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  }
+
+                  function activasec5131(){
+                  document.getElementById("sss5131").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss512").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss513").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss511").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss514").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5132").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss515").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+
+                  }
+
+                  function activasec5132(){
+                  document.getElementById("sss5132").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss512").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss513").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss511").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss514").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5131").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss515").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  }
+
+                      function activasec515(){
+                  document.getElementById("sss515").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss512").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss513").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss511").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss514").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5131").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5132").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+
+
+                  }
+
+
+                   //5.1 TAPACHULA 
 
 
                     function activasec521(){

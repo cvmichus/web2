@@ -4,7 +4,7 @@
 
 					<span id="t6.2" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"  onclick="ejecuta_ajax('6.2.0.php','','contenido6.0');t62();limpia6();" >6.2 Programa Municipal de Desarrollo Urbano </span><br><br>
 
-					<span id="t6.3" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"  onclick="ejecuta_ajax('6.3.0.php','','contenido6.0');t63();limpia6();" >6.3 Programa Metropolitano de OT y DU </span><br><br>
+					<span id="t6.3" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"  onclick="ejecuta_ajax('6.3.0.php','','contenido6.0');t63();limpia6();" >6.3 Programa Metropolitano de Ordenamiento Territorual y Desarrollo Urbano </span><br><br>
 
 					<span id="t6.4" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"  onclick="ejecuta_ajax('6.4.0.php','','contenido6.0');t64();limpia6();" >6.4 Programa de Desarrollo para ZEE</span><br><br>
 

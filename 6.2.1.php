@@ -2,7 +2,9 @@
 <p>
 
 <table class="tableizer-table">
-<thead><tr class="tableizer-firstrow"><th>Línea Estratégica</th><th>Acción</th></tr></thead><tbody>
+<thead><tr class="tableizer-firstrow"><th colspan="2">Programa Municipal de Desarrollo Urbano</th></tr></thead><tbody>
+ <tr><td colspan="2">Esta tabla contiene un índice propuesto para esta Guía derivado de un estudio del marco normativo. Por lo tanto contiene los alcances y componentes mínimos que determina el marco legal, así como los necesarios para vincular el instrumento de desarrollo urbano con el proyecto de la ZEE. </td></tr>
+ <tr><td>Fase </td><td>Contenido</td></tr>
  <tr><td>I. Alcances y Fundamentación Jurídica</td><td> I.1 Alcances del Plan Municipal de Desarrollo Urbano</td></tr>
  <tr><td>&nbsp;</td><td>Objetivos</td></tr>
  <tr><td>&nbsp;</td><td>Delimitación del municipio</td></tr>
@@ -71,5 +73,4 @@
 		color: #FFF;
 		font-weight: bold;
 	}
-   
 		</style>

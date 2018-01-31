@@ -1303,6 +1303,11 @@ function limpiar2()
                   document.getElementById("sss522").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss523").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss524").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5231").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5232").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5233").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5234").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss525").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                    }
 
                      function activasec522(){
@@ -1310,6 +1315,11 @@ function limpiar2()
                   document.getElementById("sss521").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss523").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss524").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5231").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5232").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5233").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5234").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                    document.getElementById("sss525").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                    }
 
                      function activasec523(){
@@ -1317,6 +1327,11 @@ function limpiar2()
                   document.getElementById("sss521").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss522|").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss524").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5231").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5232").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5233").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5234").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                    document.getElementById("sss525").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                    }
 
                      function activasec524(){
@@ -1324,6 +1339,77 @@ function limpiar2()
                   document.getElementById("sss522").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss523").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                   document.getElementById("sss521").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5231").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5232").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5233").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5234").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss525").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   }
+
+
+
+
+                     function activasec5231(){
+                  document.getElementById("sss5231").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss522").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss523").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss521").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss524").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5232").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5233").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5234").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss525").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   }
+
+
+                   function activasec5232(){
+                  document.getElementById("sss5232").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss522").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss523").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss521").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss524").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5231").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5233").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5234").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss525").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   }
+
+
+                       function activasec5233(){
+                  document.getElementById("sss5233").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss522").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss523").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss521").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss524").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5231").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5232").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5234").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss525").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   }
+
+                         function activasec5234(){
+                  document.getElementById("sss5234").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss522").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss523").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss521").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss524").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5231").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5232").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5233").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss525").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   }
+
+
+                             function activasec525(){
+                  document.getElementById("sss525").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss522").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss523").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss521").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss524").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5231").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5232").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5233").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss5234").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                    }
 
                    //PLANES

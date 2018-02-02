@@ -1,8 +1,5 @@
 
 <p>
-<strong>Recomendación</strong>
-<br><br>
-
 De acuerdo con el art. 22 de la LGAHOTyDU, la planeación, regulación y evaluación del Ordenamiento Territorial de los Asentamientos Humanos y del Desarrollo Urbano de los Centros de Población; como parte del SNPD como una política de carácter global, sectorial y regional; debe coadyuvar al logro de los objetivos del Plan Nacional de Desarrollo y de los programas federales, estatales y municipales entre los que no se debe dejar de lado el Programa de  Desarrollo de las Zonas Económicas Especiales. 
 <br><br>
 

@@ -1,7 +1,6 @@
 
 <p>
-<strong>Consejo Consultivo de Desarrollo Metropolitano:</strong>
-<br><br>
+
 Función:<br><br> promover los procesos de consulta pública e interinstitucional en las diversas fases de la formulación, aprobación, ejecución y seguimiento de los programas.
 <br><br>
 

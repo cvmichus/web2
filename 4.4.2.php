@@ -1,7 +1,6 @@
 
 <p>
-<strong>Definición de mecanismos y sustento legal</strong>
-<br><br>
+
 Consejos Locales y Municipales de Ordenamiento Territorial, Desarrollo Urbano y Metropolitano. 
 <br><br>
 El artículo 19 de la LGAHOTyDU establece que para asegurar la consulta y la deliberación de las políticas de ordenamiento territorial  y planeación del desarrollo urbano y desarrollo metropolitano, conforme al Sistema de Planeación Democrática (art. 26 CPEUM); las entidades federativas y los municipios de acuerdo con sus respectivas competencias, conformen órganos auxiliares de participación ciudadana y de conformación plural. 

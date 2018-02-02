@@ -1,5 +1,5 @@
 
-<p>
+<p style="color:#403c3b;font-size:10pt;font-weight:bold;">
 Características
 </p>
 
@@ -8,18 +8,17 @@ Los Programas Parciales de Desarrollo Urbano son instrumentos técnico-jurídico
 </p>
 
 <p>
-Ámbito de actuación
+Ámbito de actuación 
 <br><br>
-Municipal
+Municipal 
 <br><br>
-Instancia de Formulación
+Instancia de Formulación 
 <br><br>
 Instancia de Aprobación 
 <br><br>
-CHIAPAS: Serán elaborados, aprobados, ejecutados, controlados y evaluados por los municipios correspondientes, con la opinión de las dependencias involucradas. <br><br>
-MICHOACAN: Aprobados, ejecutados, controlados y evaluados por los Ayuntamientos correspondientes, observando la coordinación que para el efecto realicen con el Gobierno del Estado, o en su caso, con la Federación. 
-<br><br>
-GUERRERO:  Autoridades Municipales formulan y aprueban.
+<span style="color:#403c3b;font-size:10pt;font-weight:bold;">CHIAPAS:</span> Serán elaborados, aprobados, ejecutados, controlados y evaluados por los municipios correspondientes, con la opinión de las dependencias involucradas. <br><br>
+<span style="color:#403c3b;font-size:10pt;font-weight:bold;">MICHOACAN:</span> Aprobados, ejecutados, controlados y evaluados por los Ayuntamientos correspondientes, observando la coordinación que para el efecto realicen con el Gobierno del Estado, o en su caso, con la Federación. <br><br>
+<span style="color:#403c3b;font-size:10pt;font-weight:bold;">GUERRERO:</span> Autoridades Municipales formulan y aprueban.
 	</p>
 
 

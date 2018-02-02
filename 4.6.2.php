@@ -1,7 +1,6 @@
 
 <p>
-<strong>Consejo Técnico de la ZEE: </strong>
-<br><br>
+
 Función: <br><br>Consejo técnico multidisciplinario para cada ZEE  con autonomía en sus funciones, instancia intermedia entre el Administrador y la SHCP para el seguimiento de la operación, la evaluación de desempeño y coadyuvancia para el cumplimiento de los objetivos. Coordinar acciones de la administración pública en el ámbito de sus atribuciones para reducir costos y plazos que enfrentan los empresarios al realizar procesos ante oficinas gubernamentales. 
 <br><br>
 

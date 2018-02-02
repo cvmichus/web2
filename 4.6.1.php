@@ -1,7 +1,6 @@
 
 <p>
-<strong>Consejo Nacional de Ordenamiento Territorial y Desarrollo Urbano</strong>
-<br><br>
+
 Función:<br><br>
  instancia de carácter consultivo, de conformación plural y de participación ciudadana, convocada por el titular de la SEDATU, para la consulta, asesoría, seguimiento y evaluación de las políticas nacionales en la materia.
 <br><br>

@@ -1,7 +1,6 @@
 
 <p>
-<strong>Planeación y gobernanza Territorial</strong>
-<br><br>
+
 La LGAHOTDU prevé en su Capítulo Quinto, la planeación de las Zonas Metropolitanas y conurbadas.  
 <br><br>
 La SEDATU, como cabeza de sector, es la encargada de la emisión de lineamientos a través de los cuales se establecerán los métodos y procedimientos para medir y asegurar que los proyectos y las acciones vinculados con políticas de interés metropolitano cumplan con sus objetivos. 

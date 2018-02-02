@@ -1,7 +1,5 @@
 
 <p>
-
-<strong>¿Para qué sirve?</strong><br> 
 Tiene distintas funciones
 Determina condiciones para el acceso al suelo, infraestructura, vivienda, servicios básicos;
 Impone obligaciones (impuestos) 

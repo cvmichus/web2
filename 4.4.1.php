@@ -1,7 +1,6 @@
 
 <p>
-<strong>¿Por qué un mecanismo de gobernanza?</strong>
-<br><br>
+
 La Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano (LGAHOTyDU), en su artículo 4 capítulo IV obliga a la planeación del ordenamiento territorial a ser equilibrada, coherente y acorde con los planes y políticas nacionales, de manera que de conformidad con el artículo 5 todos los instrumentos de planeación y sus respectivos mecanismos de gobernanza deben regirse por los principios de coherencia y racionalidad; sin importar el orden de gobierno del cual emanen. 
 <br><br>
  

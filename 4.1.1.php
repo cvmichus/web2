@@ -1,6 +1,6 @@
 
 <p>
-<strong>¿Cómo es en México?</strong> <br>
+
 Amplio y multidisciplinario – trata diferentes aspectos de la vida en los asentamientos humanos.
 </p>
 <

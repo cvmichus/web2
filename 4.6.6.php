@@ -1,7 +1,6 @@
 
 <p>
-<strong>IMPLAN</strong>
-<br><br>
+
 Función:<br><br> organismos técnicos, consultivos y de participación social en materia de planeación para el desarrollo municipal. Son la institución responsable de coordinar esfuerzos entre niveles de gobierno y de conducir los procesos de planeación para el desarrollo municipal.
 Promover la participación activa y corresponsable de la sociedad y el desarrollo de una cultura urbana. Son un instrumento de la estructura municipal que amplía sus capacidades de gestión. Son centros de reflexión e investigación que realizan  la Planeación Urbana y ordenamiento territorial; desarrollo urbano, política ambiental y de planeación; formular y proponer políticas y o proyectos de desarrollo urbano; sistema normativo del desarrollo urbano municipal.
 <br><br>Entre sus funciones se encuentra también la gestión urbanística y ordenar los asentamientos urbanos, evitar el crecimiento desordenado, verificar los proyectos de zonificación; estrategias y acciones para la conservación, mejoramiento, crecimiento y zonificación de los centros de población; establecer adecuadas provisiones, usos, reservas y destinos de tierras, aguas, playas. Islas, islotes, arrecifes a efectos de ejecutar obras y planear y regular la conservación, mejoramiento y crecimiento sustentable de los centros de población; y promover el uso eficiente de energía

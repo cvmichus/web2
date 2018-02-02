@@ -1,6 +1,6 @@
 
 <p>
-<strong>¿Que abarca?</strong> <br>
+
 Se extiende a distintas áreas de la ley (planeación, fiscal, derechos fundamentales).
 </p>
 

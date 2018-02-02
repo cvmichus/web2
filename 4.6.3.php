@@ -1,7 +1,6 @@
 
 <p>
-<strong>Comisión Intersecretarial de la ZEE</strong>
-<br><br>
+
 Función: órgano colegiado integrado por dependencias y entidades federales cuyo objeto
 es coordinar  la planeación, establecimiento y operación de las ZEE.
 

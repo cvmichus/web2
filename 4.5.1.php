@@ -1,7 +1,5 @@
 
 <p>
-<strong>Elementos de Gobernanza</strong>
-<br><br>
 
 Planeación y ejecución , a cargo de la SHCP a través de la Autoridad de Zonas Económicas Especiales,<br><br>
 Emisión de lineamientos/programas y coordinación; a través de una Comisión Intersecretarial <br><br>

@@ -1,18 +1,17 @@
 
 <p>
-<strong>P Metropolitano de OT y DU </strong>
-<br><br>
-Regidos por: <br>
+
+<span style="color:#403c3b;font-size:10pt;font-weight:bold;">Regidos por:</span> <br>
 CPEUM, LGAHOTDU; Leyes estatales de ordenamiento territorial y desarrollo urbano; Reglamentos y normas de las administración federal, estatal y municipal aplicables. <br><br>
-Guardan congruencia con: <br>
+
+<span style="color:#403c3b;font-size:10pt;font-weight:bold;">Guardan congruencia con:</span> <br>
 CPEUM, Estrategia Nacional de Ordenamiento Territorial, Programa Nacional de Ordenamiento Territorial; Programa Estatal de Ordenamiento Territorial<br><br>
-Formulados, aprobados, gestionados y evaluados por:<br>
+
+<span style="color:#403c3b;font-size:10pt;font-weight:bold;">Formulados, aprobados, gestionados y evaluados por:</span><br>
 Comisión Metropolitano de Ordenamiento Territorial y Desarrollo Urbano<br><br>
-Promoción de procesos de consulta pública e interinstitucional: <br>
+
+<span style="color:#403c3b;font-size:10pt;font-weight:bold;">Promoción de procesos de consulta pública e interinstitucional:</span> <br>
 Consejo Consultivo
-
-
-
 
 
 </p>

@@ -1,7 +1,6 @@
 
 <p>
-<strong>Comisiones Metropolitanas de Ordenamiento </strong>
-<br><br>
+
 Función:<br><br> Mecanismo de coordinación institucional y de concertación de acciones e inversiones con los sectores social y privado.
 Formular y aprobar el programa de ordenación de la Zona Metropolitana o conurbada interestatal e intermunicipal, gestionar y evaluar su cumplimiento.
 <br><br>

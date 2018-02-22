@@ -12,7 +12,9 @@ Al sur-poniente de Tapachula, a una distancia de 26 Km y a través de la carrete
 La ZEE se implanta al oriente del ámbito portuario,en un predio con 585 Ha de superficie, mientras que el Agroparque se desarrollará en un terreno de 91 Ha, ubicado al norte del puerto.
 <br><br>
 La localidad de Puerto Madero es la localidad más próxima a estos ámbitos, sin dar un soporte claro en materia de equipamientos o servicios al complejo portuario y con una evidente limitación similar para soportar la implantación de la ZEE y del Agroparque.
+<br><br>
 
+<img src="img/Tapachula.jpg" width="100%">
 
 </p>
   <style>

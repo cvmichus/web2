@@ -32,10 +32,10 @@ de gestión, ejercerá las atribuciones de planeación, promoción, regulación,
 	font-size: 10px;
 	font-weight: normal;
 	padding: 8px;
-	background: #b9c9fe;
-    border-top: 4px solid #aabcfe;
+	background: #1e2f43;
+    border-top: 4px solid #1e2f43;
     border-bottom: 1px solid #fff; 
-	color: #039; 
+	color: #fff; 
 	font-size:9pt;
 	text-align:center;
 	}

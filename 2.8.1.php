@@ -2,7 +2,7 @@
 <p>
 
 <table class="tableizer-table">
-<thead><tr class="tableizer-firstrow"><th>Fase </th><th>Contenido propuesta para (PMDU-MZEE)</th><th>Instrumentos de planeación</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>Escala de planeación</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr></thead><tbody>
+<thead><tr ><th style="background-color: #1e2f43; color: #FFF;">Fase </th><th style="background-color: #1e2f43; color: #FFF;">Contenido propuesta para (PMDU-MZEE)</th><th style="background-color: #1e2f43; color: #FFF;">Instrumentos de planeación</th><th style="background-color: #1e2f43; color: #FFF;">&nbsp;</th><th style="background-color: #1e2f43; color: #FFF;">&nbsp;</th><th style="background-color: #1e2f43; color: #FFF;">&nbsp;</th><th style="background-color: #1e2f43; color: #FFF;">Escala de planeación</th><th style="background-color: #1e2f43; color: #FFF;">&nbsp;</th><th style="background-color: #1e2f43; color: #FFF;">&nbsp;</th><th style="background-color: #1e2f43; color: #FFF;">&nbsp;</th></tr></thead><tbody>
  <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>&nbsp;</td><td>&nbsp;</td><td>Federal</td><td>&nbsp;</td><td>Municipal </td><td>Federal</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>&nbsp;</td><td>&nbsp;</td><td>Programa de la Zona Metropolitana</td><td>Programa Municipal de Desarrollo Urbano</td><td>Plan Parcial de DU en ZEE</td><td>Plan de FZEE</td><td>Metropolitano</td><td>Municipal</td><td>Local</td><td>Parcial </td></tr>

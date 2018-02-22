@@ -7,7 +7,7 @@
 
                     <div class="col-md-4">
 
-                        <div  style="text-align:justify;" id="contenido7.0">
+                        <div  style="text-align:justify;height: 500px;width:105%;overflow-y: scroll;" id="contenido7.0" >
 
                         </div>
                     </div>

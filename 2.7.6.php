@@ -28,9 +28,9 @@
 table {  
     font-size: 9px;    margin: 45px;     width: 480px; text-align: left;   border-collapse: collapse; }
 	
-	th {     font-size: 10px;     font-weight: normal;     padding: 8px;     background: #b9c9fe;
-    border-top: 4px solid #aabcfe;    border-bottom: 1px solid #fff; color: #039; }
-	
+th {     font-size: 10px;     font-weight: normal;     padding: 8px;     background: #1e2f43;
+    border-top: 4px solid #1e2f43;    border-bottom: 1px solid #fff; color: #fff; }
+    
 	td {    padding: 8px;     border-bottom: 1px solid #fff;
       border-top: 1px solid transparent; }
 

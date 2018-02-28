@@ -1,12 +1,16 @@
 <p style="color:#19481e">
 Nivel Federal: <br>
-Ley Federal de Zonas Económicas Especiales y su Reglamento.
+Ley Federal de Zonas Económicas Especiales y su Reglamento.<br>
+Reglamento Interior de la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales.<br>
+Decreto de Declaratoria de la Zona Económica Especial de Puerto Chiapas.<br>
+Decreto de Declaratoria de la Zona Económica Especial de Lázaro Cárdenas - La Unión.<br>
+
 </p>
 <p style="color:#19481e">
 Nivel estatal: <br>
--Ley de Coordinación para el Establecimiento y Desarrollo de las ZEE en Chiapas.
--Ley de Zonas Económicas Especiales del Estado de Michoacán de Ocampo.
--Ley 427 de Zonas Económicas Especiales del Estado de Guerrero.
+Ley de Coordinación para el Establecimiento y Desarrollo de las ZEE en Chiapas.<br>
+Ley de Zonas Económicas Especiales del Estado de Michoacán de Ocampo.<br>
+Ley 427 de Zonas Económicas Especiales del Estado de Guerrero.<br>
 </p>
 
 <p style="color:#19481e">

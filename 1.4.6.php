@@ -1,5 +1,7 @@
 
 <p style="color:#9bccd2">
+	Las principales leyes y reglamentos federales aplicables para la BANOBRAS, además de aquellas que regulan a las y los servidores y a la Administración Pública;  se enlistan a continuación: <br><br>
+
 ●	Ley Orgánica de la Administración Pública Federal.<br>
 ●	Ley Federal de las Entidades Paraestatales.<br>
 ●	Art. 25 y 115  Constitucional.<br>

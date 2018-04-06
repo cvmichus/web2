@@ -15,4 +15,4 @@
 
 <span id="sss4.8" style="font-size:8pt;color:#c16c95;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('1.4.8.php','','contenido1.1');activasss29();">1.4.8 MUNICIPIO</span><br><br>
 
-<span id="sss4.9" style="font-size:8pt;color:#3f1678;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('1.4.9.php','','contenido1.1');activasss30();">1.4.9 BID CES</span><br>
+<!--<span id="sss4.9" style="font-size:8pt;color:#3f1678;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('1.4.9.php','','contenido1.1');activasss30();">1.4.9 BID CES</span><br>-->

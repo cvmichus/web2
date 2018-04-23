@@ -12,7 +12,7 @@
 
 					<span id="ss2.6" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('2.6.0.php','','contenido2.0');activass26();limpia2();" >2.6 Marco legal</span><br><br>
 
-					<span id="ss2.7" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('2.7.0.php','','contenido2.0');activass27();limpia2();" >2.7 Corresponsabilidad </span><br><br>
+					<span id="ss2.7" style="font-size:8pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('2.7.0.php','','contenido2.0');activass27();limpia2();" >2.7 Competencias de las autoridades </span><br><br>
 
 					<span id="ss2.8" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('2.8.0.php','','contenido2.0');activass28();limpia2();" >2.8 Comparativa de alcances </span><br><br>
 

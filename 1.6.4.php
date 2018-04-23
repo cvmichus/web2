@@ -1,6 +1,6 @@
 
 <p>
-<img src="img/1.6_2.jpg" width="100%">
+<a href="img/1.6_2.jpg" target="blank" rel="shadowbox"><img src="img/1.6_2.jpg" width="100%"></a>
 </p>
 
 

@@ -137,13 +137,15 @@
 	<!--SLIDE-->
 	<div id="conteiner">
 	<center >
-	<img src="city_crr.gif" width="65%">
+	<img src="city_crr.gif" width="50%">
    <div class="container">
            <center  style="font-size: 3em; font-family: Rokkitt;color:#e3313d;font-weight:bold;letter-spacing: 10px;">
 
                             OTyDUZEE</center>
 
                             <p><center style="font-size: 1.2em; font-family: Montserrat;font-weight:999; color:#1e2f43;" >ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO <br>PARA ZONAS ECONÓMICAS ESPECIALES</center></p>
+
+                            <p  style="font-size: 1em; font-family: Montserrat;; color:#000;text-align: justify;" >Esta Guía es una ruta sintética para la implementación de programas de desarrollo urbano en las ciudades y municipios declarados como Zona Económica Especial. Además vincula  las propuestas del Plan de Acción del Programa de Ciudades Emergentes al Programa de Desarrollo Urbano. Finalmente, expone e informa sobre los diferentes instrumentos de planeación tanto de AFZEE como de Sedatu. La Guía propone índices para elaborar el Programa de Desarrollo correspondiente a cada zona. Esta guía vincula los diferentes instrumentos de planeación con el Plan de Acción y expone la cartera de proyectos y acciones en el corto mediano y largo plazo.</p>
                    </div>
 	</center>
 	</div>

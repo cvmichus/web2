@@ -88,7 +88,7 @@
 
 </head>
 
-<body onload="cargar('#contenido1', '1.1.php');cargar2('#contenido2', '2.2.php');cargar3('#contenido3', '3.3.php');cargar4('#contenido4', '4.4.php');cargar5('#contenido5', '5.5.php');cargar6('#contenido6', '6.6.php');cargar7('#contenido7', '7.7.php');">
+<body  id="home" onload="cargar('#contenido1', '1.1.php');cargar2('#contenido2', '2.2.php');cargar3('#contenido3', '3.3.php');cargar4('#contenido4', '4.4.php');cargar5('#contenido5', '5.5.php');cargar6('#contenido6', '6.6.php');cargar7('#contenido7', '7.7.php');">
     <!-- Preloader
     ============================================= -->
     <div  class="preloader"><i class="fa fa-circle-o-notch fa-spin fa-2x"></i></div>
@@ -118,13 +118,14 @@
           <!--
         http://corporativomigas.ddns.net:8081/AeropuertoCGW/
 
-          -->
-                      <li><a href="#services" class="page-scroll">ZEE</a></li>
-                      <li><a href="#planeacion" class="page-scroll">PLANEACIÓN</a></li>
-                      <li><a href="#ciudades" class="page-scroll">CIUDADES CES</a></li>
-                      <li><a href="#gobernanza" class="page-scroll">GOBERNANZA</a></li>
+          -->          
+                     <li><a href="#home" class="page-scroll">Home</a></li>
+                      <li><a href="#services" class="page-scroll">PASO 1  ZEE</a></li>
+                      <li><a href="#planeacion" class="page-scroll">PASO 2 PLANEACIÓN</a></li>
+                      <li><a href="#ciudades" class="page-scroll">PASO 3 CIUDADES CES</a></li>
+                      <li><a href="#gobernanza" class="page-scroll">PASO 4 GOBERNANZA</a></li>
                     <!--<li><a href="#insumos" class="page-scroll">INSUMOS</a></li>-->
-                      <li><a href="#planes" class="page-scroll">INDICES</a></li>
+                      <li><a href="#planes" class="page-scroll">PASO 5 INDICES</a></li>
                       <li><a href="#glosario" class="page-scroll">GLOSARIO</a></li>
 
 
@@ -145,7 +146,7 @@
 
                             <p><center style="font-size: 1.2em; font-family: Montserrat;font-weight:999; color:#1e2f43;" >ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO <br>PARA ZONAS ECONÓMICAS ESPECIALES</center></p>
 
-                            <p  style="font-size: 1em; font-family: Montserrat;; color:#000;text-align: justify;" >Esta Guía es una ruta sintética para la implementación de programas de desarrollo urbano en las ciudades y municipios declarados como Zona Económica Especial. Además vincula  las propuestas del Plan de Acción del Programa de Ciudades Emergentes al Programa de Desarrollo Urbano. Finalmente, expone e informa sobre los diferentes instrumentos de planeación tanto de AFZEE como de Sedatu. La Guía propone índices para elaborar el Programa de Desarrollo correspondiente a cada zona. Esta guía vincula los diferentes instrumentos de planeación con el Plan de Acción y expone la cartera de proyectos y acciones en el corto mediano y largo plazo.</p>
+                            <p ><center  style="font-size: 1em; font-family: Montserrat;; color:#000;text-align: justify;" >Esta Guía es una ruta sintética para la implementación de programas de desarrollo urbano en las ciudades y municipios declarados como Zona Económica Especial. Además vincula  las propuestas del Plan de Acción del Programa de Ciudades Emergentes al Programa de Desarrollo Urbano. Finalmente, expone e informa sobre los diferentes instrumentos de planeación tanto de AFZEE como de Sedatu. La Guía propone índices para elaborar el Programa de Desarrollo correspondiente a cada zona. Esta guía vincula los diferentes instrumentos de planeación con el Plan de Acción y expone la cartera de proyectos y acciones en el corto mediano y largo plazo.</center></p>
                    </div>
 	</center>
 	</div>

@@ -5,6 +5,12 @@
 					<span id="t3.2" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;"  onclick="ejecuta_ajax('3.2.0.php','','contenido3.0');t32();limpia3();" ><img src="img/icons/ciudadesyseticonospng-01.png" width="60%"><br>3.2 Lázaro Cárdenas</span><br><br>
 
 					</div>
+
+
+					<div id="instrucciones3" style="text-align:justify;width: 300px;">
+
+					</div>
+					
                     </div>
 
                     <div class="col-md-4">

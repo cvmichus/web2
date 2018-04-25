@@ -5,6 +5,8 @@
 <p style="color:#7b223c">
  ●	Ley Federal de Presupuesto y Responsabilidad Hacendaria<br>
 ●	Ley Agraria<br>
+●	Ley Aduanera<br>
+●	Reglamento de la Ley Aduanera<br>
 ●	Ley de Asociaciones Público Privadas<br>
 ●	Ley de Expropiación<br>
 ●	Ley de Obras Públicas y Servicios Relacionados con las Mismas<br>
@@ -62,7 +64,7 @@ FERROVIARIO<br>
 
 
 <p style="color:#7b223c">
- Además de las Normas Oficiales Mexicanas y las Normas Mexicanas de Carácter Ambiental. 
+ Además de las Normas Oficiales Mexicanas y las Normas Mexicanas de Carácter Ambiental; así como tratados y acuerdos internacionales. 
 </p>
 
    <style>

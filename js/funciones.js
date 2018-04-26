@@ -924,6 +924,7 @@ function limpiar2()
                      document.getElementById("sss315").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                       document.getElementById("sss316").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                       document.getElementById("sss314").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                      document.getElementById("sss318").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
 
                  }
 
@@ -935,6 +936,7 @@ function limpiar2()
                      document.getElementById("sss315").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                       document.getElementById("sss316").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                       document.getElementById("sss314").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                       document.getElementById("sss318").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
 
                  }
 
@@ -946,6 +948,7 @@ function limpiar2()
                      document.getElementById("sss315").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                       document.getElementById("sss316").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                       document.getElementById("sss314").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                       document.getElementById("sss318").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
 
                  }
 
@@ -957,6 +960,7 @@ function limpiar2()
                      document.getElementById("sss317").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                      document.getElementById("sss315").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                       document.getElementById("sss316").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                       document.getElementById("sss318").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
 
                  }
 
@@ -968,6 +972,7 @@ function limpiar2()
                     document.getElementById("sss314").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                      document.getElementById("sss317").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                         document.getElementById("sss316").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                         document.getElementById("sss318").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
 
                  }
 
@@ -979,6 +984,7 @@ function limpiar2()
                     document.getElementById("sss314").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                      document.getElementById("sss315").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                       document.getElementById("sss317").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                       document.getElementById("sss318").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                    
                  }
 
@@ -991,9 +997,23 @@ function limpiar2()
                     document.getElementById("sss314").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                      document.getElementById("sss315").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                       document.getElementById("sss316").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                       document.getElementById("sss318").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
                    
                  }
 
+
+
+                    function activasec318(){
+                   document.getElementById("sss318").style="font-weight:bold;font-size:10pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                  document.getElementById("sss313").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss311").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   document.getElementById("sss312").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                    document.getElementById("sss314").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                     document.getElementById("sss315").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                      document.getElementById("sss316").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                       document.getElementById("sss317").style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer"
+                   
+                 }
 
                       //3.2 Lázaro Cárdenas
                       

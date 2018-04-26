@@ -1,6 +1,22 @@
 
 <p>
-
+<style type="text/css">
+  table.tableizer-table {
+    font-size: 12px;
+    border: 1px solid #CCC; 
+    font-family: Arial, Helvetica, sans-serif;
+  } 
+  .tableizer-table td {
+    padding: 4px;
+    margin: 3px;
+    border: 1px solid #CCC;
+  }
+  .tableizer-table th {
+    background-color: #104E8B; 
+    color: #FFF;
+    font-weight: bold;
+  }
+</style>
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th>Estudio Técnico</th><th>Temas </th><th>Elaborado por </th><th>Escala de incidencia </th><th>Año</th></tr></thead><tbody>
  <tr><td>Diagnóstico Multisectorial del Plan de acción para la Ciudad de Sostenible </td><td>Vivienda                                                    Gestión Residuos Sólidos                          Gestión del Agua                                 Fiscal                                                Movilidad                                              Vivienda                                              Medio Ambiente                                       Ordenamiento Territorial</td><td>CIDE-BID-BANOBRAS</td><td>Municipal</td><td>2016</td></tr>
@@ -12,7 +28,6 @@
  <tr><td>Evaluación Estatégica sobre impactos Sociales y Ambientales en la ZEE</td><td>Zona Económica Especial </td><td>SHCP-ZEE</td><td>Municipal</td><td>2016</td></tr>
  <tr><td>Estudios de prefactibidad de la ZEE Tapachula, Ciapas </td><td>Zona Económica Especial </td><td>SHCP- BANOBRAS</td><td>Municipal</td><td>2016</td></tr>
 </tbody></table>
-
 </p>
 
   <style>

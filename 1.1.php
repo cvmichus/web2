@@ -7,6 +7,11 @@
                       <span id="ss1.5" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('1.5.0.php','','contenido1.0');activass5();limpia1();" >1.5 Ámbito espacial</span><br><br>
                       <span id="ss1.6" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('1.6.0.php','','contenido1.0');activass6();limpia1();" >1.6 El Plan de Acción para la ZEE </span><br>
                       </div>
+						<br><br><br><br><br>	
+						<div id="instrucciones0" style="text-align:justify;width: 200px;">
+
+						</div>
+
                     </div>
 
                     <div class="col-md-4">

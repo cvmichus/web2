@@ -6,8 +6,8 @@
 
 					</div>
 
-
-					<div id="instrucciones3" style="text-align:justify;width: 300px;">
+						<br><br><br>
+					<div id="instrucciones3" style="text-align:justify;width: 250px;">
 
 					</div>
 					
@@ -21,7 +21,7 @@
                     </div>
 
 						<div class="col-md-4">
-
+					
 						<div id="global">
 						<div id="contenido3.3">
 

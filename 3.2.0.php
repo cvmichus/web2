@@ -4,7 +4,7 @@
 
 <span id="sss323" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('3.2.3.php','','contenido3.3');activasec323();Carga('i3.2.3.php','instrucciones3')">3.2.3 Ámbito Espacial </span><br><br>
 
-<span id="sss324" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('3.2.4.php','','contenido3.3');activasec324();Carga('i3.2.4.php','instrucciones3')">3.2.4 Estudios técnicos existentes</span><br><br>
+<span id="sss324" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('3.2.4.php','','contenido3.3');activasec324();Carga('i3.2.4.php','instrucciones3')">3.2.4 Trámites Administrativos</span><br><br>
 
 
 <span id="sss325" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('3.2.5.php','','contenido3.3');activasec325();Carga('i3.2.5.php','instrucciones3')">3.2.5  Acciones</span><br><br>

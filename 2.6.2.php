@@ -1,6 +1,6 @@
 
 <p>
-<img src="img/2-Municipal.png" alt="" width="100%">
+<a href="img/2-Municipal.png" target="_blank"><img src="img/2-Municipal.png" alt="" width="100%"></a>
 </p>
 
 

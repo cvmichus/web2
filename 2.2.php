@@ -6,7 +6,7 @@
 
 	<span id="ss2.3" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('2.3.0.php','','contenido2.0');activass23();limpiar2();Carga('i2.3.php','instrucciones2')" >2.3 ¿Cuáles los los planes para la ZEE?</span><br><br>
 
-    <span id="ss2.4" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('2.4.0.php','','contenido2.0');activass24();limpiar2();Carga('i2.1.php','instrucciones2')" >2.4 Competencias</span><br><br>
+    <span id="ss2.4" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('2.4.0.php','','contenido2.0');activass24();limpiar2();Carga('i2.1.php','instrucciones2')" >2.4 Ámbitos</span><br><br>
 
 	<span id="ss2.5" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor:pointer;"  onclick="ejecuta_ajax('2.5.0.php','','contenido2.0');activass25();limpiar2();Carga('i2.5.php','instrucciones2')" >2.5 Ámbito Espacial</span><br><br>
 

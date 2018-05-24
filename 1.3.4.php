@@ -3,7 +3,7 @@ Conducir las políticas públicas orientadas a fortalecer el desarrollo de la ac
 </p>
 
 <p style="color:#e37435">
-Definir proyectos específicos que que fomente la actividad económica y turismo en los núcleos urbanos de las ZEE vinculando la industria y la agroindustria. 
+Definir proyectos específicos que fomenten la actividad económica y el turismo en los núcleos urbanos de las Zonas Económicas Especiales vinculando la industria y la agroindustria. 
 	</p>
 
 

@@ -1,7 +1,8 @@
 
 <p>
-En este instrumento se definen los propósitos y estrategias para el desarrollo del municipio. 
-Principales políticas y líneas de acción que el gobierno municipal deberá tomar en cuenta para elaborar sus programas operativos anuales.
+●	En este instrumento se definen los propósitos y estrategias para el desarrollo del municipio.<br><br>
+●	Establece las principales políticas y líneas de acción que el gobierno municipal deberá tomar en cuenta para elaborar sus programas operativos anuales.
+
 </p>
 
   <style>

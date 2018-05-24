@@ -11,7 +11,7 @@ Definir mecanismos de control de crecimiento poblacional en ciudades y zonas met
 Instrumentar nuevos esquemas de adquisición de vivienda.
 </p>
 <p style="color:#e3313d">
-Planificar, coordinar, administrary ejecutar políticas públicas de ordenamiento territorial.
+Planificar, coordinar, administrar y ejecutar políticas públicas de ordenamiento territorial.
 </p>
 <p style="color:#e3313d">
 Otorgar certeza jurídica a los núcleos agrarios.

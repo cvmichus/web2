@@ -9,7 +9,7 @@ Generar indicadores de medición para el desarrollo sustentable.
 Complementar las inversiones privadas cuando no haya disponibilidad de capital privado en términos y condiciones razonables.
 </p>
 <p style="color:#403c3b">
-Otorgar asistencia técnica para preparar, financiar, e implementar proyectos de desarrollo.
+Otorgar asistencia técnica para preparar, financiar e implementar proyectos de desarrollo.
 </p>
 <p style="color:#403c3b">
 Preservar el patrimonio histórico y/o patrimonial de las ciudades.

@@ -1,5 +1,5 @@
 <p style="color:#e3313d">
-Contribuir al desarrollo y armónico, y sustentable en la zona de influencia de la ZEE, definiendo políticas de aprovechamiento del suelo eviten impactos irreversibles. Fomentar el desarrollo de los instrumentos de planeación en las diferentes escalas territoriales inscritas en el Área de Influencia.
+Contribuir al desarrollo y armónico y sustentable en la zona de influencia de la ZEE, definiendo políticas de aprovechamiento del suelo que eviten impactos irreversibles Fomentar el desarrollo de los instrumentos de planeación en las diferentes escalas territoriales inscritas en el Área de Influencia.
 </p>
 
 <p style="color:#e3313d">

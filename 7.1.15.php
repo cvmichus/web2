@@ -8,13 +8,13 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 Ordenamiento  jurídico que reglamenta la Ley Federal en materia de planeación, promoción, establecimiento, operación, supervisión y verificación de las Zona Económicas Especiales.
 </td>
-    <td>
+    <td style="text-align: center;">
  RLFZEE
     </td>
-    <td>
+    <td style="text-align: center;">
   SHCP 	
     </td>
 </tr>

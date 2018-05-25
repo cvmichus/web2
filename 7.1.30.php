@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Suelo apto para el uso y aprovechamiento de sus propietarios o poseedores en los términos de la legislación correspondiente; 
 
@@ -16,7 +16,7 @@ Suelo apto para el uso y aprovechamiento de sus propietarios o poseedores en los
     <td>
  
     </td>
-    <td>
+    <td style="text-align: center;">
 LGAHOTDU/SEDATU
     </td>
 </tr>

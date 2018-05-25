@@ -8,14 +8,13 @@
 </tr>
 
 <tr>
-    <td >
-
-Empresa autorizada para realizar activiades productivas en la ZEE. Requieren autorización de la SHCP
+    <td style="text-align: justify;" >
+Empresa autorizada para realizar actividades productivas en la ZEE. Requieren autorización de la SHCP
 </td>
     <td>
   
     </td>
-    <td>
+    <td style="text-align: center;">
     	ZEE / SHCP
     </td>
 </tr>

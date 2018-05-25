@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Proceso de planeación, regulación, gestión, financiamiento y ejecución de acciones, obras y servicios, en zonas metropolitanas, que por su población, extensión y complejidad, deberán participar en forma coordinada los tres órdenes de gobierno de acuerdo a sus atribuciones; 
 
@@ -17,7 +17,7 @@ Proceso de planeación, regulación, gestión, financiamiento y ejecución de ac
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 LGAHOTDU/SEDATU
 

@@ -8,13 +8,13 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 Territorio para el Crecimiento urbano contiguo a los límites del Área Urbanizada del Centro de Población determinado en los planes o programas de Desarrollo Urbano, cuya extensión y superficie se calcula en función de las necesidades del nuevo suelo indispensable para su expansión;
 </td>
     <td>
  
     </td>
-    <td>
+    <td style="text-align: center;">
  LGAHOTDU/SEDATU
     </td>
 </tr>

@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Documento rector del Ejecutivo Federal en el que precisan los objetivos nacionales, estrategias y prioridades del desarrollo integral y sustentable del país. Se elabora dentro del primer semestre del sexenio de cada gobierno federal y su validez finaliza con el período constitucional que corresponda
 

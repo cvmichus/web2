@@ -8,10 +8,9 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Programa que establece objetivos que promueven la transición hacia un modelo de desarrollo sustentable e inteligente con el objetivo es controlar la expansión de las manchas urbanas y consolidar las ciudades para mejorar la calidad de vida de los habitantes. 
-
 </td>
     <td>
 	

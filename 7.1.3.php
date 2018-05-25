@@ -1,18 +1,18 @@
 
-  <table id="t01">
+  <table id="t01" style="text-align: justify;">
 
   <tr>
-  <th width="40%">Definición</th>
-  <th width="30%">Abreviatura</th>
-  <th width="20%">Origen</th>
+  <th width="50%">Definición</th>
+  <th width="40%">Abreviatura</th>
+  <th width="10%">Origen</th>
   </tr>
 
-<tr>
+<tr style="text-align: center;">
     <td>
-de gestión, ejercerá las atribuciones de planeación, promoción, regulación, supervisión y verificación en materia de zonas económicas especiales.
+      Institución de Banca de Desarrollo en México
   </td>
     <td>
-
+     BANOBRAS
     </td>
     <td></td>
 </tr>

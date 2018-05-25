@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres órdenes de gobierno, así como a los sectores de la sociedad, lo que facilita la implementación de políticas públicas, estrategias y procedimientos que combatan las causas estructurales de los desastres y fortalezcan las capacidades de Resiliencia o resistencia de la sociedad. Comprende la identificación de los riesgos y, en su caso, su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción
 
@@ -17,7 +17,7 @@ Conjunto de acciones encaminadas a la identificación, análisis, evaluación, c
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 LGAHOTDU/SEDATU
 

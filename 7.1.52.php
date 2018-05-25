@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Instrumentos que tienen por objeto programar el desarrollo urbano en el territorio municipal. Estos programas contienen la zonificación y las líneas de acción específicas para la ordenación y regulación de los centros de población del municipio 
 

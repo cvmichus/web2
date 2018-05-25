@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Al documento que contiene el acto jurídico mediante el cual el Titular del Poder Ejecutivo del Estado y los Municipios, otorgan su consentimiento para el establecimiento de la Zona Económica Especial, y asumen diversos compromisos.
 
@@ -16,7 +16,7 @@ Al documento que contiene el acto jurídico mediante el cual el Titular del Pode
     <td>
  
     </td>
-    <td>
+    <td style="text-align: center;">
 ZEE/ Legislación Esatal
     </td>
 </tr>

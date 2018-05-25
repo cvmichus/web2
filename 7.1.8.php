@@ -8,14 +8,14 @@
 </tr>
 
 <tr>
-    <td >
-Órgano consultivo auxiliar, de participación ciudadana y de conformación plural, para la opinión y deliberación de las políticas y acciones que impulsen los ayuntamientos y que se realicen en el ámbito de jurisdicción de los municipios, en materia de ordenamiento territorial, desarrollo urbano y fomento a la vivienda digna 
+    <td style="text-align: justify;">
+Órgano consultivo auxiliar, de participación ciudadana y de conformación plural, para la opinión y deliberación de las políticas y acciones que impulsen los ayuntamientos y que se realicen en el ámbito de jurisdicción de los municipios, en materia de ordenamiento territorial, desarrollo urbano y fomento a la vivienda digna
 
 </td>
     <td>
   
     </td>
-    <td>
+    <td style="text-align: center;">
     	LGAHOTDU/SEDATU
     </td>
 </tr>

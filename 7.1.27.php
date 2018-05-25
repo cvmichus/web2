@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Instrumento suscrito entre el Gobierno Federal y los titulares de los gobiernos de las Entidades Federativas y de los Municipios, en el que se establecerán las obligaciones de los tres órdenes de gobierno para el establecimiento y desarrollo de la ZEE y su Área de Influencia
 
@@ -16,7 +16,7 @@ Instrumento suscrito entre el Gobierno Federal y los titulares de los gobiernos 
     <td>
  
     </td>
-    <td>
+    <td style="text-align: center;">
 ZEE / SHCP /SEDATU
     </td>
 </tr>

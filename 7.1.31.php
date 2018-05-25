@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Instrumento que configura la dimensión espacial del desarrollo del país en el mediano y largo plazo; establece el marco básico de referencia y congruencia territorial con el Plan Nacional de Desarrollo, los programas sectoriales y regionales del país en materia de Ordenamiento Territorial de los asentamientos Humanos, y promueve la utilización racional del territorio y el desarrollo equilibrado del país.
 

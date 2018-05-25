@@ -8,16 +8,16 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
-Determinación de las áreas que integran y delimitan un centro de población; comprendiendo las Áreas Urbanizadas y Áreas Urbanizables, incluyendo las reservas de crecimiento, las áreas no urbanizables y las áreas naturales protegidas, así como la red de vialidades primarias
+Determinación de las áreas que integran y delimitan un territorio; sus aprovechamientos predominantes y las Reservas, Usos de suelo y Destinos, así como la delimitación de las áreas de Crecimiento, Conservación, consolidación y Mejoramiento;
 </td>
     <td>
 	
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 LGAHOTDU/SEDATU
 

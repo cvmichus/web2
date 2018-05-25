@@ -8,10 +8,10 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 Dependencia del Poder Ejecutivo Federal, a cargo de formular y conducir la política nacional de asentamientos humanos, así como el ordenamiento territorial.
 </td>
-    <td>
+    <td style="text-align: center;">
   SEDATU
     </td>
     <td>

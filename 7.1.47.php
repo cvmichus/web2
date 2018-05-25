@@ -8,17 +8,16 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
-El instrumento que prevé los elementos y características generales de infraestructura y de los Servicios asociados posra la construcción, desarrollo, administración y mantenimiento de la Zona; el cual será revisado por lo menos cada 5 años
-
+El instrumento que prevé los elementos y características generales de infraestructura y de los Servicios asociados para la construcción, desarrollo, administración y mantenimiento de la Zona; el cual será revisado por lo menos cada 5 años
 </td>
     <td>
 	
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 ZEE / SHCP
 

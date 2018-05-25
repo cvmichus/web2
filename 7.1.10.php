@@ -8,14 +8,13 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;" >
 Consejo técnico multidisciplinario para cada ZEE con autonomía en sus funciones, instancia intermedia entre el Administrador y la SHCP para el seguimiento de la operación, la evaluación de desempeño y coadyuvancia para el cumplimiento de los objetivos.
-
 </td>
-    <td>
+    <td style="text-align: center;">
   CTZ
     </td>
-    <td>
+    <td style="text-align: center;">
     	ZEE / SHCP
     </td>
 </tr>

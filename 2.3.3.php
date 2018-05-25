@@ -3,24 +3,20 @@
 Características
 </p>
 
-<p>
+<p style="text-align: justify;">
 Este tipo de programas determinan la zonificación primaria y los usos compatibles en su nivel fundamental. Incorporan la dimensión ambiental y la gestión integral de la ciudad como garantes de la sustentabilidad. Crean el universo en el que se inscriben los planes municipales de desarrollo, los de centro de población y sus planes parciales. 
-<br><br>
-Ámbito de actuación. 
-<br><br>
-Estatal. 
-<br><br>
-Municipal. 
-<br><br>
-Instancia de Formulación.
-<br><br>
-Instancia de Aprobación. 
-	
+</p>
+
+<p style="color:#403c3b;font-size:10pt;font-weight:bold;">
+Ámbito de actuación Estatal y Municipal. 
+</p>
+
+<p style="color:#403c3b;font-size:10pt;font-weight:bold;">
+Instancia de Formulación y de Aprobación. 
 </p>
 
 <p>
-
-<span style="color:#403c3b;font-size:10pt;font-weight:bold;">Elabora y Aprueba:</span> Comisión de ordenamiento metropolitano o de Conurbación.
+<span style="text-align: justify;">Elabora y Aprueba:</span> Comisión de Ordenamiento Metropolitano o de Conurbación.
 
 </p>	
 

@@ -8,8 +8,7 @@
 </tr>
 
 <tr>
-    <td >
-
+    <td style="text-align: justify;" >
 El instrumento jurídico que emite el Administrador Integral, previa aprobación de la Autoridad Federal, que establece las bases internas de operación y funcionamiento de la Zona;
 
 </td>
@@ -18,7 +17,7 @@ El instrumento jurídico que emite el Administrador Integral, previa aprobación
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 LGAHOTDU/SEDATU
 

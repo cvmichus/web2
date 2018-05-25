@@ -7,12 +7,12 @@
   <th width="20%">Origen</th>
   </tr>
 
-<tr>
+<tr style="text-align: justify;">
     <td>
-    Institución de Banca de desarrollo en México
+   Comisión en el Legislativo Nacional que tiene como objetivo darle seguimiento a la implementación de la Ley Federal de Zonas Económicas Especiales.
 </td>
-    <td>
-      BANOBRAS
+    <td style="text-align: center;">
+      CEZEE
     </td>
     <td></td>
 </tr>

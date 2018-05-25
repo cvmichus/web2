@@ -8,13 +8,13 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 Actividades que se podrán realizar en las Zonas Económicas Especiales necesarias para el cumplimiento del objeto de la Ley, entre otras, las de manufactura; agroindustria; procesamiento, transformación y almacenamiento de materias primas e insumos; innovación y desarrollo científico y tecnológico; prestación de servicios de soporte a las actividades económicas como servicios logísticos, financieros, informáticos y profesionales, así como la introducción de mercancías para tales efectos.
 </td>
     <td>
  
     </td>
-    <td>
+    <td style="text-align: center;">
  ZEE
     </td>
 </tr>

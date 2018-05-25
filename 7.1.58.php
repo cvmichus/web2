@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Sistemas de urbanización, electricidad, agua potable, drenaje, tratamiento de aguas residuales, saneamiento, telecomunicaciones y seguridad, así como los demás que se presten a los Inversionistas en la Zona Económica Especial.
 
@@ -18,7 +18,7 @@ Sistemas de urbanización, electricidad, agua potable, drenaje, tratamiento de a
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 ZEE/ Legislación Esatal
 

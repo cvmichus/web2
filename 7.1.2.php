@@ -9,8 +9,8 @@
 
 <tr>
     <td>
-  Órgano administrativo desconcentrado de la Secretaría de Hacienda y Crédito Público con autonomía técnica, operativa y
-  </td>
+  Órgano administrativo desconcentrado de la Secretaría de Hacienda y Crédito Público con autonomía técnica, operativa y de gestión, ejercerá las atribuciones de planeación, promoción, regulación, supervisión y verificación en materia de zonas económicas especiales.
+   </td>
     <td>
 
     </td>

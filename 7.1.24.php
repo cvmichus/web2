@@ -8,14 +8,13 @@
 </tr>
 
 <tr>
-    <td >
-
+    <td style="text-align: justify;" >
 Zona urbanizada de un Centro de Población dotado de identidad y características propias; 
 </td>
     <td>
  
     </td>
-    <td>
+    <td style="text-align: center;">
 LGAHOTDU/SEDATU
     </td>
 </tr>

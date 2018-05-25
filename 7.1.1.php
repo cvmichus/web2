@@ -6,12 +6,12 @@
 </tr>
 
 <tr>
-<td>
-La persona moral o entidad paraestatal que, con base en un Permiso o Asignación, funge como desarrollador-operador de la Zona y en tal carácter tiene a su cargo la construcción, desarrollo, administración y mantenimiento de la misma, incluyendo los Servicios Asociados o, en su caso, la tramitación de éstos ante las instancias correspondientes;
+<td style="text-align: justify;">
+La persona moral o entidad paraestatal que, con base en un Permiso o Asignación, funge como desarrollador-operador de la Zona y en tal carácter tiene a su cargo la construcción, desarrollo, administración y mantenimiento de la misma, incluyendo los Servicios Asociados o, en su caso, la tramitación de éstos ante las instancias correspondientes.
 </td>
-<td>
-Admon. Integral
-</td>
+<td style="text-align: center;">
+Admón. Integral
+</td style="text-align: center;">
 <td>ZEE/SHCP</td>
 </tr>
 </table>

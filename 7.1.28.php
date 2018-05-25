@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 La continuidad física y demográfica que formen dos o más Centros de Población
 
@@ -16,7 +16,7 @@ La continuidad física y demográfica que formen dos o más Centros de Població
     <td>
  
     </td>
-    <td>
+    <td style="text-align: center;">
 LGAHOTDU/SEDATU
     </td>
 </tr>

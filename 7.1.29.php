@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito;
 
@@ -16,7 +16,7 @@
     <td>
  
     </td>
-    <td>
+    <td  style="text-align: center;">
 LGAHOTDU/SEDATU
     </td>
 </tr>

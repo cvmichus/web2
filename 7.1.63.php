@@ -8,19 +8,19 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
-Área geográfica del territorio nacional, determinada en forma unitaria o por secciones, sujeta al régimen especial previsto en esta Ley, en la cual se podrán realizar, de manera enunciativa y no limitativa, actividades de manufactura, agroindustria, procesamiento, transformación y almacenamiento de materias primas e insumos; innovación y desarrollo científico y tecnológico; la prestación de servicios de soporte a dichas actividades como servicios logísticos, financieros, informáticos, profesionales, técnicos y de otra índole que se consideren necesarias conforme a los propósitos de este ordenamiento, así como la introducción de mercancías para tales efectos.
+Fines particulares a que podrán dedicarse determinadas zonas o predios de un Centro de Población o Asentamiento Humano;
 
 </td>
-    <td>
+    <td >
 	
-ZEE
+
  
     </td>
-    <td>
+    <td style="text-align: justify;">
 
-ZEE / SHCP
+LGAHOTDU/SEDATU
 
     </td>
 </tr>

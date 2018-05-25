@@ -8,11 +8,11 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;" >
 Es el instrumento rector de la planeación estatal y en él, deberán quedar expresadas claramente las prioridades, objetivos, estrategias y líneas generales de acción en materia económica, política y social para promover y fomentar el desarrollo integral sustentable y el mejoramiento en la calidad de vida de la población y orientar la acción de gobierno y la sociedad hacia ese fin. En su elaboración e integración quedarán incluidas, previa valoración, las propuestas planteadas por los distintos grupos sociales, a través de los mecanismos e instrumentos de participación.
 
 </td>
-    <td>
+    <td style="text-align: center;">
 	
 	PED
  

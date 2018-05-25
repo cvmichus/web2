@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
     	
 Actividades operativas y servicios públicos prestadas directamente por la autoridad competente o concesionada para satisfacer necesidades colectivas en los Centros de Población;
 
@@ -18,7 +18,7 @@ Actividades operativas y servicios públicos prestadas directamente por la autor
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 LGAHOTDU/SEDATU
 

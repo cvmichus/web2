@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Instrumento de planeación que contiene la propuesta de gobierno del ayuntamiento y se conjuga la acción coordinada y complementaria de los otros niveles de gobierno tanto federal como estatal, así como la participación de los sectores social y privado del municipio. 
 

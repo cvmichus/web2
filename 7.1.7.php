@@ -8,14 +8,14 @@
 </tr>
 
 <tr>
-    <td >
- 
+    <td style="text-align: justify;">
+ Estos consejos son un mandato que deriva de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, donde debe haber un consejo nacional y réplicas estatales y municipales en regiones conurbadas y metropolitanas del país.
 
 </td>
     <td>
   
     </td>
-    <td>
+    <td style="text-align: center;">
     	LGAHOTDU/SEDATU
     </td>
 </tr>

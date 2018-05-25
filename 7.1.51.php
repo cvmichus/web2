@@ -8,9 +8,9 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
-El instrumento de planeación que prevé los elementos en materia ordenamiento territrial y las características de las obras de infraestructura de transportm de comunicaicones, de logística, enrgética, hidráulica y otras que requieren ejecutar en el exterior de la ZEE para la operación de la misma y, en su caso,otras obras que sean complemento de la infraestuctura exterior, así como las políticas públicas y acciones comlpementarias a que se refiere el artículo 12 de la LFZEE
+El instrumento de planeación que prevé los elementos en materia ordenamiento territorial y las características de las obras de infraestructura de transporte de comunicaciones, de logística, energética, hidráulica y otras que requieren ejecutar en el exterior de la ZEE para la operación de la misma y, en su caso, otras obras que sean complemento de la infraestructura exterior, así como las políticas públicas y acciones complementarias a que se refiere el artículo 12 de la LFZEE
 
 </td>
     <td>
@@ -18,7 +18,7 @@ El instrumento de planeación que prevé los elementos en materia ordenamiento t
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 ZEE / SHCP
 

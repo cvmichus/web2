@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Áreas constituidas por las zonas urbanizadas y las que se reserven para su expansión;
 
@@ -16,7 +16,7 @@
     <td>
  
     </td>
-    <td>
+    <td style="text-align: center;">
 LGAHOTDU/SEDATU
     </td>
 </tr>

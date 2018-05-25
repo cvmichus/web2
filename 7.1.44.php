@@ -8,16 +8,16 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
-El acto jurídico administrativo mediante el cual la Secretaría de Hacienda y Crédito Público otorga a una sociedad mecantil constituida conforme a la legislación mexicana, el derecho a construir, desarrollar, administrar y mantener una Zona en calidad de permisionario de conformidad con los dispueto en la LFZZE, su reglamento y las disposiciones jurídicas aplicables:
+El acto jurídico administrativo mediante el cual la Secretaría de Hacienda y Crédito Público otorga a una sociedad mercantil constituida conforme a la legislación mexicana, el derecho a construir, desarrollar, administrar y mantener una Zona en calidad de permisionario de conformidad con los dispuesto en la LFZZE, su reglamento y las disposiciones jurídicas aplicables:
 
 </td>
     <td>
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 ZEE / SHCP
 

@@ -8,8 +8,7 @@
 </tr>
 
 <tr>
-    <td >
-
+    <td  style="text-align: justify;">
 Acción Urbanística cuya finalidad es incrementar el número de habitantes y la población flotante por unidad de superficie, considerando la capacidad de soporte del territorio y, en su caso, adecuando los espacios públicos y sus infraestructuras
 
 </td>
@@ -17,7 +16,7 @@ Acción Urbanística cuya finalidad es incrementar el número de habitantes y la
 
  
     </td>
-    <td>
+    <td  style="text-align: center;">
 
 LGAHOTDU/SEDATU
 

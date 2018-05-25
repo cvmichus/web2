@@ -8,10 +8,9 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
-Determinación de las áreas que integran y delimitan un territorio; sus aprovechamientos predominantes y las Reservas, Usos de suelo y Destinos, así como la delimitación de las áreas de Crecimiento, Conservación, consolidación y Mejoramiento;
-
+Centros de Población o conurbaciones que, por su complejidad, interacciones, relevancia social y económica, conforman una unidad territorial de influencia dominante y revisten importancia estratégica para el desarrollo nacional
 </td>
     <td>
 	
@@ -20,7 +19,7 @@ Determinación de las áreas que integran y delimitan un territorio; sus aprovec
     </td>
     <td>
 
-LGAHOTDU/SEDATU
+
 
     </td>
 </tr>

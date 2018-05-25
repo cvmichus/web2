@@ -8,16 +8,16 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
-Fines particulares a que podrán dedicarse determinadas zonas o predios de un Centro de Población o Asentamiento Humano;
+Unidades espaciales básicas del ordenamiento territorial, que agrupan a áreas no urbanizadas, centros urbanos y asentamientos rurales vinculados funcionalmente;
 </td>
     <td>
 	
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 LGAHOTDU/SEDATU
 

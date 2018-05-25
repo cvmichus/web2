@@ -12,11 +12,11 @@
  
   <tr>
     <td style="color:#3f1678;font-size:10pt;">BID</td>
-    <td style="color:#3f1678;font-size:10pt;">Generar insumos para la sostenibilidad ambiental y cambio climático</td>
-    <td style="color:#3f1678;font-size:10pt;">Generar insumos para la sostenibilidad ambiental y cambio climático</td>
-    <td style="color:#3f1678;font-size:10pt;">Generar insumos para la sostenibilidad ambiental y cambio climático</td>
-    <td style="color:#3f1678;font-size:10pt;">Promover el desarrollo a través del sector privado.
-Generar insumos para la sostenibilidad ambiental y cambio climático.</td>
+    <td colspan="3" style="color:#3f1678;font-size:10pt;">Generar insumos para la sostenibilidad ambiental y cambio climático</td>
+    <td style="color:#3f1678;font-size:10pt;">Promover el desarrollo a través del sector privado. </td>
+
+  
+  
   </tr>
  
 

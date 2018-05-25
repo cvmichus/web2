@@ -8,10 +8,10 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 Instrumento de planeación que relaciona los objetivos estatales de desarrollo urbano con los del Plan Nacional de Ordenamiento Territorial y  Desarrollo Urbano y con otros objetivos sectoriales. Con base en el análisis permanente de la situación local, plantea un conjunto de políticas, metas, instrumentos y programas de acción que tienden a traducir, en la estrategia estatal, los planteamientos del Plan Nacional de Desarrollo Urbano y el Plan estatal de Desarrollo
 </td>
-    <td>
+    <td style="text-align: center;">
 	
 	PEDU
  

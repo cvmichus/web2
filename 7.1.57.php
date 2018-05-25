@@ -5,10 +5,11 @@
 <th>Definición</th>
 <th>Abreviatura</th>
 <th>Origen</th>
+<th>Nombre/Término asignado para el proyecto</th>
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Las áreas de un centro de población que serán utilizadas para su Crecimiento
 
@@ -18,10 +19,11 @@ Las áreas de un centro de población que serán utilizadas para su Crecimiento
 
  
     </td>
-    <td>
-
+    <td style="text-align: center;">
 LGAHOTDU/SEDATU
-
+    </td>
+        <td style="text-align: center;">
+Reservas
     </td>
 </tr>
 </table>

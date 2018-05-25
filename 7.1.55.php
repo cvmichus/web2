@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Establecerán el diagnóstico, los objetivos y las estrategias gubernamentales para los diferentes temas o materias, priorizando los temas de interés metropolitano establecidos en la LGAHOTDU. Serán regulados por la legislación estatal y podrán integrar los planteamientos sectoriales del Desarrollo Urbano, en materias tales como: centros históricos, Movilidad, medio ambiente, vivienda, agua y saneamiento, entre otras.
 

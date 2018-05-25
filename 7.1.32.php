@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Estudio contenido en el Dictamen que incluye, entre otra información, los sectores industriales que potencialmente puedan instalarse en la Zona; relación de posibles Inversionistas con interés de ubicarse dentro de la Zona; la Evaluación Estratégica sobre la situación e impacto sociales y ambientales; de uso de suelo y requerimientos de apoyos públicos complementarios;
 
@@ -17,7 +17,7 @@ Estudio contenido en el Dictamen que incluye, entre otra información, los secto
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 ZEE / SHCP
 

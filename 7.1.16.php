@@ -8,13 +8,13 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 Ley Federal que fija las normas básicas e instrumentos de gestión de observancia general, para ordenar el uso del territorio y los Asentamientos Humanos en el país; establece la concurrencia de la Federación, de las entidades federativas, los municipios para la planeación, ordenación y regulación de los Asentamientos Humanos; fija los criterios para que, en el ámbito de sus respectivas competencias exista una efectiva congruencia, coordinación y participación entre los tres niveles de gobierno para la planeación de la fundación, crecimiento, mejoramiento, consolidación y conservación de los centros de población; define los principios para determinar las Provisiones, Reservas, Usos del suelo y Destinos de áreas y predios que regulan la propiedad en los Centros de Población, y propicia mecanismos que permitan la participación ciudadana en particular para las mujeres, jóvenes y personas en situación de vulnerabilidad, en los procesos de planeación y gestión del territorio.
 </td>
-    <td>
+    <td style="text-align: center;">
  LGAHDUOT
     </td>
-    <td>
+    <td style="text-align: center;">
   SEDATU
     </td>
 </tr>

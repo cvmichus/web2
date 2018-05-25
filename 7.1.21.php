@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 El establecimiento de un conglomerado demográfico, con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran; 
 
@@ -16,7 +16,7 @@ El establecimiento de un conglomerado demográfico, con el conjunto de sus siste
     <td>
  
     </td>
-    <td>
+    <td style="text-align: center;">
  LGAHOTDU/SEDATU
     </td>
 </tr>

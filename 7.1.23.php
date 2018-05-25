@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 El acto jurídico administrativo mediante el cual la Secretaría de Hacienda y Crédito Público otorga a un Inversionista el derecho a realizar actividades económicas productivas en la Zona respectiva, en términos de lo dispuesto en la presente Ley, su Reglamento y las disposiciones jurídicas aplicables;
 
@@ -16,7 +16,7 @@ El acto jurídico administrativo mediante el cual la Secretaría de Hacienda y C
     <td>
  
     </td>
-    <td>
+    <td style="text-align: center;">
 ZEE/SHCP
     </td>
 </tr>

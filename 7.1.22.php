@@ -8,15 +8,14 @@
 </tr>
 
 <tr>
-    <td >
-
+    <td style="text-align: justify;">
 El acto jurídico administrativo mediante el cual la Secretaría de Hacienda y Crédito Público otorga exclusivamente a una entidad paraestatal el derecho a construir, desarrollar, administrar y mantener una Zona, en calidad de asignatario, de conformidad con lo dispuesto en la presente Ley, su Reglamento y las disposiciones jurídicas aplicables;
 
 </td>
-    <td>
+    <td style="text-align: center;">
  LFZEE
     </td>
-    <td>
+    <td style="text-align: center;">
 ZEE/SHCP
     </td>
 </tr>

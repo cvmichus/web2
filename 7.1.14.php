@@ -8,14 +8,14 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 Ley Federal que tiene por objeto en el marco de la planeación nacional del desarrollo, regular la planeación, el establecimiento y la operación de Zonas Económicas Especiales para impulsar el crecimiento económico sostenible que, entre otros fines, reduzca la pobreza, permita la provisión de servicios básicos y expanda las oportunidades para vidas saludables y productivas, en las regiones del país que tengan mayores rezagos en desarrollo social, a través del fomento de la inversión, la productividad, la competitividad, el empleo y una mejor distribución del ingreso entre la población.
 
 </td>
-    <td>
+    <td style="text-align: center;">
  LFZEE
     </td>
-    <td>
+    <td style="text-align: center;">
   SHCP  	
     </td>
 </tr>

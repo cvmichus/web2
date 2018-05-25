@@ -8,10 +8,9 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Determinar las distintas zonas ecológicas del Municipio, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales y de las tecnologías utilizadas por los habitantes del área de que se trate
-
 </td>
     <td>
 

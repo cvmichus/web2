@@ -12,7 +12,7 @@
  
   <tr>
     <td style="color:#7b223c;font-size:10pt;">SCT (ASA + API + Ferrocarriles)</td>
-    <td style="color:#7b223c;font-size:10pt;">Promueve proyectos es infraestructuras y equipamientos subutilizados</td>
+    <td style="color:#7b223c;font-size:10pt;">Promueve proyectos en infraestructuras y equipamientos subutilizados</td>
     <td style="color:#7b223c;font-size:10pt;">Define proyectos de articulación y accesibilidad municipal</td>
     <td style="color:#7b223c;font-size:10pt;">Contrarresta los efectos de fragmentación territorial</td>
     <td style="color:#7b223c;font-size:10pt;">Define proyectos de inversión en el territorio</td>

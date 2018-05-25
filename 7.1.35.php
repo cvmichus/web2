@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;" >
 
 El proceso de planeación y regulación de la Fundación, Conservación, Mejoramiento y Crecimiento de los Centros de Población
 
@@ -17,7 +17,7 @@ El proceso de planeación y regulación de la Fundación, Conservación, Mejoram
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 LGAHOTDU/SEDATU
 

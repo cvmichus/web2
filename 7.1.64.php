@@ -8,20 +8,16 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
-Centros de Población o conurbaciones que, por su complejidad, interacciones, relevancia social y económica, conforman una unidad territorial de influencia dominante y revisten importancia estratégica para el desarrollo nacional
+Área geográfica del territorio nacional, determinada en forma unitaria o por secciones, sujeta al régimen especial previsto en esta Ley, en la cual se podrán realizar, de manera enunciativa y no limitativa, actividades de manufactura, agroindustria, procesamiento, transformación y almacenamiento de materias primas e insumos; innovación y desarrollo científico y tecnológico; la prestación de servicios de soporte a dichas actividades como servicios logísticos, financieros, informáticos, profesionales, técnicos y de otra índole que se consideren necesarias conforme a los propósitos de este ordenamiento, así como la introducción de mercancías para tales efectos.
 
 </td>
-    <td>
-	
-
- 
+    <td style="text-align: center;">
+	ZEE
     </td>
-    <td>
-
-
-
+    <td style="text-align: center;">
+	ZEE / SHCP
     </td>
 </tr>
 </table>

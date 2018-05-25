@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 La resolución técnica previa con base en la cual la Secretaría de Hacienda y Crédito Público determina la viabilidad del establecimiento y desarrollo de una Zona;
 
@@ -17,7 +17,7 @@ La resolución técnica previa con base en la cual la Secretaría de Hacienda y 
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 ZEE / SHCP
 

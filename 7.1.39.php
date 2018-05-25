@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Los sistemas y redes de organización y distribución de bienes y servicios en los Centros de Población, incluyendo aquellas relativas a las telecomunicaciones y radiodifusión; XXIII. Megalópolis: sistema de zonas metropolitanas y Centros de Población y sus áreas de influencia, vinculados de manera estrecha geográfica y funcionalmente. El umbral mínimo de población de una Megalópolis es de 10 millones de habitantes
 
@@ -17,7 +17,7 @@ Los sistemas y redes de organización y distribución de bienes y servicios en l
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 LGAHOTDU/SEDATU
 

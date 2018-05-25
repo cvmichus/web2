@@ -8,15 +8,14 @@
 </tr>
 
 <tr>
-    <td >
-
+    <td style="text-align: justify;">
 El ordenamiento territorial es una política pública que tiene como objeto la ocupación y utilización racional del territorio como base espacial de las estrategias de desarrollo socioeconómico y la preservación ambiental
 </td>
     <td>
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 LGAHOTDU/SEDATU
 

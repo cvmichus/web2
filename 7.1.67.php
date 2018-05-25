@@ -8,17 +8,16 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
-Determinación de los Usos de suelo en un Espacio Edificable y no edificable, así como la definición de los Destinos específicos
-
+Determinación de las áreas que integran y delimitan un centro de población; comprendiendo las Áreas Urbanizadas y Áreas Urbanizables, incluyendo las reservas de crecimiento, las áreas no urbanizables y las áreas naturales protegidas, así como la red de vialidades primarias
 </td>
     <td>
 	
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 LGAHOTDU/SEDATU
 

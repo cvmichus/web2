@@ -8,9 +8,9 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
-El Ordenamiento Ecológico es el Instrumento de Política Ambiental cuyo objetivo es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos.Es competencia del Gobierno Estatal, cuando la región incluye parte o la totalidad del territorio de un estado;
+El Ordenamiento Ecológico es el Instrumento de Política Ambiental cuyo objetivo es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos. Es competencia del Gobierno Estatal, cuando la región incluye parte o la totalidad del territorio de un estado;
 
 </td>
     <td>

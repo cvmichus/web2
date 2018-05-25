@@ -8,17 +8,16 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Determinación de los Usos de suelo en un Espacio Edificable y no edificable, así como la definición de los Destinos específicos
-
 </td>
     <td>
 	
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 LGAHOTDU/SEDATU
 

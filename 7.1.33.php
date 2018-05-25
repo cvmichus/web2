@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 El proceso sistemático de análisis sobre la situación e impacto sociales y ambientales respecto de la Zona y su Área de Influencia;
 </td>
@@ -16,7 +16,7 @@ El proceso sistemático de análisis sobre la situación e impacto sociales y am
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 ZEE / SHCP
 

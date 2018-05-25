@@ -8,13 +8,13 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 Territorio ocupado por los Asentamientos Humanos con redes de infraestructura, equipamientos y servicios;
 </td>
     <td>
  
     </td>
-    <td>
+    <td style="text-align: center;">
  LGAHOTDU/SEDATU
     </td>
 </tr>

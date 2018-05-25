@@ -8,14 +8,14 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 Instancia de carácter consultivo, de conformación plural y de participación ciudadana, para la consulta, la asesoría, el seguimiento y la evaluación de las políticas nacionales en la materia.
 
 </td>
     <td>
   
     </td>
-    <td>
+    <td style="text-align: center;">
     	LGAHOTDU/SEDATU
     </td>
 </tr>

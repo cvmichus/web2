@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 
 Señala las acciones específicas para la Conservación, Mejoramiento y Crecimiento de los Centros de Población y establecerán la Zonificación correspondiente. Igualmente deberán especificar los mecanismos que permitan la instrumentación de sus principales proyectos, tales como constitución de Reservas territoriales, creación de infraestructura, equipamiento, servicios, suelo servido, vivienda, espacios
 

@@ -8,9 +8,9 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;" >
 
-Unidades espaciales básicas del ordenamiento territorial, que agrupan a áreas no urbanizadas, centros urbanos y asentamientos rurales vinculados funcionalmente;
+Delimita las regiones y Sistemas Urbano Rurales que las integran y establece la jerarquización y caracterización de las zonas metropolitanas, Conurbaciones y Centros de Población, así como sus interrelaciones funcionales;
 
 </td>
     <td>
@@ -18,7 +18,7 @@ Unidades espaciales básicas del ordenamiento territorial, que agrupan a áreas 
 
  
     </td>
-    <td>
+    <td style="text-align: center;">
 
 LGAHOTDU/SEDATU
 

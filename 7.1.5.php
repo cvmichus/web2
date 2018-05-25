@@ -8,14 +8,15 @@
 </tr>
 
 <tr>
-    <td >
-   
-Es el órgano colegiado integrado por dependencias y entidades federales cuyo objeto es coordinar la planeación, establecimiento y operación de as ZEE. 
+    <td style="text-align: justify;">
+   Es el órgano colegiado integrado por dependencias y entidades federales cuyo objeto es coordinar la planeación, establecimiento y operación de as ZEE. 
 </td>
-    <td>
-  CEZEE
+    <td style="text-align: center;">
+  CIZEE	
     </td>
-    <td></td>
+    <td style="text-align: center;">
+    	ZEE / SHCP
+    </td>
 </tr>
 </table>
 </p>

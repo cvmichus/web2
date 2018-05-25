@@ -8,9 +8,8 @@
 </tr>
 
 <tr>
-    <td >
-
-Progrmas que determinan la zonificación primaria y los usos compatibles en su nivel fundamental. Incorporan la dimensión ambiental y la gestión integral de la ciudad como garantes de la sustentabilidad. Crean el universo en el que se inscriben los planes municipales de desarrollo, los de centro de población y sus programas parciales.
+    <td style="text-align: justify;" >
+Programas que determinan la zonificación primaria y los usos compatibles en su nivel fundamental. Incorporan la dimensión ambiental y la gestión integral de la ciudad como garantes de la sustentabilidad. Crean el universo en el que se inscriben los planes municipales de desarrollo, los de centro de población y sus programas parciales.
 
 </td>
     <td>

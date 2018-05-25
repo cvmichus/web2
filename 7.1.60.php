@@ -8,10 +8,10 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
     	
-Delimita las regiones y Sistemas Urbano Rurales que las integran y establece la jerarquización y caracterización de las zonas metropolitanas, Conurbaciones y Centros de Población, así como sus interrelaciones funcionales;
-
+Es una práctica política, es un proceso que permite disponer de mejores instrumentos en los ámbitos de acción global, sectorial, institucional, estatal y regional.
+En estos momentos de serias limitaciones, la planeación es imprescindible para atender las prioridades nacionales con los recursos disponibles y asegurar que los esfuerzos para enfrentar las crisis.
 </td>
     <td>
 	
@@ -20,7 +20,6 @@ Delimita las regiones y Sistemas Urbano Rurales que las integran y establece la 
     </td>
     <td>
 
-LGAHOTDU/SEDATU
 
     </td>
 </tr>

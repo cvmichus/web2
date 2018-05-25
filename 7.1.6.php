@@ -8,14 +8,14 @@
 </tr>
 
 <tr>
-    <td >
-Órgano colegiado que funge como instancia intermediaria entre la Autoridad Federal y el Administrador Integral, y tiene por objeto dar seguimiento a la operación de la Zona, evaluando su desempeño y coadyuvando para asegurar el operación de la Zona, evaluando su desempeño y coadyuvando para asegurar el cumplimiento de los objetivos establecidos en la LFZEE.   
+    <td style="text-align: justify;">
+Órgano colegiado que funge como instancia intermediaria entre la Autoridad Federal y el Administrador Integral, y tiene por objeto dar seguimiento a la operación de la Zona, evaluando su desempeño y coadyuvando para asegurar el operación de la Zona, evaluando su desempeño y coadyuvando para asegurar el cumplimiento de los objetivos establecidos en la LFZEE.
 
 </td>
     <td>
   
     </td>
-    <td>
+    <td style="text-align: center;">
     	ZEE/ Legislación Estatal
     </td>
 </tr>

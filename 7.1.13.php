@@ -8,7 +8,7 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 Dependencia del Poder Ejecutivo Federal, a cargo del despacho de los siguientes asuntos:<br>
  I.- Estudiar y formular los proyectos de leyes y disposiciones impositivas, y las leyes de ingresos federal y del Departamento del Distrito Federal
 <br>II.- Cobrar los impuestos, derechos, productos y aprovechamientos federales en los términos de las leyes;
@@ -28,7 +28,7 @@ VII.- Mantener al corriente el evalúo de los bienes muebles nacionales, y reuni
 
 
 </td>
-    <td>
+    <td style="text-align: center;">
   SHCP
     </td>
     <td>

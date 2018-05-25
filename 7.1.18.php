@@ -8,13 +8,13 @@
 </tr>
 
 <tr>
-    <td >
+    <td style="text-align: justify;">
 Las poblaciones urbanas y rurales aledañas a la Zona, susceptibles de percibir beneficios económicos, sociales y tecnológicos, entre otros, derivados de las percibir beneficios económicos, sociales y tecnológicos, entre otros, derivados de las actividades realizadas en la misma, y de las políticas y acciones complementarias previstas en el Programa de Desarrollo, donde además se apoyará el desarrollo de servicios logísticos, financieros, turísticos, de desarrollo de software, entre otros, que sean complementarios a las actividades económicas de la Zona;
 </td>
     <td>
  
     </td>
-    <td>
+    <td style="text-align: center;">
  ZEE/SHCP
     </td>
 </tr>

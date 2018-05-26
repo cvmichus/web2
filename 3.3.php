@@ -7,7 +7,7 @@
 					</div>
 
 						<br><br><br>
-					<div id="instrucciones3" style="text-align:justify;width: 250px;">
+					<div id="instrucciones3" style="text-align:justify;width: 200px;">
 
 					</div>
 					

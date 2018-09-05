@@ -22,6 +22,16 @@
         }
 
 
+
+
+
+
+function cargarDiv(div,url)
+{
+      $(div).load(url);
+}
+
+
 function Carga(url,id)
 {
 //Creamos un objeto dependiendo del navegador
@@ -74,6 +84,12 @@ function limpiar2()
    document.getElementById("contenido2.2").innerHTML="";
 }
        
+
+        function cargard1(div, desde)
+    {
+    $(div).load(desde);
+    }
+
         
     function cargar(div, desde)
     {
@@ -1751,10 +1767,24 @@ function limpiar2()
             
                  } 
  
-	function cargar7(div, desde)
+                  function cargar7(div, desde)
+                  {
+                  $(div).load(desde);
+                  }
+
+
+                  function cargar8(div, desde)
                 {
                 $(div).load(desde);
                 }
+
+                 function limpiar8()
+                {
+                document.getElementById("instrucciones0").innerHTML="";
+                }
+
+
+
 
                 function limpiar7()
                 {

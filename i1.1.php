@@ -1,4 +1,4 @@
-<h6>INSTRUCCIONES:</h6>
+﻿<h6>INSTRUCCIONES:</h6>
 <p  style="font-size:8pt;color:#000;text-decoration: none;font-style: oblique;text-align:justify;width: 300px">
-	En este apartado encontrará el concepto, propósito, caracteristiticas para la promoción de  ZEE
+	Antes de iniciar con el ejercicio de planeación, debe tener claridad sobre algunos aspectos generales sobre las Zonas Económicas Especiales. Aquí encontrará información relativa a la definición de Zona Económica Especial, los municipios en los que pueden ubicarse, las autoridades federales que intervendrán en ellas, sus atribuciones, roles,  corresponsabilidades y el marco normativo que las rige; así como la participación del Banco Interamericano de Desarrollo como instancia internacional que presta asistencia técnica
 </p>

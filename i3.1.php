@@ -1,4 +1,4 @@
-<h6>INSTRUCCIONES:</h6>
+﻿<h6>INSTRUCCIONES:</h6>
 <p  style="font-size:8pt;color:#000;text-decoration: none;font-style: oblique;text-align:justify;width: 200px">
-En este apartado podrá encontrar las atribuciones de las dependencias federales aplicables para contrarestar el rezago económico y social dentro de la ZEE. Adicionalmente, encontrará las attributions del Banco Interamericano de Desarrollo para proveer asistencia técnica.
+En este apartado encontrará la información base del diagnóstico e información considerada en los estudios técnicos como Ciudad Emergente Sostenibe (CES) así como el marco normativo aplicable para la planeación para el caso específico de Tapachula.
 </p>

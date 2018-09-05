@@ -1,11 +1,11 @@
 <p style="color:#e3313d">
-Apoyar el Modelo de Desarrollo Urbano Sustentable.
+Apoyar el modelo de desarrollo urbano sustentable. 
 </p>
 <p style="color:#e3313d"> 
 Dar certeza jurídica a la tenencia de la tierra.
 </p>
 <p style="color:#e3313d">
-Definir mecanismos de control de crecimiento poblacional en ciudades y zonas metropolitanas .
+Definir mecanismos de control de crecimiento poblacional en ciudades y zonas metropolitanas. 
 </p>
 <p style="color:#e3313d">
 Instrumentar nuevos esquemas de adquisición de vivienda.
@@ -17,7 +17,7 @@ Planificar, coordinar, administrar y ejecutar políticas públicas de ordenamien
 Otorgar certeza jurídica a los núcleos agrarios.
 </p>
 <p style="color:#e3313d">
-Mejorar la calidad de la vida en  zonas rurales.
+Mejorar la calidad de la vida en zonas rurales. 
 </p>
 <p style="color:#e3313d">
 

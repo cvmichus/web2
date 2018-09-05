@@ -1,4 +1,4 @@
 <h6>DESCRIPCION:</h6>
 <p  style="font-size:8pt;color:#000;text-decoration: none;font-style: oblique;text-align:justify;width: 200px">
-Se presenta el marco legal y normativo aplicable de orden  federal, estatal y municipal 
+En este apartado se encuentra vertida toda la normatividad aplicable para la ZEE de Lázaro Cárdenas en cada uno de los ámbitos (federal, estatal y municipal), y para cada uno de los temas correspondientes a los ejes de CES. La tabla le servirá para identificar de manera temática aquellos instrumentos que debería revisar al momento de planear. Es decir, si habrá estrategias en sus planes que impacten de alguna manera alguno de los temas de la tabla, este insumo le permitirá rápidamente identificar aquellos instrumentos que deberá revisar para evitar planear algo que contravenga las disposiciones legales específicas. No es necesario que utilice todas las normas que se presentan el la tabla 
 </p>

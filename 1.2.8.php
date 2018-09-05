@@ -1,21 +1,9 @@
-
+﻿
 <p style="color:#3f1678">
-Controlar, dirigir y regular los usos, reservas y destinos del suelo.
+De acuerdo con lo dispuesto en el artículo 115 Constitucional y con la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, los municipios, en materia de planeación del ordenamiento territorial son:
 </p>
 <p style="color:#3f1678">
-Definir áreas de crecimiento territorial.
-</p>
-<p style="color:#3f1678">
-Cubrir déficit de  infraestructura urbana.
-</p>
-<p style="color:#3f1678">
-Mejorar la cobertura del equipamiento urbano.
-</p>
-<p style="color:#3f1678">
-Mejorar la calidad  de vida de la población.
-</p>
-<p style="color:#3f1678">
-Cubrir déficit de equipamiento asistenciario.
+Formular, aprobar, administrar y ejecutar los planes o programas municipales de Desarrollo Urbano, de Centros de Población y los demás que de éstos deriven, adoptando normas o criterios de congruencia, coordinación y ajuste con otros niveles superiores de planeación, las normas oficiales mexicanas, así como evaluar y vigilar su cumplimiento. 
 </p>
   <style>
 	p{

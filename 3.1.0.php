@@ -1,4 +1,4 @@
-<!--TAPACHULA-->
+﻿<!--TAPACHULA-->
 <span id="sss311" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('3.1.1.php','','contenido3.3');activasec311();Carga('i3.1.1.php','instrucciones3')" >3.1.1 La ciudad de Tapachula</span><br><br>
 
 <span id="sss312" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('3.1.2.php','','contenido3.3');activasec312();Carga('i3.1.2.php','instrucciones3')">3.1.2 Diagnóstico Sintético</span><br><br>
@@ -14,8 +14,8 @@
 <span id="sss316" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('3.1.6.php','','contenido3.3');activasec316();Carga('i3.1.6.php','instrucciones3')">3.1.6 Marco Legal Tapachula</span><br><br>
 
 
-<span id="sss317" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('3.1.7.php','','contenido3.3');activasec317();Carga('i3.1.7.php','instrucciones3')">3.1.7  Programa metropolitano de desarrollo urbano,ordenamiento territorialy/0 conurbación </span><br><br>
+<span id="sss317" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('3.1.7.php','','contenido3.3');activasec317();Carga('i3.1.7.php','instrucciones3')">3.1.7Programa Metropolitano de Ordenamiento Territorial y Desarrollo Urbano.</span><br><br>
 
-<span id="sss318" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('3.1.8.php','','contenido3.3');activasec318();Carga('i3.1.8.php','instrucciones3')">3.1.8 Programa de desarrollo de la zee </span><br><br>
+<span id="sss318" style="font-size:9pt;color:#1e2f43;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('3.1.8.php','','contenido3.3');activasec318();Carga('i3.1.8.php','instrucciones3')">3.1.8 Programa de desarrollo de la ZEE </span><br><br>
 <!--
 -->

@@ -1,4 +1,4 @@
-<h6>INSTRUCCIONES:</h6>
+﻿<h6>INSTRUCCIONES:</h6>
 <p  style="font-size:8pt;color:#000;text-decoration: none;font-style: oblique;text-align:justify;width: 300px">
-	En este apartado encontrarán las atribuciones generales y competencias de las diferentes instancias de gobierno en el desarrollo urbano y ordenamiento territiorial, así como las del Banco Interamericano de Desarrollo.
+	En este apartado encontrarán las atribuciones generales y competencias que inciden en el desarrollo urbano y el ordenamiento territorial de los municipios declarados como Zonas Económicas Especiales, por parte de las diferentes instancias de gobierno federal competentes; así como las de los municipios en materia de planeación. Las atribuciones correspondientes a las Secretarías del Ejecutivo Federal, emanan de la Ley Orgánica de la Administración Pública Federal. Los colores de cada instancia se relacionan con esquemas que se presentan más adelante.
 </p>

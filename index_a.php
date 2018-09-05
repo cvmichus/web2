@@ -4,7 +4,7 @@
 
 <head>
 
-   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
     <title>OTyDUZEE.MX</title>
 
@@ -19,6 +19,10 @@
 	<link href='favicon.ico' rel='shortcut icon' type='image/x-icon'/>
 
     <!-- Style -->
+
+
+
+  
    
     <link href="plugins/Icons/et-line-font/style.css" rel="stylesheet">
     <link href="plugins/animate.css/animate.css" rel="stylesheet">
@@ -71,80 +75,6 @@
             }
         </script>
 
-        <script>
-             function cargard1(){
-            var url="d1.1.php"
-            $.ajax({   
-                type: "GET",
-                url:url,
-                data:{},
-                success: function(datos){       
-                    $('#instrucciones0').html(datos);
-                }
-            });
-        }
-        </script>
-
-
-          <script>
-             function cargard2(){
-            var url="d2.2.php"
-            $.ajax({   
-                type: "GET",
-                url:url,
-                data:{},
-                success: function(datos){       
-                    $('#instrucciones2').html(datos);
-                }
-            });
-        }
-        </script>
-
-
-            <script>
-             function cargard3(){
-            var url="d3.3.php"
-            $.ajax({   
-                type: "GET",
-                url:url,
-                data:{},
-                success: function(datos){       
-                    $('#instrucciones3').html(datos);
-                }
-            });
-        }
-        </script>
-
-
-          <script>
-             function cargard4(){
-            var url="d4.4.php"
-            $.ajax({   
-                type: "GET",
-                url:url,
-                data:{},
-                success: function(datos){       
-                    $('#instrucciones4').html(datos);
-                }
-            });
-        }
-        </script>
-
-
-          <script>
-             function cargard5(){
-            var url="d5.5.php"
-            $.ajax({   
-                type: "GET",
-                url:url,
-                data:{},
-                success: function(datos){       
-                    $('#instrucciones6').html(datos);
-                }
-            });
-        }
-        </script>
-
     <!-- Icons Font -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
@@ -158,7 +88,7 @@
 
 </head>
 
-<body  id="home" onload="cargar('#contenido1', '1.1.php');cargar2('#contenido2', '2.2.php');cargar3('#contenido3', '3.3.php');cargar4('#contenido4', '4.4.php');cargar5('#contenido5', '5.5.php');cargar6('#contenido6', '6.6.php');cargar7('#contenido7', '7.7.php');cargar8('#contenido8', '8.8.php');cargard1();cargard2();cargard3();cargard4();cargard5();">
+<body  id="home" class="row wow fadeInUp" data-wow-delay=".2s" onload="cargar('#contenido1', '1.1.php');cargar2('#contenido2', '2.2.php');cargar3('#contenido3', '3.3.php');cargar4('#contenido4', '4.4.php');cargar5('#contenido5', '5.5.php');cargar6('#contenido6', '6.6.php');cargar7('#contenido7', '7.7.php');">
     <!-- Preloader
     ============================================= -->
     <div  class="preloader"><i class="fa fa-circle-o-notch fa-spin fa-2x"></i></div>
@@ -197,7 +127,6 @@
                     <!--<li><a href="#insumos" class="page-scroll">INSUMOS</a></li>-->
                       <li><a href="#planes" class="page-scroll">PASO 5 INDICES</a></li>
                       <li><a href="#glosario" class="page-scroll">GLOSARIO</a></li>
-                       <li><a href="#creditos" class="page-scroll">Creditos</a></li>
 
 
           </ul>
@@ -217,9 +146,7 @@
 
                             <p><center style="font-size: 1.2em; font-family: Montserrat;font-weight:999; color:#1e2f43;" >ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO <br>PARA ZONAS ECONÓMICAS ESPECIALES</center></p>
 
-                            <p ><center  style="font-size: 1em; font-family: Montserrat;; color:#000;text-align: justify;" >Esta Guía es una ruta sintética para la implementación de programas de desarrollo urbano en las ciudades y municipios declarados como Zona Económica Especial. Además vincula las propuestas del Plan de Acción del Programa de Ciudades Emergentes al Programa de Desarrollo Urbano correspondiente. Finalmente, expone e informa sobre los diferentes instrumentos de planeación tanto de AFZEE como de Sedatu. La Guía propone índices para elaborar el Programa de Desarrollo correspondiente a cada zona. Esta guía vincula los diferentes instrumentos de planeación con el Plan de Acción y expone la cartera de proyectos y acciones en el corto mediano y largo plazo. La Guía ha sido elaborada por el Banco Interamericano de Desarrollo en colaboración con la Secretaría de Desarrollo Agrario, Territorial y Urbano y la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales. 
-Primera Edición. Mayo de 2018
-</center></p>
+                            <p ><center  style="font-size: 1em; font-family: Montserrat;; color:#000;text-align: justify;" >Esta Guía es una ruta sintética para la implementación de programas de desarrollo urbano en las ciudades y municipios declarados como Zona Económica Especial. Además vincula  las propuestas del Plan de Acción del Programa de Ciudades Emergentes al Programa de Desarrollo Urbano. Finalmente, expone e informa sobre los diferentes instrumentos de planeación tanto de AFZEE como de Sedatu. La Guía propone índices para elaborar el Programa de Desarrollo correspondiente a cada zona. Esta guía vincula los diferentes instrumentos de planeación con el Plan de Acción y expone la cartera de proyectos y acciones en el corto mediano y largo plazo.</center></p>
                    </div>
 	</center>
 	</div>
@@ -305,19 +232,6 @@ Primera Edición. Mayo de 2018
 
         <div class="glosario-box">
         <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido7">
-        </div>
-        </div>
-        </div>
-        </section>
-    <br><br>
-
-
-
-        <section id="creditos">
-        <div class="container">
-
-        <div class="glosario-box">
-        <div class="row wow fadeInUp" data-wow-delay=".2s" id="contenido8">
         </div>
         </div>
         </div>

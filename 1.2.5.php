@@ -2,16 +2,16 @@
 Construcción y modernización de carreteras, caminos rurales y alimentadores, libramientos y puentes. 
 </p>
 <p style="color:#7b223c">
-Fortalecer  la red de carreteras federales.
+Fortalecer la red de carreteras federales. 
 </p>
 <p style="color:#7b223c">
-(ASA) Participar en el desarrollo de nuevas instalaciones aeroportuarias.
+Participar en el desarrollo de nuevas instalaciones aeroportuarias. 
 </p>
 <p style="color:#7b223c">
-(TRANSPORTE FERROVIARIO) Reducir costos logísticos con libramientos y relocalización de vías, acortamientos y obras de conexión a los nodos logísticos.
+Reducir costos logísticos con libramientos y relocalización de vías, acortamientos y obras de conexión a los nodos logísticos. 
 </p>
 <p style="color:#7b223c">
-(TRANSPORTE FERROVIARIO) Mejorar la seguridad ferroviaria a través de conservación y modernización de vías, puentes y un programa integral de seguridad ferroviaria.
+Mejorar la seguridad ferroviaria a través de conservación y modernización de vías, puentes y un programa integral de seguridad ferroviaria. 
 </p>
 
   <style>

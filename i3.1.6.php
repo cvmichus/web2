@@ -1,4 +1,4 @@
 <h6>DESCRIPCION:</h6>
 <p  style="font-size:8pt;color:#000;text-decoration: none;font-style: oblique;text-align:justify;width: 200px">
-	Se presenta el marco legal y normativo aplicable de orden  federal, estatal y municipal 
+	En este apartado se encuentra vertida toda la normatividad de cada uno de los ambitos, y para cada uno de los temas correspondientes a los ejes de CES. Las tablas le serviran para identificar de manera tematica aquellos instrumentos que deberian revisar al momento de planear. Es decir, si habra estrategias en sus planes que impacten de alguna manera alguno de los temas de la tabla, este insumo le permitira rapidamente identificar aquellos instrumentos que debera revisar para evitar planear algo que contravenga las disposiciones legales especificas. No es necesario que utilice todas las normas que se presentan en la tabla.  
 </p>

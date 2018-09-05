@@ -5,7 +5,7 @@
 
 <span id="sss3.3" style="font-size:8pt;color:#f0b65a;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('1.3.3.php','','contenido1.1');activasss15();">1.3.3 SEMARNAT</span><br><br>
 
-<span id="sss3.4" style="font-size:8pt;color:#e37435;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('1.3.4.php','','contenido1.1');activasss16();">1.3.4 TURISMO</span><br><br>
+<span id="sss3.4" style="font-size:8pt;color:#e37435;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('1.3.4.php','','contenido1.1');activasss16();">1.3.4 SECTUR</span><br><br>
 
 <span id="sss3.5" style="font-size:8pt;color:#7b223c;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('1.3.5.php','','contenido1.1');activasss17();">1.3.5 SCT (ASA + API + Transporte Ferroviario)</span><br><br>
 
@@ -15,4 +15,4 @@
 
 <span id="sss3.8" style="font-size:8pt;color:#c16c95;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('1.3.8.php','','contenido1.1');activasss20();">1.3.8 MUNICIPIO</span><br><br>
 
-<span id="sss3.9" style="font-size:8pt;color:#3f1678;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('1.3.9.php','','contenido1.1');activasss21();">1.3.9 BID CES</span><br>
+<span id="sss3.9" style="font-size:8pt;color:#3f1678;text-decoration:none;cursor: pointer;" onclick="ejecuta_ajax('1.3.9.php','','contenido1.1');activasss21();"></span><br>

@@ -14,14 +14,9 @@
 
                     </div>
 
-                    <div class="col-md-4">
+                   
 
-                        <div  style="text-align:justify;" id="contenido1.0">
-
-                        </div>
-                    </div>
-
-						<div class="col-md-4">
+						<div class="col-md-8">
 
 						<div id="global">
 						<div id="contenido1.1">

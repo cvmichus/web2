@@ -1,0 +1,23 @@
+<p>
+La Ley Federal de Zonas Económicas Especiales reconoce dos ámbitos de aplicación: 
+</p>
+<p>
+<ul id="este">
+<li>o	El polígono amplio, como  ámbito  territorial donde podrán establecerse secciones, señalando las entidades federativas y los municipios en los que se ubicará la zona, y </li>
+<li>o	El predio federal, los inmuebles del dominio público de la federación que serán destinados a establecerse en  la zona”</li>
+</ul>
+</p>
+
+
+
+
+ <style>
+	p{
+		font-size:10pt;color:#1e2f43;text-decoration:none; width:600px; text-align:left;
+		}
+
+		#este{
+			font-size:10pt;color:#1e2f43;text-decoration:none; width:600px; text-align:left;
+		}
+	
+		</style>
